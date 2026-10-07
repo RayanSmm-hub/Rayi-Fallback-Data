@@ -56,5 +56,6 @@
     572,
     649
   ],
-  "note": "Public watchlist for temporary Ray.i fallback monitoring. Contains only public FPL player IDs."
+  "note": "Public watchlist for temporary Ray.i fallback monitoring. Contains only public FPL player IDs.",
+  "trigger_version": 1
 }
