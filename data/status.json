@@ -1,0 +1,8 @@
+{
+  "service": "Ray.i FPL fallback data",
+  "schema_version": 1,
+  "state": "BOOTSTRAPPING",
+  "updated_at": "2026-10-07T08:55:00Z",
+  "target_event": 6,
+  "note": "Public read-only fallback data. No secrets or private model code."
+}
