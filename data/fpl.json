@@ -239,7 +239,7 @@
       "news_added": "2026-09-24T22:00:09.120308Z",
       "now_cost": 76,
       "position": "FWD",
-      "selected_by_percent": "8.1",
+      "selected_by_percent": "8.0",
       "status": "d",
       "team_id": 1,
       "team_name": "Arsenal",
@@ -257,7 +257,7 @@
       "news_added": "2026-10-05T09:30:09.853316Z",
       "now_cost": 46,
       "position": "DEF",
-      "selected_by_percent": "19.2",
+      "selected_by_percent": "19.1",
       "status": "d",
       "team_id": 1,
       "team_name": "Arsenal",
@@ -1031,7 +1031,7 @@
       "news_added": "2026-09-24T21:30:10.382142Z",
       "now_cost": 57,
       "position": "FWD",
-      "selected_by_percent": "6.9",
+      "selected_by_percent": "6.8",
       "status": "d",
       "team_id": 20,
       "team_name": "Sunderland",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 6,
-  "updated_at": "2026-10-07T08:58:22Z"
+  "updated_at": "2026-10-07T10:25:31Z"
 }

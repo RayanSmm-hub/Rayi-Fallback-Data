@@ -1,54 +1,54 @@
 {
-  "schema_version": 1,
-  "updated_at": "2026-10-07T08:58:22Z",
   "events": [
     {
+      "detail": "Available -> doubtful (75%); unspecified injury.",
       "detected_at": "2026-10-05T09:30:09.853316Z",
-      "type": "availability_change",
       "player_id": 31,
-      "web_name": "Konsa",
       "source": "official_fpl",
-      "detail": "Available -> doubtful (75%); unspecified injury."
+      "type": "availability_change",
+      "web_name": "Konsa"
     },
     {
+      "detail": "Price 5.8 -> 5.9",
       "detected_at": "2026-10-07T08:58:22Z",
-      "type": "price_recovered_from_gap",
       "player_id": 8,
-      "web_name": "Calafiori",
       "source": "official_fpl_comparison",
-      "detail": "Price 5.8 -> 5.9"
+      "type": "price_recovered_from_gap",
+      "web_name": "Calafiori"
     },
     {
+      "detail": "Price 9.5 -> 9.6",
       "detected_at": "2026-10-07T08:58:22Z",
-      "type": "price_recovered_from_gap",
       "player_id": 12,
-      "web_name": "Saka",
       "source": "official_fpl_comparison",
-      "detail": "Price 9.5 -> 9.6"
+      "type": "price_recovered_from_gap",
+      "web_name": "Saka"
     },
     {
+      "detail": "Price 7.7 -> 7.8",
       "detected_at": "2026-10-07T08:58:22Z",
-      "type": "price_recovered_from_gap",
       "player_id": 40,
-      "web_name": "Rogers",
       "source": "official_fpl_comparison",
-      "detail": "Price 7.7 -> 7.8"
+      "type": "price_recovered_from_gap",
+      "web_name": "Rogers"
     },
     {
+      "detail": "Price 6.1 -> 6.2",
       "detected_at": "2026-10-07T08:58:22Z",
-      "type": "price_recovered_from_gap",
       "player_id": 229,
-      "web_name": "Tarkowski",
       "source": "official_fpl_comparison",
-      "detail": "Price 6.1 -> 6.2"
+      "type": "price_recovered_from_gap",
+      "web_name": "Tarkowski"
     },
     {
+      "detail": "Price 7 -> 6.9",
       "detected_at": "2026-10-07T08:58:22Z",
-      "type": "price_recovered_from_gap",
       "player_id": 368,
-      "web_name": "Szoboszlai",
       "source": "official_fpl_comparison",
-      "detail": "Price 7 -> 6.9"
+      "type": "price_recovered_from_gap",
+      "web_name": "Szoboszlai"
     }
-  ]
+  ],
+  "schema_version": 1,
+  "updated_at": "2026-10-07T10:25:31Z"
 }
