@@ -133,7 +133,7 @@ for source, url in RSS.items():
             hay = textnorm(title + " " + re.sub("<[^>]+>", " ", desc))
             matched = []
             for pid, terms in aliases.items():
-                if any(term in hay for term in terms):
+                if any(phrase_match(hay, term) for term in terms):
                     matched.append(pid)
             if matched:
                 news_items.append({
@@ -190,7 +190,67 @@ status_payload = {
     "note": "Temporary public read-only fallback. No secrets, private model code, or personal identifiers."
 }
 
+# Compact history: keep only meaningful changes, not every half-hour snapshot.
+history_path = DATA / "history.json"
+try:
+    history = json.loads(history_path.read_text(encoding="utf-8"))
+except Exception:
+    history = {"schema_version": 1, "events": []}
+events = list(history.get("events", []))
+
+try:
+    prev_fpl = json.loads((DATA / "fpl.json").read_text(encoding="utf-8"))
+except Exception:
+    prev_fpl = {}
+prev_players = {int(p["id"]): p for p in prev_fpl.get("players", []) if p.get("id") is not None}
+
+for p in players:
+    old = prev_players.get(int(p["id"]))
+    if not old:
+        continue
+    checks = [
+        ("status", old.get("status"), p.get("status")),
+        ("chance_of_playing_next_round", old.get("chance_of_playing_next_round"), p.get("chance_of_playing_next_round")),
+        ("news", old.get("news") or "", p.get("news") or ""),
+        ("now_cost", old.get("now_cost"), p.get("now_cost")),
+    ]
+    changed = {k: {"before": a, "after": b} for k,a,b in checks if a != b}
+    if changed:
+        events.append({
+            "detected_at": updated_at,
+            "type": "player_state_change",
+            "player_id": p["id"],
+            "web_name": p.get("web_name"),
+            "source": "official_fpl",
+            "changes": changed,
+        })
+
+try:
+    prev_news = json.loads((DATA / "news.json").read_text(encoding="utf-8"))
+except Exception:
+    prev_news = {}
+prev_keys = {(x.get("url") or x.get("title")) for x in prev_news.get("items", [])}
+for item in deduped:
+    key = item.get("url") or item.get("title")
+    if key and key not in prev_keys:
+        events.append({
+            "detected_at": updated_at,
+            "type": "trusted_news_match",
+            "source": item.get("source"),
+            "title": item.get("title"),
+            "url": item.get("url"),
+            "published_at_raw": item.get("published_at_raw"),
+            "matched_player_ids": item.get("matched_player_ids", []),
+        })
+
+history = {
+    "schema_version": 1,
+    "updated_at": updated_at,
+    "events": events[-500:],
+}
+
 write_json("fpl.json", fpl_payload)
 write_json("news.json", news_payload)
 write_json("status.json", status_payload)
+write_json("history.json", history)
 print(json.dumps(status_payload, ensure_ascii=False))
