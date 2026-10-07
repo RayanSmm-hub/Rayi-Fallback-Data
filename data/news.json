@@ -1,0 +1,31 @@
+{
+  "errors": [],
+  "items": [
+    {
+      "matched_player_ids": [
+        1,
+        399
+      ],
+      "published_at_raw": "Tue, 06 Oct 2026 20:20:01 GMT",
+      "source": "bbc_sport",
+      "title": "Villa eye Endrick loan deal - Wednesday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm75pl4dw5rpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Tue, 06 Oct 2026 04:56:59 GMT",
+      "source": "bbc_sport",
+      "title": "Wales focus on Albania as Grainger reunion looms",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c617j1klwpwqo?at_medium=RSS&at_campaign=rss"
+    }
+  ],
+  "schema_version": 1,
+  "sources": [
+    "bbc_sport",
+    "sky_sports"
+  ],
+  "target_event": 6,
+  "updated_at": "2026-10-07T08:57:42Z"
+}
