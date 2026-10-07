@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "window_start": "2026-09-29T00:00:00Z",
+  "window_end": "2026-10-07T08:58:22Z",
+  "target_event": 6,
+  "reconstruction_method": "Compare last Ray.i Supabase snapshots before outage with current official FPL snapshot, plus trusted public-source recovery.",
+  "material_changes": {
+    "availability": [
+      {
+        "player_id": 31,
+        "web_name": "Konsa",
+        "change": "available_to_doubtful",
+        "before_status": "a",
+        "after_status": "d",
+        "chance_of_playing_next_round": 75,
+        "official_fpl_news": "Unspecified injury - 75% chance of playing",
+        "official_fpl_news_added": "2026-10-05T09:30:09.853316Z"
+      }
+    ],
+    "prices": [
+      {
+        "player_id": 8,
+        "web_name": "Calafiori",
+        "before": 58,
+        "after": 59
+      },
+      {
+        "player_id": 12,
+        "web_name": "Saka",
+        "before": 95,
+        "after": 96
+      },
+      {
+        "player_id": 40,
+        "web_name": "Rogers",
+        "before": 77,
+        "after": 78
+      },
+      {
+        "player_id": 229,
+        "web_name": "Tarkowski",
+        "before": 61,
+        "after": 62
+      },
+      {
+        "player_id": 368,
+        "web_name": "Szoboszlai",
+        "before": 70,
+        "after": 69
+      }
+    ],
+    "current_flagged_players": [
+      {
+        "player_id": 10,
+        "web_name": "White",
+        "status": "d",
+        "chance_of_playing_next_round": 75,
+        "news": "Groin injury - 75% chance of playing",
+        "news_added": "2026-09-20T19:30:08.247780Z"
+      },
+      {
+        "player_id": 26,
+        "web_name": "Havertz",
+        "status": "d",
+        "chance_of_playing_next_round": 75,
+        "news": "Hamstring injury - 75% chance of playing",
+        "news_added": "2026-09-24T22:00:09.120308Z"
+      },
+      {
+        "player_id": 31,
+        "web_name": "Konsa",
+        "status": "d",
+        "chance_of_playing_next_round": 75,
+        "news": "Unspecified injury - 75% chance of playing",
+        "news_added": "2026-10-05T09:30:09.853316Z"
+      },
+      {
+        "player_id": 154,
+        "web_name": "Palmer",
+        "status": "d",
+        "chance_of_playing_next_round": 75,
+        "news": "Muscular injury - 75% chance of playing",
+        "news_added": "2026-09-21T13:00:09.022726Z"
+      },
+      {
+        "player_id": 165,
+        "web_name": "João Pedro",
+        "status": "d",
+        "chance_of_playing_next_round": 75,
+        "news": "Knee injury - 75% chance of playing",
+        "news_added": "2026-09-16T19:00:09.919929Z"
+      },
+      {
+        "player_id": 367,
+        "web_name": "Gakpo",
+        "status": "d",
+        "chance_of_playing_next_round": 75,
+        "news": "Ankle injury - 75% chance of playing",
+        "news_added": "2026-09-27T21:30:07.786183Z"
+      },
+      {
+        "player_id": 379,
+        "web_name": "Isak",
+        "status": "d",
+        "chance_of_playing_next_round": 75,
+        "news": "Thigh injury - 75% chance of playing",
+        "news_added": "2026-09-27T10:30:09.051435Z"
+      },
+      {
+        "player_id": 397,
+        "web_name": "Semenyo",
+        "status": "d",
+        "chance_of_playing_next_round": 75,
+        "news": "Ankle injury - 75% chance of playing",
+        "news_added": "2026-09-24T12:00:09.848000Z"
+      },
+      {
+        "player_id": 552,
+        "web_name": "Brobbey",
+        "status": "d",
+        "chance_of_playing_next_round": 75,
+        "news": "Hamstring injury - 75% chance of playing",
+        "news_added": "2026-09-24T21:30:10.382142Z"
+      }
+    ]
+  },
+  "continuity_check": {
+    "watched_players": 53,
+    "any_total_points_change_detected": false,
+    "any_minutes_change_detected": false,
+    "note": "No new FPL match-output points/minutes were missed in the outage window for the monitored watchlist."
+  },
+  "carry_forward_trusted_context": [
+    {
+      "player_id": 367,
+      "web_name": "Gakpo",
+      "published_at": "2026-09-28",
+      "source": "Liverpool FC",
+      "summary": "Withdrew from Netherlands duty with an ankle injury and returned to Liverpool for assessment.",
+      "url": "https://www.liverpoolfc.com/news/cody-gakpo-withdraws-international-duty"
+    },
+    {
+      "player_id": 379,
+      "web_name": "Isak",
+      "published_at": "2026-09-27",
+      "source": "Liverpool FC",
+      "summary": "Returned early from Sweden duty due to a minor injury for club assessment.",
+      "url": "https://www.liverpoolfc.com/news/alexander-isak-return-international-duty"
+    }
+  ],
+  "limitation": "This reconstructs material state changes and recoverable trusted news; it cannot recreate every intermediate half-hour snapshot that never existed during the outage."
+}
