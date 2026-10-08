@@ -60,8 +60,85 @@
       "source": "official_fpl",
       "type": "player_state_change",
       "web_name": "Greaves"
+    },
+    {
+      "detected_at": "2026-10-08T09:45:19Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Wed, 07 Oct 2026 19:24:19 GMT",
+      "source": "bbc_sport",
+      "title": "Ex-Spurs player Vega set to run for Fifa president",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c607397pjv37o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-08T09:45:19Z",
+      "matched_player_ids": [
+        40
+      ],
+      "published_at_raw": "Wed, 07 Oct 2026 20:31:17 GMT",
+      "source": "bbc_sport",
+      "title": "'Amazing' Kane targets 100 international goals",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm75pwl3w2x7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-08T09:45:19Z",
+      "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Wed, 07 Oct 2026 17:42:30 GMT",
+      "source": "bbc_sport",
+      "title": "Barry-Murphy and Bellamy 'so similar' - Lawlor",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5y43n38z0ndo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-08T09:45:19Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Wed, 07 Oct 2026 13:01:53 GMT",
+      "source": "bbc_sport",
+      "title": "How fans are falling in love with football again",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmp302xqx5yyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-08T09:45:19Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Wed, 07 Oct 2026 15:53:00 GMT",
+      "source": "bbc_sport",
+      "title": "BBC Women's Football Weekly",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pfh6lh?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-08T09:45:19Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Thu, 08 Oct 2026 09:00:00 BST",
+      "source": "sky_sports",
+      "title": "PL returns! Man City in spotlight, big Old Trafford showdown and Gyokeres' chance",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13595301/premier-league-talking-points-man-city-in-spotlight-with-trip-to-liverpool-man-utd-and-spurs-desperate-for-win-and-viktor-gyokeres-arsenal-chance"
+    },
+    {
+      "detected_at": "2026-10-08T09:45:19Z",
+      "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Thu, 08 Oct 2026 10:00:00 BST",
+      "source": "sky_sports",
+      "title": "'He was on the floor' - How Barry is overcoming his Everton struggles",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13595690/thierno-barrys-everton-revival-striker-hit-rock-bottom-last-season-but-is-working-hard-to-turn-his-toffees-career-around"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-08T07:50:25Z"
+  "updated_at": "2026-10-08T09:45:19Z"
 }
