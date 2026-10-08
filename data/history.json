@@ -137,8 +137,40 @@
       "title": "'He was on the floor' - How Barry is overcoming his Everton struggles",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13595690/thierno-barrys-everton-revival-striker-hit-rock-bottom-last-season-but-is-working-hard-to-turn-his-toffees-career-around"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 0,
+          "before": 75
+        },
+        "news": {
+          "after": "Hamstring injury - Expected back 25 Oct",
+          "before": "Hamstring injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "i",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-08T15:16:45Z",
+      "player_id": 552,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Brobbey"
+    },
+    {
+      "detected_at": "2026-10-08T15:16:45Z",
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Thu, 08 Oct 2026 16:00:00 BST",
+      "source": "sky_sports",
+      "title": "'Stick together, enjoy the ride and smile' - Haaland's message to Man City fans",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13596522/man-city-charges-erling-haaland-encourages-clubs-fans-to-stay-positive-after-guilty-verdict"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-08T09:45:19Z"
+  "updated_at": "2026-10-08T15:16:45Z"
 }
