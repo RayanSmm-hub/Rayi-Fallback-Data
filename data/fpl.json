@@ -275,7 +275,7 @@
       "news_added": null,
       "now_cost": 78,
       "position": "MID",
-      "selected_by_percent": "40.9",
+      "selected_by_percent": "41.0",
       "status": "a",
       "team_id": 6,
       "team_name": "Chelsea",
@@ -419,7 +419,7 @@
       "news_added": null,
       "now_cost": 50,
       "position": "DEF",
-      "selected_by_percent": "28.2",
+      "selected_by_percent": "28.3",
       "status": "a",
       "team_id": 5,
       "team_name": "Brighton",
@@ -579,7 +579,7 @@
       "minutes": 357,
       "news": "",
       "news_added": null,
-      "now_cost": 40,
+      "now_cost": 39,
       "position": "DEF",
       "selected_by_percent": "1.1",
       "status": "a",
@@ -617,7 +617,7 @@
       "news_added": null,
       "now_cost": 60,
       "position": "FWD",
-      "selected_by_percent": "24.7",
+      "selected_by_percent": "24.6",
       "status": "a",
       "team_id": 13,
       "team_name": "Leeds",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 6,
-  "updated_at": "2026-10-07T21:28:34Z"
+  "updated_at": "2026-10-08T01:14:14Z"
 }

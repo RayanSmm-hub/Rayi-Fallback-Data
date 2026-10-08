@@ -47,8 +47,21 @@
       "source": "official_fpl_comparison",
       "type": "price_recovered_from_gap",
       "web_name": "Szoboszlai"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 39,
+          "before": 40
+        }
+      },
+      "detected_at": "2026-10-08T01:14:14Z",
+      "player_id": 306,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Greaves"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-07T21:28:34Z"
+  "updated_at": "2026-10-08T01:14:14Z"
 }
