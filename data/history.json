@@ -169,8 +169,19 @@
       "title": "'Stick together, enjoy the ride and smile' - Haaland's message to Man City fans",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13596522/man-city-charges-erling-haaland-encourages-clubs-fans-to-stay-positive-after-guilty-verdict"
+    },
+    {
+      "detected_at": "2026-10-08T20:45:49Z",
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Thu, 08 Oct 2026 16:00:00 BST",
+      "source": "sky_sports",
+      "title": "Haaland speaks for the first time following Man City's guilty verdict",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13596548/erling-haaland-sends-message-to-fans-following-man-city-guilty-verdict"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-08T15:16:45Z"
+  "updated_at": "2026-10-08T20:45:49Z"
 }

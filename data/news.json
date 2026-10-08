@@ -57,12 +57,12 @@
     },
     {
       "matched_player_ids": [
-        385
+        411
       ],
-      "published_at_raw": "Thu, 08 Oct 2026 09:00:00 BST",
+      "published_at_raw": "Thu, 08 Oct 2026 16:00:00 BST",
       "source": "sky_sports",
-      "title": "PL returns! Man City in spotlight, big Old Trafford showdown and Gyokeres' chance",
-      "url": "https://www.skysports.com/football/news/12040/13595301/premier-league-talking-points-man-city-in-spotlight-with-trip-to-liverpool-man-utd-and-spurs-desperate-for-win-and-viktor-gyokeres-arsenal-chance"
+      "title": "Haaland speaks for the first time following Man City's guilty verdict",
+      "url": "https://www.skysports.com/watch/video/13596548/erling-haaland-sends-message-to-fans-following-man-city-guilty-verdict"
     }
   ],
   "schema_version": 1,
@@ -71,5 +71,5 @@
     "sky_sports"
   ],
   "target_event": 6,
-  "updated_at": "2026-10-08T15:16:45Z"
+  "updated_at": "2026-10-08T20:45:49Z"
 }
