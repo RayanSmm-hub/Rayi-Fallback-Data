@@ -39,6 +39,11 @@ def choose_event(events):
 def textnorm(s):
     return re.sub(r"\s+", " ", (s or "").strip()).lower()
 
+def phrase_match(hay, term):
+    if not term:
+        return False
+    return re.search(r"(?<!\\w)" + re.escape(term) + r"(?!\\w)", hay, flags=re.IGNORECASE) is not None
+
 watch = json.loads((DATA / "watchlist.json").read_text(encoding="utf-8"))
 wanted = set(int(x) for x in watch.get("player_ids", []))
 updated_at = now_iso()
