@@ -3,21 +3,21 @@
   "items": [
     {
       "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Wed, 07 Oct 2026 19:24:19 GMT",
-      "source": "bbc_sport",
-      "title": "Ex-Spurs player Vega set to run for Fifa president",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c607397pjv37o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         40
       ],
       "published_at_raw": "Wed, 07 Oct 2026 20:31:17 GMT",
       "source": "bbc_sport",
       "title": "'Amazing' Kane targets 100 international goals",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm75pwl3w2x7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Wed, 07 Oct 2026 19:24:19 GMT",
+      "source": "bbc_sport",
+      "title": "Ex-Spurs player Vega set to run for Fifa president",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c607397pjv37o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -57,6 +57,15 @@
     },
     {
       "matched_player_ids": [
+        4
+      ],
+      "published_at_raw": "Thu, 08 Oct 2026 22:30:00 BST",
+      "source": "sky_sports",
+      "title": "Papers: Fee Man Utd could receive for wantaway JJ Gabriel revealed",
+      "url": "https://www.skysports.com/football/news/12040/13596653/jj-gabriel-manchester-united-could-be-forced-to-accept-small-fee-for-wantaway-teen-paper-talk"
+    },
+    {
+      "matched_player_ids": [
         411
       ],
       "published_at_raw": "Thu, 08 Oct 2026 16:00:00 BST",
@@ -71,5 +80,5 @@
     "sky_sports"
   ],
   "target_event": 6,
-  "updated_at": "2026-10-08T20:45:49Z"
+  "updated_at": "2026-10-09T01:01:05Z"
 }
