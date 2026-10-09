@@ -191,8 +191,157 @@
       "title": "Papers: Fee Man Utd could receive for wantaway JJ Gabriel revealed",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13596653/jj-gabriel-manchester-united-could-be-forced-to-accept-small-fee-for-wantaway-teen-paper-talk"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 75
+        },
+        "news": {
+          "after": "",
+          "before": "Groin injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-09T15:01:50Z",
+      "player_id": 10,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "White"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 75
+        },
+        "news": {
+          "after": "",
+          "before": "Muscular injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-09T15:01:50Z",
+      "player_id": 154,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Palmer"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 75
+        },
+        "news": {
+          "after": "",
+          "before": "Knee injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-09T15:01:50Z",
+      "player_id": 165,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "João Pedro"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 0,
+          "before": 75
+        },
+        "news": {
+          "after": "Ankle injury - Unknown return date",
+          "before": "Ankle injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "i",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-09T15:01:50Z",
+      "player_id": 367,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gakpo"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 0,
+          "before": 75
+        },
+        "news": {
+          "after": "Thigh injury - Unknown return date",
+          "before": "Thigh injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "i",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-09T15:01:50Z",
+      "player_id": 379,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Isak"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 50,
+          "before": null
+        },
+        "news": {
+          "after": "Illness - 50% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-10-09T15:01:50Z",
+      "player_id": 469,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "N.Williams"
+    },
+    {
+      "detected_at": "2026-10-09T15:01:50Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Fri, 09 Oct 2026 07:57:23 GMT",
+      "source": "bbc_sport",
+      "title": "Is £70m Baleba ready for his Man Utd exam?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck054p2lyeplo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-09T15:01:50Z",
+      "matched_player_ids": [
+        26,
+        31
+      ],
+      "published_at_raw": "Fri, 09 Oct 2026 14:15:00 BST",
+      "source": "sky_sports",
+      "title": "Arsenal latest: Arteta gives Tzolis, Havertz, Konsa, Rice injury updates",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-09T07:47:19Z"
+  "updated_at": "2026-10-09T15:01:50Z"
 }
