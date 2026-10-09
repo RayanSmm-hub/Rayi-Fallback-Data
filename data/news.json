@@ -21,13 +21,12 @@
     },
     {
       "matched_player_ids": [
-        26,
-        31
+        449
       ],
-      "published_at_raw": "Fri, 09 Oct 2026 14:15:00 BST",
+      "published_at_raw": "Fri, 09 Oct 2026 17:00:00 BST",
       "source": "sky_sports",
-      "title": "Arsenal latest: Arteta gives Tzolis, Havertz, Konsa, Rice injury updates",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      "title": "Chicago Bears legend and NFL Hall of Famer Mike Ditka dies, aged 86",
+      "url": "https://www.skysports.com/nfl/live-blog/12040/13572639/nfl-news-trades-injuries-and-rumours-latest-updates-and-highlights-from-2026-pre-season-regular-season-playoffs-and-super-bowl"
     }
   ],
   "schema_version": 1,
@@ -36,5 +35,5 @@
     "sky_sports"
   ],
   "target_event": 6,
-  "updated_at": "2026-10-09T15:01:50Z"
+  "updated_at": "2026-10-09T20:14:30Z"
 }
