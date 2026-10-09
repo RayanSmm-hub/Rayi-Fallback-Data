@@ -3,13 +3,13 @@
   "errors": [],
   "fixture_count": 10,
   "live_available": true,
-  "news_matches": 8,
+  "news_matches": 4,
   "note": "Temporary public read-only fallback. No secrets, private model code, or personal identifiers.",
   "players_found": 53,
   "schema_version": 1,
   "service": "Ray.i FPL fallback data",
   "state": "OK",
   "target_event": 6,
-  "updated_at": "2026-10-09T01:01:05Z",
+  "updated_at": "2026-10-09T07:47:19Z",
   "watchlist_count": 53
 }
