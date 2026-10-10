@@ -11,6 +11,9 @@ UA = {"User-Agent": "Rayi-Fallback-Monitor/1.0"}
 FPL_BOOTSTRAP = "https://fantasy.premierleague.com/api/bootstrap-static/"
 FPL_FIXTURES = "https://fantasy.premierleague.com/api/fixtures/"
 FPL_LIVE = "https://fantasy.premierleague.com/api/event/{event}/live/"
+SUPABASE_PROJECT = "zjaasrfxxvqndadcdfxc"
+SUPABASE_ANON = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InpqYWFzcmZ4eHZxbmRhZGNkZnhjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODcwNDg3MTUsImV4cCI6MjEwMjYyNDcxNX0.49HxmnN42GvhR7BMnesX49bCTpDqSPQNCqGJD-u5B8Q"
+SUPABASE_RPC = f"https://{SUPABASE_PROJECT}.supabase.co/rest/v1/rpc/rayi_public_consumer_read"
 RSS = {
     "bbc_sport": "https://feeds.bbci.co.uk/sport/football/rss.xml",
     "sky_sports": "https://www.skysports.com/rss/12040",
@@ -23,6 +26,29 @@ def fetch_bytes(url, timeout=25):
 
 def fetch_json(url):
     return json.loads(fetch_bytes(url).decode("utf-8"))
+
+def fetch_app_virtual_team(event_id):
+    body = json.dumps({
+        "p_action": "virtual-team",
+        "p_target_event": int(event_id),
+        "p_limit": 20,
+    }).encode("utf-8")
+    headers = {
+        **UA,
+        "Content-Type": "application/json",
+        "Accept": "application/json",
+        "Authorization": f"Bearer {SUPABASE_ANON}",
+        "apikey": SUPABASE_ANON,
+    }
+    req = urllib.request.Request(SUPABASE_RPC, headers=headers, data=body, method="POST")
+    with urllib.request.urlopen(req, timeout=25) as response:
+        payload = json.loads(response.read().decode("utf-8"))
+    if not isinstance(payload, dict) or payload.get("ok") is not True:
+        raise RuntimeError("invalid Ray.i public snapshot")
+    selected = payload.get("selected_gw") or {}
+    if int(selected.get("gw") or 0) != int(event_id):
+        raise RuntimeError("Ray.i public snapshot event mismatch")
+    return payload
 
 def write_json(name, payload):
     p = DATA / name
@@ -179,10 +205,32 @@ news_payload = {
     "items": deduped[:200],
     "errors": errors,
 }
+
+# Keep the last verified app-shaped public snapshot. If Supabase is unavailable,
+# do NOT overwrite it; the Android client can still read the previous healthy copy.
+app_snapshot_ok = False
+app_snapshot_error = None
+try:
+    app_snapshot = fetch_app_virtual_team(target_event)
+    app_snapshot["_fallback_meta"] = {
+        "captured_at": updated_at,
+        "source": "rayi_public_consumer_read",
+        "target_event": target_event,
+        "last_good": True,
+    }
+    write_json("app-virtual-team.json", app_snapshot)
+    app_snapshot_ok = True
+except Exception as ex:
+    app_snapshot_error = {"source": "rayi_app_snapshot", "error": type(ex).__name__}
+
+status_errors = list(errors)
+if app_snapshot_error:
+    status_errors.append(app_snapshot_error)
+
 status_payload = {
     "service": "Ray.i FPL fallback data",
     "schema_version": 1,
-    "state": "OK" if not errors else "DEGRADED",
+    "state": "OK" if not status_errors else "DEGRADED",
     "updated_at": updated_at,
     "target_event": target_event,
     "deadline_time": event.get("deadline_time") if event else None,
@@ -191,7 +239,8 @@ status_payload = {
     "fixture_count": len(fixtures),
     "news_matches": len(deduped),
     "live_available": bool(live.get("available")),
-    "errors": errors,
+    "app_snapshot_refreshed": app_snapshot_ok,
+    "errors": status_errors,
     "note": "Temporary public read-only fallback. No secrets, private model code, or personal identifiers."
 }
 
