@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Sat, 10 Oct 2026 09:51:09 GMT",
+      "source": "bbc_sport",
+      "title": "Palmer signs new Chelsea contract until 2034",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         385
       ],
       "published_at_raw": "Fri, 09 Oct 2026 07:57:23 GMT",
@@ -21,12 +30,12 @@
     },
     {
       "matched_player_ids": [
-        10
+        154
       ],
-      "published_at_raw": "Fri, 09 Oct 2026 21:00:00 BST",
+      "published_at_raw": "Sat, 10 Oct 2026 11:09:00 BST",
       "source": "sky_sports",
-      "title": "White: Fury-AJ will be most lucrative gate in British boxing history",
-      "url": "https://www.skysports.com/boxing/news/12040/13596848/fury-vs-joshua-will-draw-the-most-lucrative-gate-in-british-boxing-history-says-dana-white"
+      "title": "'We win major trophies here': Palmer signs new Chelsea contract",
+      "url": "https://www.skysports.com/football/news/12040/13597179/cole-palmer-contract-chelsea-forward-signs-extension-at-stamford-bridge-until-2034"
     }
   ],
   "schema_version": 1,
@@ -34,6 +43,6 @@
     "bbc_sport",
     "sky_sports"
   ],
-  "target_event": 6,
-  "updated_at": "2026-10-10T08:03:19Z"
+  "target_event": 7,
+  "updated_at": "2026-10-10T12:53:27Z"
 }
