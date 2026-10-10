@@ -484,8 +484,74 @@
       "title": "Record-breaking Renshaw puts Australia on top in Durban",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/cricket/news/12040/13597340/south-africa-vs-australia-matt-renshaw-8204strikes-career-best-190-to-guide-australia-to-390-all-out-on-day-two-of-the-8203first-test"
+    },
+    {
+      "detected_at": "2026-10-10T21:16:13Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sat, 10 Oct 2026 19:24:23 GMT",
+      "source": "bbc_sport",
+      "title": "Solanke scores in added time as 10-man Spurs draw with Man Utd",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crz9zdl0g04zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-10T21:16:13Z",
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Sat, 10 Oct 2026 18:46:40 GMT",
+      "source": "bbc_sport",
+      "title": "Tottenham grab a draw but who got 1/10 - Ratings for Man Utd v Spurs",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr86z32ezel9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-10T21:16:13Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sat, 10 Oct 2026 20:03:56 GMT",
+      "source": "bbc_sport",
+      "title": "'Reminds me of Muller' - Naderi proving worth in Rangers revival",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqzjx3z4ljr0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-10T21:16:13Z",
+      "matched_player_ids": [
+        306
+      ],
+      "published_at_raw": "Sat, 10 Oct 2026 20:15:00 BST",
+      "source": "sky_sports",
+      "title": "Sherrock, Hayter qualify for Worlds as Greaves sweeps up on Women's Series",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/darts/news/12040/13597546/pdc-womens-series-fallon-sherrock-and-gemma-hayter-qualify-for-world-championship-as-beau-greaves-sweeps-up-with-events-21-22-in-wigan"
+    },
+    {
+      "detected_at": "2026-10-10T21:16:13Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sat, 10 Oct 2026 19:30:00 BST",
+      "source": "sky_sports",
+      "title": "Ten-man Spurs claim dramatic draw at Old Trafford as Man Utd booed off",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/manchester-united-vs-tottenham-hotspur/report/559502"
+    },
+    {
+      "detected_at": "2026-10-10T21:16:13Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sat, 10 Oct 2026 18:45:00 BST",
+      "source": "sky_sports",
+      "title": "Man Utd fans take aim at Man City with return of famous ticker banner",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13597523/man-city-charges-manchester-united-fans-take-aim-at-rivals-with-return-of-famous-ticker-banner"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-10T17:40:23Z"
+  "updated_at": "2026-10-10T21:16:13Z"
 }
