@@ -351,8 +351,45 @@
       "title": "Chicago Bears legend and NFL Hall of Famer Mike Ditka dies, aged 86",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/nfl/live-blog/12040/13572639/nfl-news-trades-injuries-and-rumours-latest-updates-and-highlights-from-2026-pre-season-regular-season-playoffs-and-super-bowl"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 54,
+          "before": 55
+        }
+      },
+      "detected_at": "2026-10-10T00:12:53Z",
+      "player_id": 10,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "White"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 61,
+          "before": 60
+        }
+      },
+      "detected_at": "2026-10-10T00:12:53Z",
+      "player_id": 569,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gonzalo"
+    },
+    {
+      "detected_at": "2026-10-10T00:12:53Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Fri, 09 Oct 2026 21:00:00 BST",
+      "source": "sky_sports",
+      "title": "White: Fury-AJ will be most lucrative gate in British boxing history",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/boxing/news/12040/13596848/fury-vs-joshua-will-draw-the-most-lucrative-gate-in-british-boxing-history-says-dana-white"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-09T20:14:30Z"
+  "updated_at": "2026-10-10T00:12:53Z"
 }
