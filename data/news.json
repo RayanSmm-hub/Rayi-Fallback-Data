@@ -12,15 +12,6 @@
     },
     {
       "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Fri, 09 Oct 2026 07:57:23 GMT",
-      "source": "bbc_sport",
-      "title": "Is £70m Baleba ready for his Man Utd exam?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck054p2lyeplo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         40
       ],
       "published_at_raw": "Wed, 07 Oct 2026 20:31:17 GMT",
@@ -30,12 +21,12 @@
     },
     {
       "matched_player_ids": [
-        154
+        423
       ],
-      "published_at_raw": "Sat, 10 Oct 2026 11:09:00 BST",
+      "published_at_raw": "Sat, 10 Oct 2026 16:25:00 BST",
       "source": "sky_sports",
-      "title": "'We win major trophies here': Palmer signs new Chelsea contract",
-      "url": "https://www.skysports.com/football/news/12040/13597179/cole-palmer-contract-chelsea-forward-signs-extension-at-stamford-bridge-until-2034"
+      "title": "Record-breaking Renshaw puts Australia on top in Durban",
+      "url": "https://www.skysports.com/cricket/news/12040/13597340/south-africa-vs-australia-matt-renshaw-8204strikes-career-best-190-to-guide-australia-to-390-all-out-on-day-two-of-the-8203first-test"
     }
   ],
   "schema_version": 1,
@@ -44,5 +35,5 @@
     "sky_sports"
   ],
   "target_event": 7,
-  "updated_at": "2026-10-10T12:53:27Z"
+  "updated_at": "2026-10-10T17:40:23Z"
 }
