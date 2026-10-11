@@ -30,21 +30,12 @@
     },
     {
       "matched_player_ids": [
-        40
+        306
       ],
-      "published_at_raw": "Wed, 07 Oct 2026 20:31:17 GMT",
-      "source": "bbc_sport",
-      "title": "'Amazing' Kane targets 100 international goals",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm75pwl3w2x7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        154
-      ],
-      "published_at_raw": "Sat, 10 Oct 2026 09:51:09 GMT",
-      "source": "bbc_sport",
-      "title": "Palmer signs new Chelsea contract until 2034",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&at_campaign=rss"
+      "published_at_raw": "Sun, 11 Oct 2026 21:57:00 BST",
+      "source": "sky_sports",
+      "title": "Greaves ends Women's Series season with record-breaking win",
+      "url": "https://www.skysports.com/darts/news/12040/13597988/pdc-womens-series-beau-greaves-ends-season-with-highest-event-winning-average-in-tournament-history"
     }
   ],
   "schema_version": 1,
@@ -53,5 +44,5 @@
     "sky_sports"
   ],
   "target_event": 7,
-  "updated_at": "2026-10-11T18:19:08Z"
+  "updated_at": "2026-10-11T22:17:53Z"
 }

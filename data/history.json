@@ -676,8 +676,19 @@
       "source": "official_fpl",
       "type": "player_state_change",
       "web_name": "Semenyo"
+    },
+    {
+      "detected_at": "2026-10-11T22:17:53Z",
+      "matched_player_ids": [
+        306
+      ],
+      "published_at_raw": "Sun, 11 Oct 2026 21:57:00 BST",
+      "source": "sky_sports",
+      "title": "Greaves ends Women's Series season with record-breaking win",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/darts/news/12040/13597988/pdc-womens-series-beau-greaves-ends-season-with-highest-event-winning-average-in-tournament-history"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-11T18:19:08Z"
+  "updated_at": "2026-10-11T22:17:53Z"
 }
