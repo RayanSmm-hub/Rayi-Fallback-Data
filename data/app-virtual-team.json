@@ -1,6 +1,6 @@
 {
   "_fallback_meta": {
-    "captured_at": "2026-10-11T06:11:34Z",
+    "captured_at": "2026-10-11T13:17:21Z",
     "last_good": true,
     "source": "rayi_public_consumer_read",
     "target_event": 7
@@ -1781,13 +1781,13 @@
       "is_locked": true,
       "outcome_final": false,
       "rank": {
-        "delta_vs_average": -2,
+        "delta_vs_average": 1,
         "gw_average": 37,
-        "gw_points": 35,
+        "gw_points": 38,
         "rank_movement": null,
         "rank_type": "equivalent",
         "rank_value": null,
-        "total_points": 229
+        "total_points": 232
       },
       "status": "locked",
       "status_label": "FINAL LOCK",

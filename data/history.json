@@ -613,8 +613,29 @@
       "title": "AC Milan keen on Scott - Sunday's gossip",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rp2r516po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 50
+        },
+        "news": {
+          "after": "",
+          "before": "Illness - 50% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-11T13:17:21Z",
+      "player_id": 469,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "N.Williams"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-11T06:11:34Z"
+  "updated_at": "2026-10-11T13:17:21Z"
 }
