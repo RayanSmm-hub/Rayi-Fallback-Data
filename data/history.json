@@ -634,8 +634,50 @@
       "source": "official_fpl",
       "type": "player_state_change",
       "web_name": "N.Williams"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": null
+        },
+        "news": {
+          "after": "Hamstring injury - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-10-11T18:19:08Z",
+      "player_id": 368,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Szoboszlai"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 75
+        },
+        "news": {
+          "after": "",
+          "before": "Ankle injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-11T18:19:08Z",
+      "player_id": 397,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Semenyo"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-11T13:17:21Z"
+  "updated_at": "2026-10-11T18:19:08Z"
 }

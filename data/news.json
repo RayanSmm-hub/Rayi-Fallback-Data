@@ -12,21 +12,21 @@
     },
     {
       "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Sat, 10 Oct 2026 19:24:23 GMT",
-      "source": "bbc_sport",
-      "title": "Solanke scores in added time as 10-man Spurs draw with Man Utd",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crz9zdl0g04zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Sat, 10 Oct 2026 20:03:56 GMT",
       "source": "bbc_sport",
       "title": "'Reminds me of Muller' - Naderi proving worth in Rangers revival",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqzjx3z4ljr0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sat, 10 Oct 2026 19:24:23 GMT",
+      "source": "bbc_sport",
+      "title": "Solanke scores in added time as 10-man Spurs draw with Man Utd",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crz9zdl0g04zo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -45,15 +45,6 @@
       "source": "bbc_sport",
       "title": "Palmer signs new Chelsea contract until 2034",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        306
-      ],
-      "published_at_raw": "Sat, 10 Oct 2026 20:15:00 BST",
-      "source": "sky_sports",
-      "title": "Sherrock, Hayter qualify for Worlds as Greaves sweeps up on Women's Series",
-      "url": "https://www.skysports.com/darts/news/12040/13597546/pdc-womens-series-fallon-sherrock-and-gemma-hayter-qualify-for-world-championship-as-beau-greaves-sweeps-up-with-events-21-22-in-wigan"
     }
   ],
   "schema_version": 1,
@@ -62,5 +53,5 @@
     "sky_sports"
   ],
   "target_event": 7,
-  "updated_at": "2026-10-11T13:17:21Z"
+  "updated_at": "2026-10-11T18:19:08Z"
 }
