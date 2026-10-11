@@ -12,21 +12,30 @@
     },
     {
       "matched_player_ids": [
-        423
-      ],
-      "published_at_raw": "Sat, 10 Oct 2026 18:46:40 GMT",
-      "source": "bbc_sport",
-      "title": "Tottenham grab a draw but who got 1/10 - Ratings for Man Utd v Spurs",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr86z32ezel9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Sat, 10 Oct 2026 20:03:56 GMT",
       "source": "bbc_sport",
       "title": "'Reminds me of Muller' - Naderi proving worth in Rangers revival",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqzjx3z4ljr0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        4
+      ],
+      "published_at_raw": "Sat, 10 Oct 2026 22:01:20 GMT",
+      "source": "bbc_sport",
+      "title": "AC Milan keen on Scott - Sunday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rp2r516po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Sat, 10 Oct 2026 18:46:40 GMT",
+      "source": "bbc_sport",
+      "title": "Tottenham grab a draw but who got 1/10 - Ratings for Man Utd v Spurs",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr86z32ezel9o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -72,15 +81,6 @@
       "source": "sky_sports",
       "title": "Man Utd fans take aim at Man City with return of famous ticker banner",
       "url": "https://www.skysports.com/football/news/12040/13597523/man-city-charges-manchester-united-fans-take-aim-at-rivals-with-return-of-famous-ticker-banner"
-    },
-    {
-      "matched_player_ids": [
-        423
-      ],
-      "published_at_raw": "Sat, 10 Oct 2026 16:25:00 BST",
-      "source": "sky_sports",
-      "title": "Record-breaking Renshaw puts Australia on top in Durban",
-      "url": "https://www.skysports.com/cricket/news/12040/13597340/south-africa-vs-australia-matt-renshaw-8204strikes-career-best-190-to-guide-australia-to-390-all-out-on-day-two-of-the-8203first-test"
     }
   ],
   "schema_version": 1,
@@ -89,5 +89,5 @@
     "sky_sports"
   ],
   "target_event": 7,
-  "updated_at": "2026-10-10T21:16:13Z"
+  "updated_at": "2026-10-11T00:20:40Z"
 }

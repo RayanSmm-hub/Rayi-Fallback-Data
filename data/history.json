@@ -550,8 +550,71 @@
       "title": "Man Utd fans take aim at Man City with return of famous ticker banner",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13597523/man-city-charges-manchester-united-fans-take-aim-at-rivals-with-return-of-famous-ticker-banner"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 79,
+          "before": 80
+        }
+      },
+      "detected_at": "2026-10-11T00:20:40Z",
+      "player_id": 4,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gabriel"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 75,
+          "before": 76
+        }
+      },
+      "detected_at": "2026-10-11T00:20:40Z",
+      "player_id": 26,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Havertz"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 90,
+          "before": 91
+        }
+      },
+      "detected_at": "2026-10-11T00:20:40Z",
+      "player_id": 379,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Isak"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 58,
+          "before": 57
+        }
+      },
+      "detected_at": "2026-10-11T00:20:40Z",
+      "player_id": 391,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gvardiol"
+    },
+    {
+      "detected_at": "2026-10-11T00:20:40Z",
+      "matched_player_ids": [
+        4
+      ],
+      "published_at_raw": "Sat, 10 Oct 2026 22:01:20 GMT",
+      "source": "bbc_sport",
+      "title": "AC Milan keen on Scott - Sunday's gossip",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rp2r516po?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-10T21:16:13Z"
+  "updated_at": "2026-10-11T00:20:40Z"
 }
