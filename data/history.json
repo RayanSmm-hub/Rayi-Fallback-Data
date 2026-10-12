@@ -687,8 +687,84 @@
       "title": "Greaves ends Women's Series season with record-breaking win",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/darts/news/12040/13597988/pdc-womens-series-beau-greaves-ends-season-with-highest-event-winning-average-in-tournament-history"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 51,
+          "before": 50
+        }
+      },
+      "detected_at": "2026-10-12T01:33:59Z",
+      "player_id": 115,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "De Cuyper"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 79,
+          "before": 78
+        }
+      },
+      "detected_at": "2026-10-12T01:33:59Z",
+      "player_id": 40,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Rogers"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 78,
+          "before": 77
+        }
+      },
+      "detected_at": "2026-10-12T01:33:59Z",
+      "player_id": 165,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "João Pedro"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 71,
+          "before": 72
+        }
+      },
+      "detected_at": "2026-10-12T01:33:59Z",
+      "player_id": 367,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gakpo"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 83,
+          "before": 84
+        }
+      },
+      "detected_at": "2026-10-12T01:33:59Z",
+      "player_id": 397,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Semenyo"
+    },
+    {
+      "detected_at": "2026-10-12T01:33:59Z",
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Sat, 10 Oct 2026 09:51:09 GMT",
+      "source": "bbc_sport",
+      "title": "Palmer signs new Chelsea contract until 2034",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-11T22:17:53Z"
+  "updated_at": "2026-10-12T01:33:59Z"
 }
