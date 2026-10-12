@@ -763,8 +763,19 @@
       "title": "Palmer signs new Chelsea contract until 2034",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-12T08:44:48Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sun, 11 Oct 2026 12:23:00 BST",
+      "source": "sky_sports",
+      "title": "'I'm so uncomfortable!' - Lindblad's prank on Lawson causes F1 Paddock chaos!",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13597731/f1-arvid-lindblad-gets-revenge-on-liam-lawson-with-brilliant-hidden-earpiece-prank"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-12T01:33:59Z"
+  "updated_at": "2026-10-12T08:44:48Z"
 }

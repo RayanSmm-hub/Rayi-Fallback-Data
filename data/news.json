@@ -30,12 +30,12 @@
     },
     {
       "matched_player_ids": [
-        306
+        449
       ],
-      "published_at_raw": "Sun, 11 Oct 2026 21:57:00 BST",
+      "published_at_raw": "Sun, 11 Oct 2026 12:23:00 BST",
       "source": "sky_sports",
-      "title": "Greaves ends Women's Series season with record-breaking win",
-      "url": "https://www.skysports.com/darts/news/12040/13597988/pdc-womens-series-beau-greaves-ends-season-with-highest-event-winning-average-in-tournament-history"
+      "title": "'I'm so uncomfortable!' - Lindblad's prank on Lawson causes F1 Paddock chaos!",
+      "url": "https://www.skysports.com/watch/video/13597731/f1-arvid-lindblad-gets-revenge-on-liam-lawson-with-brilliant-hidden-earpiece-prank"
     }
   ],
   "schema_version": 1,
@@ -44,5 +44,5 @@
     "sky_sports"
   ],
   "target_event": 7,
-  "updated_at": "2026-10-12T01:33:59Z"
+  "updated_at": "2026-10-12T08:44:48Z"
 }
