@@ -3,15 +3,6 @@
   "items": [
     {
       "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Sat, 10 Oct 2026 20:03:56 GMT",
-      "source": "bbc_sport",
-      "title": "'Reminds me of Muller' - Naderi proving worth in Rangers revival",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqzjx3z4ljr0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         385
       ],
       "published_at_raw": "Sat, 10 Oct 2026 19:24:23 GMT",
@@ -21,21 +12,39 @@
     },
     {
       "matched_player_ids": [
-        154
+        449
       ],
-      "published_at_raw": "Sat, 10 Oct 2026 09:51:09 GMT",
+      "published_at_raw": "Sat, 10 Oct 2026 20:03:56 GMT",
       "source": "bbc_sport",
-      "title": "Palmer signs new Chelsea contract until 2034",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&at_campaign=rss"
+      "title": "'Reminds me of Muller' - Naderi proving worth in Rangers revival",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqzjx3z4ljr0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Mon, 12 Oct 2026 17:15:00 BST",
+      "source": "sky_sports",
+      "title": "Renshaw stars as Australia close in on first Test victory in Durban",
+      "url": "https://www.skysports.com/cricket/news/12040/13598215/south-africa-vs-australia-matt-renshaw-stars-as-tourists-close-in-on-first-test-victory-in-durban"
     },
     {
       "matched_player_ids": [
         449
       ],
-      "published_at_raw": "Sun, 11 Oct 2026 12:23:00 BST",
+      "published_at_raw": "Mon, 12 Oct 2026 14:45:00 BST",
       "source": "sky_sports",
-      "title": "'I'm so uncomfortable!' - Lindblad's prank on Lawson causes F1 Paddock chaos!",
-      "url": "https://www.skysports.com/watch/video/13597731/f1-arvid-lindblad-gets-revenge-on-liam-lawson-with-brilliant-hidden-earpiece-prank"
+      "title": "Brundle's verdict on 'telling' Hamilton strategy and Norris, Piastri collision",
+      "url": "https://www.skysports.com/f1/news/12040/13598192/singapore-gp-martin-brundles-verdict-on-lewis-hamilton-strategy-call-lando-norris-oscar-piastri-sprint-collision-and-max-verstappen-dominance"
+    },
+    {
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Mon, 12 Oct 2026 14:30:00 BST",
+      "source": "sky_sports",
+      "title": "How Pietersen could impact England's Ashes batters",
+      "url": "https://www.skysports.com/cricket/news/12040/13598202/kevin-pietersen-set-to-stay-white-ball-only-mentor-for-england-but-could-still-impact-ashes-batters-says-rob-key"
     }
   ],
   "schema_version": 1,
@@ -44,5 +53,5 @@
     "sky_sports"
   ],
   "target_event": 7,
-  "updated_at": "2026-10-12T08:44:48Z"
+  "updated_at": "2026-10-12T18:41:19Z"
 }

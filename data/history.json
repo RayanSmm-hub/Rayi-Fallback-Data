@@ -774,8 +774,41 @@
       "title": "'I'm so uncomfortable!' - Lindblad's prank on Lawson causes F1 Paddock chaos!",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13597731/f1-arvid-lindblad-gets-revenge-on-liam-lawson-with-brilliant-hidden-earpiece-prank"
+    },
+    {
+      "detected_at": "2026-10-12T18:41:19Z",
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Mon, 12 Oct 2026 17:15:00 BST",
+      "source": "sky_sports",
+      "title": "Renshaw stars as Australia close in on first Test victory in Durban",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/cricket/news/12040/13598215/south-africa-vs-australia-matt-renshaw-stars-as-tourists-close-in-on-first-test-victory-in-durban"
+    },
+    {
+      "detected_at": "2026-10-12T18:41:19Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Mon, 12 Oct 2026 14:45:00 BST",
+      "source": "sky_sports",
+      "title": "Brundle's verdict on 'telling' Hamilton strategy and Norris, Piastri collision",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/f1/news/12040/13598192/singapore-gp-martin-brundles-verdict-on-lewis-hamilton-strategy-call-lando-norris-oscar-piastri-sprint-collision-and-max-verstappen-dominance"
+    },
+    {
+      "detected_at": "2026-10-12T18:41:19Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Mon, 12 Oct 2026 14:30:00 BST",
+      "source": "sky_sports",
+      "title": "How Pietersen could impact England's Ashes batters",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/cricket/news/12040/13598202/kevin-pietersen-set-to-stay-white-ball-only-mentor-for-england-but-could-still-impact-ashes-batters-says-rob-key"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-12T08:44:48Z"
+  "updated_at": "2026-10-12T18:41:19Z"
 }
