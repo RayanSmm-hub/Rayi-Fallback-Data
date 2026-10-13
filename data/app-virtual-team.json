@@ -1,6 +1,6 @@
 {
   "_fallback_meta": {
-    "captured_at": "2026-10-13T08:10:06Z",
+    "captured_at": "2026-10-13T16:15:51Z",
     "last_good": true,
     "source": "rayi_public_consumer_read",
     "target_event": 7
@@ -1761,36 +1761,45 @@
     },
     {
       "autosubs": [],
-      "bank_after_tenths": 13,
+      "bank_after_tenths": null,
       "bench_ids": [
         57,
         379,
         388,
         346
       ],
-      "bench_loss": null,
+      "bench_loss": 8,
       "captain_id": 426,
       "chip": "NONE",
+      "cumulative_points_after": 239,
       "decision_actualized": true,
       "decision_reason": "Latest completed Strategy73 plan from current data. Deep chip evaluation paused for capacity safety; no chip is claimed final.",
-      "final_points": null,
-      "free_transfers_next": 1,
+      "display_points": 45,
+      "execution_provenance": null,
+      "final_points": 45,
+      "free_transfers_next": null,
       "gw": 6,
       "history_actual": true,
       "hit_cost": 0,
       "is_locked": true,
-      "outcome_final": false,
+      "outcome_final": true,
+      "outcome_phase": "FINAL",
       "rank": {
-        "delta_vs_average": -10,
-        "gw_average": 55,
+        "captured_at": "2026-10-13T16:00:14.384727+00:00",
+        "delta_vs_average": -13,
+        "gw_average": 58,
         "gw_points": 45,
-        "rank_movement": null,
+        "rank_best": 9771600,
         "rank_type": "equivalent",
         "rank_value": null,
+        "rank_worst": 9785954,
+        "source": "official_fpl_overall_points_threshold_v2_final",
         "total_points": 239
       },
+      "recovery_record_id": null,
       "status": "locked",
       "status_label": "FINAL LOCK",
+      "team_value_tenths": 997,
       "transfers": [
         {
           "in_id": 94,

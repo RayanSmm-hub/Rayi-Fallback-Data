@@ -861,8 +861,19 @@
       "title": "Brilliant angles show Maharaj's juggling catch to dismiss Renshaw",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13598168/australia-vs-south-africa-first-test-brilliant-angles-show-keshav-maharajs-juggling-catch-to-dismiss-matt-renshaw"
+    },
+    {
+      "detected_at": "2026-10-13T16:15:51Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Tue, 13 Oct 2026 11:00:00 BST",
+      "source": "sky_sports",
+      "title": "Bethell and Archer return for England white-ball tour of Australia",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/cricket/news/12040/13598739/jacob-bethell-and-jofra-archer-return-as-england-announce-white-ball-squads-for-australia-odi-and-t20-series"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-13T08:10:06Z"
+  "updated_at": "2026-10-13T16:15:51Z"
 }
