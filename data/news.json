@@ -3,15 +3,6 @@
   "items": [
     {
       "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Sat, 10 Oct 2026 19:24:23 GMT",
-      "source": "bbc_sport",
-      "title": "Solanke scores in added time as 10-man Spurs draw with Man Utd",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crz9zdl0g04zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Sat, 10 Oct 2026 20:03:56 GMT",
@@ -21,12 +12,30 @@
     },
     {
       "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Mon, 12 Oct 2026 20:14:00 BST",
+      "source": "sky_sports",
+      "title": "'A complete MESS!' - Rudoni gives Coventry lead from spot after Hornicek slow to challenge",
+      "url": "https://www.skysports.com/watch/video/13598307/goal-j-rudoni-6-pen-coventry-1-0-newcastle"
+    },
+    {
+      "matched_player_ids": [
         423
       ],
       "published_at_raw": "Mon, 12 Oct 2026 17:15:00 BST",
       "source": "sky_sports",
       "title": "Renshaw stars as Australia close in on first Test victory in Durban",
       "url": "https://www.skysports.com/cricket/news/12040/13598215/south-africa-vs-australia-matt-renshaw-stars-as-tourists-close-in-on-first-test-victory-in-durban"
+    },
+    {
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Mon, 12 Oct 2026 23:00:00 BST",
+      "source": "sky_sports",
+      "title": "Papers: Haaland and father buy properties on Man City's Abu Dhabi development",
+      "url": "https://www.skysports.com/football/news/12040/13598353/erling-haaland-man-city-star-and-father-buy-abu-dhabi-properties-on-premier-league-clubs-development-paper-talk"
     },
     {
       "matched_player_ids": [
@@ -53,5 +62,5 @@
     "sky_sports"
   ],
   "target_event": 7,
-  "updated_at": "2026-10-12T18:41:19Z"
+  "updated_at": "2026-10-13T01:08:27Z"
 }
