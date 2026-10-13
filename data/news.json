@@ -12,6 +12,15 @@
     },
     {
       "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Mon, 12 Oct 2026 13:21:00 BST",
+      "source": "sky_sports",
+      "title": "Brilliant angles show Maharaj's juggling catch to dismiss Renshaw",
+      "url": "https://www.skysports.com/watch/video/13598168/australia-vs-south-africa-first-test-brilliant-angles-show-keshav-maharajs-juggling-catch-to-dismiss-matt-renshaw"
+    },
+    {
+      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Mon, 12 Oct 2026 20:14:00 BST",
@@ -36,24 +45,6 @@
       "source": "sky_sports",
       "title": "Papers: Haaland and father buy properties on Man City's Abu Dhabi development",
       "url": "https://www.skysports.com/football/news/12040/13598353/erling-haaland-man-city-star-and-father-buy-abu-dhabi-properties-on-premier-league-clubs-development-paper-talk"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Mon, 12 Oct 2026 14:45:00 BST",
-      "source": "sky_sports",
-      "title": "Brundle's verdict on 'telling' Hamilton strategy and Norris, Piastri collision",
-      "url": "https://www.skysports.com/f1/news/12040/13598192/singapore-gp-martin-brundles-verdict-on-lewis-hamilton-strategy-call-lando-norris-oscar-piastri-sprint-collision-and-max-verstappen-dominance"
-    },
-    {
-      "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Mon, 12 Oct 2026 14:30:00 BST",
-      "source": "sky_sports",
-      "title": "How Pietersen could impact England's Ashes batters",
-      "url": "https://www.skysports.com/cricket/news/12040/13598202/kevin-pietersen-set-to-stay-white-ball-only-mentor-for-england-but-could-still-impact-ashes-batters-says-rob-key"
     }
   ],
   "schema_version": 1,
@@ -62,5 +53,5 @@
     "sky_sports"
   ],
   "target_event": 7,
-  "updated_at": "2026-10-13T01:08:27Z"
+  "updated_at": "2026-10-13T08:10:06Z"
 }
