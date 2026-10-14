@@ -1,6 +1,6 @@
 {
   "_fallback_meta": {
-    "captured_at": "2026-10-13T21:25:44Z",
+    "captured_at": "2026-10-14T00:29:44Z",
     "last_good": true,
     "source": "rayi_public_consumer_read",
     "target_event": 7
@@ -1118,14 +1118,14 @@
       "outcome_final": true,
       "outcome_phase": "FINAL",
       "rank": {
-        "captured_at": "2026-10-13T21:20:15.432022+00:00",
+        "captured_at": "2026-10-13T23:50:14.805677+00:00",
         "delta_vs_average": -13,
         "gw_average": 58,
         "gw_points": 45,
-        "rank_best": 8587218,
+        "rank_best": 8587213,
         "rank_type": "equivalent",
         "rank_value": null,
-        "rank_worst": 8623130,
+        "rank_worst": 8623125,
         "source": "official_fpl_overall_points_threshold_v2_final",
         "total_points": 290
       },

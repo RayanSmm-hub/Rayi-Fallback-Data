@@ -872,8 +872,44 @@
       "title": "Bethell and Archer return for England white-ball tour of Australia",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/cricket/news/12040/13598739/jacob-bethell-and-jofra-archer-return-as-england-announce-white-ball-squads-for-australia-odi-and-t20-series"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 79,
+          "before": 78
+        }
+      },
+      "detected_at": "2026-10-14T00:29:44Z",
+      "player_id": 399,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Cherki"
+    },
+    {
+      "detected_at": "2026-10-14T00:29:44Z",
+      "matched_player_ids": [
+        12,
+        449
+      ],
+      "published_at_raw": "Tue, 13 Oct 2026 23:03:04 GMT",
+      "source": "bbc_sport",
+      "title": "Saka responds to Arteta's challenge with 'huge impact'",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-14T00:29:44Z",
+      "matched_player_ids": [
+        12
+      ],
+      "published_at_raw": "Tue, 13 Oct 2026 21:45:00 BST",
+      "source": "sky_sports",
+      "title": "Saka shines as Arsenal cruise to Champions League win over Lille",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/arsenal-vs-lille/report/577615"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-13T21:25:44Z"
+  "updated_at": "2026-10-14T00:29:44Z"
 }

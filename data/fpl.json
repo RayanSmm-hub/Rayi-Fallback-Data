@@ -455,7 +455,7 @@
       "news_added": "2026-09-16T19:00:09.919929Z",
       "now_cost": 78,
       "position": "FWD",
-      "selected_by_percent": "69.5",
+      "selected_by_percent": "69.6",
       "status": "a",
       "team_id": 6,
       "team_name": "Chelsea",
@@ -671,7 +671,7 @@
       "news_added": "2026-10-11T15:00:09.494018Z",
       "now_cost": 69,
       "position": "MID",
-      "selected_by_percent": "28.1",
+      "selected_by_percent": "28.0",
       "status": "d",
       "team_id": 14,
       "team_name": "Liverpool",
@@ -795,7 +795,7 @@
       "minutes": 392,
       "news": "",
       "news_added": null,
-      "now_cost": 78,
+      "now_cost": 79,
       "position": "MID",
       "selected_by_percent": "31.6",
       "status": "a",
@@ -851,7 +851,7 @@
       "news_added": "2026-10-12T21:30:08.995810Z",
       "now_cost": 43,
       "position": "DEF",
-      "selected_by_percent": "6.8",
+      "selected_by_percent": "6.7",
       "status": "d",
       "team_id": 16,
       "team_name": "Man Utd",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 7,
-  "updated_at": "2026-10-13T21:25:44Z"
+  "updated_at": "2026-10-14T00:29:44Z"
 }

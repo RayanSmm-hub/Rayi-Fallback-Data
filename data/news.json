@@ -3,12 +3,22 @@
   "items": [
     {
       "matched_player_ids": [
-        10
+        12,
+        449
       ],
-      "published_at_raw": "Tue, 13 Oct 2026 11:00:00 BST",
+      "published_at_raw": "Tue, 13 Oct 2026 23:03:04 GMT",
+      "source": "bbc_sport",
+      "title": "Saka responds to Arteta's challenge with 'huge impact'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        12
+      ],
+      "published_at_raw": "Tue, 13 Oct 2026 21:45:00 BST",
       "source": "sky_sports",
-      "title": "Bethell and Archer return for England white-ball tour of Australia",
-      "url": "https://www.skysports.com/cricket/news/12040/13598739/jacob-bethell-and-jofra-archer-return-as-england-announce-white-ball-squads-for-australia-odi-and-t20-series"
+      "title": "Saka shines as Arsenal cruise to Champions League win over Lille",
+      "url": "https://www.skysports.com/football/arsenal-vs-lille/report/577615"
     }
   ],
   "schema_version": 1,
@@ -17,5 +27,5 @@
     "sky_sports"
   ],
   "target_event": 7,
-  "updated_at": "2026-10-13T21:25:44Z"
+  "updated_at": "2026-10-14T00:29:44Z"
 }
