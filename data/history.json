@@ -931,8 +931,19 @@
       "title": "Saka struggling? He’s more of a threat than ever",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13599187/bukayo-saka-arsenal-winger-more-of-a-goal-threat-than-ever-and-proving-doubters-wrong-as-he-evolves"
+    },
+    {
+      "detected_at": "2026-10-14T19:36:11Z",
+      "matched_player_ids": [
+        397
+      ],
+      "published_at_raw": "Wed, 14 Oct 2026 16:55:00 BST",
+      "source": "sky_sports",
+      "title": "Semenyo ‘froze’ after alleged racial abuse by Liverpool fan, court hears",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13599314/antoine-semenyo-manchester-city-forward-froze-after-alleged-racial-abuse-by-liverpool-fan-court-hears"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-14T15:23:51Z"
+  "updated_at": "2026-10-14T19:36:11Z"
 }
