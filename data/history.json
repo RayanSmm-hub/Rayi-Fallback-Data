@@ -942,8 +942,32 @@
       "title": "Semenyo ‘froze’ after alleged racial abuse by Liverpool fan, court hears",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13599314/antoine-semenyo-manchester-city-forward-froze-after-alleged-racial-abuse-by-liverpool-fan-court-hears"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 53,
+          "before": 54
+        }
+      },
+      "detected_at": "2026-10-14T23:00:46Z",
+      "player_id": 201,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Muñoz"
+    },
+    {
+      "detected_at": "2026-10-14T23:00:46Z",
+      "matched_player_ids": [
+        12
+      ],
+      "published_at_raw": "Wed, 14 Oct 2026 21:00:36 GMT",
+      "source": "bbc_sport",
+      "title": "Substitutes steal the show as Arsenal score three against Lille",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm207qv14442o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-14T19:36:11Z"
+  "updated_at": "2026-10-14T23:00:46Z"
 }
