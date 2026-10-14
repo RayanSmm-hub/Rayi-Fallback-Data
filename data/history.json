@@ -908,8 +908,31 @@
       "title": "Saka shines as Arsenal cruise to Champions League win over Lille",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/arsenal-vs-lille/report/577615"
+    },
+    {
+      "detected_at": "2026-10-14T15:23:51Z",
+      "matched_player_ids": [
+        397
+      ],
+      "published_at_raw": "Wed, 14 Oct 2026 14:16:04 GMT",
+      "source": "bbc_sport",
+      "title": "Semenyo 'froze' after alleged racist abuse, court told",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/news/articles/cvlyd3z1g8d8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-14T15:23:51Z",
+      "matched_player_ids": [
+        12,
+        449
+      ],
+      "published_at_raw": "Wed, 14 Oct 2026 11:25:00 BST",
+      "source": "sky_sports",
+      "title": "Saka struggling? He’s more of a threat than ever",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13599187/bukayo-saka-arsenal-winger-more-of-a-goal-threat-than-ever-and-proving-doubters-wrong-as-he-evolves"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-14T10:28:06Z"
+  "updated_at": "2026-10-14T15:23:51Z"
 }
