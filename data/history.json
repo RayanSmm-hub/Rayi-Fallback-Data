@@ -966,8 +966,19 @@
       "title": "Substitutes steal the show as Arsenal score three against Lille",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm207qv14442o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-15T12:46:30Z",
+      "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Thu, 15 Oct 2026 11:27:07 GMT",
+      "source": "bbc_sport",
+      "title": "Everton's Barry on the video he was scared to post",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-15T07:04:15Z"
+  "updated_at": "2026-10-15T12:46:30Z"
 }

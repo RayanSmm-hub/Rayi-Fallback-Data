@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Thu, 15 Oct 2026 11:27:07 GMT",
+      "source": "bbc_sport",
+      "title": "Everton's Barry on the video he was scared to post",
+      "url": "https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         12
       ],
       "published_at_raw": "Wed, 14 Oct 2026 21:00:36 GMT",
@@ -36,5 +45,5 @@
     "sky_sports"
   ],
   "target_event": 7,
-  "updated_at": "2026-10-15T07:04:15Z"
+  "updated_at": "2026-10-15T12:46:30Z"
 }
