@@ -977,8 +977,40 @@
       "title": "Everton's Barry on the video he was scared to post",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 0
+        },
+        "news": {
+          "after": "",
+          "before": "Hamstring injury - Expected back 25 Oct"
+        },
+        "status": {
+          "after": "a",
+          "before": "i"
+        }
+      },
+      "detected_at": "2026-10-15T17:38:48Z",
+      "player_id": 552,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Brobbey"
+    },
+    {
+      "detected_at": "2026-10-15T17:38:48Z",
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Thu, 15 Oct 2026 15:01:26 GMT",
+      "source": "bbc_sport",
+      "title": "Why 6-0, nine-man loss to West Ham 'won't define' Lincoln",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmze4lx10l4lo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-15T12:46:30Z"
+  "updated_at": "2026-10-15T17:38:48Z"
 }

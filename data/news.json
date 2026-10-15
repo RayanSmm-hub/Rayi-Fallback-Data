@@ -3,15 +3,6 @@
   "items": [
     {
       "matched_player_ids": [
-        249
-      ],
-      "published_at_raw": "Thu, 15 Oct 2026 11:27:07 GMT",
-      "source": "bbc_sport",
-      "title": "Everton's Barry on the video he was scared to post",
-      "url": "https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         12
       ],
       "published_at_raw": "Wed, 14 Oct 2026 21:00:36 GMT",
@@ -21,22 +12,30 @@
     },
     {
       "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Thu, 15 Oct 2026 11:27:07 GMT",
+      "source": "bbc_sport",
+      "title": "Everton's Barry on the video he was scared to post",
+      "url": "https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Thu, 15 Oct 2026 15:01:26 GMT",
+      "source": "bbc_sport",
+      "title": "Why 6-0, nine-man loss to West Ham 'won't define' Lincoln",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmze4lx10l4lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         397
       ],
       "published_at_raw": "Wed, 14 Oct 2026 14:16:04 GMT",
       "source": "bbc_sport",
       "title": "Semenyo 'froze' after alleged racist abuse, court told",
       "url": "https://www.bbc.co.uk/news/articles/cvlyd3z1g8d8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        12,
-        449
-      ],
-      "published_at_raw": "Tue, 13 Oct 2026 23:03:04 GMT",
-      "source": "bbc_sport",
-      "title": "Saka responds to Arteta's challenge with 'huge impact'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
@@ -45,5 +44,5 @@
     "sky_sports"
   ],
   "target_event": 7,
-  "updated_at": "2026-10-15T12:46:30Z"
+  "updated_at": "2026-10-15T17:38:48Z"
 }
