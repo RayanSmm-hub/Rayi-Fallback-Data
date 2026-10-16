@@ -1101,8 +1101,40 @@
       "title": "Man Utd latest: Could Shaw and Mainoo return from injury?",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": 100
+        },
+        "news": {
+          "after": "Muscular injury - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-10-16T17:49:50Z",
+      "player_id": 480,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gibbs-White"
+    },
+    {
+      "detected_at": "2026-10-16T17:49:50Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Fri, 16 Oct 2026 15:49:55 GMT",
+      "source": "bbc_sport",
+      "title": "Does Scott's Disney+ exit unmask wider issue in coverage of women's game?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3wv4ej7lv2o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-16T13:47:07Z"
+  "updated_at": "2026-10-16T17:49:50Z"
 }
