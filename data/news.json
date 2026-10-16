@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        115
+      ],
+      "published_at_raw": "Fri, 16 Oct 2026 07:28:45 GMT",
+      "source": "bbc_sport",
+      "title": "Are De Cuyper and Gross essential? FPL gameweek seven dilemmas",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqy7l51e80p0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         249
       ],
       "published_at_raw": "Thu, 15 Oct 2026 11:27:07 GMT",
@@ -26,5 +35,5 @@
     "sky_sports"
   ],
   "target_event": 7,
-  "updated_at": "2026-10-16T03:31:11Z"
+  "updated_at": "2026-10-16T08:48:09Z"
 }

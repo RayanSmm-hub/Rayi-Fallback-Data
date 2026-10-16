@@ -1009,8 +1009,19 @@
       "title": "Why 6-0, nine-man loss to West Ham 'won't define' Lincoln",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmze4lx10l4lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-16T08:48:09Z",
+      "matched_player_ids": [
+        115
+      ],
+      "published_at_raw": "Fri, 16 Oct 2026 07:28:45 GMT",
+      "source": "bbc_sport",
+      "title": "Are De Cuyper and Gross essential? FPL gameweek seven dilemmas",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqy7l51e80p0o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-16T03:31:11Z"
+  "updated_at": "2026-10-16T08:48:09Z"
 }
