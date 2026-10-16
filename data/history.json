@@ -1133,8 +1133,19 @@
       "title": "Does Scott's Disney+ exit unmask wider issue in coverage of women's game?",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm3wv4ej7lv2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-16T20:36:36Z",
+      "matched_player_ids": [
+        94
+      ],
+      "published_at_raw": "Fri, 16 Oct 2026 20:16:40 GMT",
+      "source": "bbc_sport",
+      "title": "Bellingham agrees new Real deal - Saturday's gossip",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-16T17:49:50Z"
+  "updated_at": "2026-10-16T20:36:36Z"
 }
