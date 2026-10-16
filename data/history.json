@@ -1020,8 +1020,89 @@
       "title": "Are De Cuyper and Gross essential? FPL gameweek seven dilemmas",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqy7l51e80p0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 25,
+          "before": 0
+        },
+        "news": {
+          "after": "Ankle injury - 25% chance of playing",
+          "before": "Ankle injury - Unknown return date"
+        },
+        "status": {
+          "after": "d",
+          "before": "i"
+        }
+      },
+      "detected_at": "2026-10-16T13:47:07Z",
+      "player_id": 367,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gakpo"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 25,
+          "before": 75
+        },
+        "news": {
+          "after": "Hamstring injury - 25% chance of playing",
+          "before": "Hamstring injury - 75% chance of playing"
+        }
+      },
+      "detected_at": "2026-10-16T13:47:07Z",
+      "player_id": 368,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Szoboszlai"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 25,
+          "before": 0
+        },
+        "news": {
+          "after": "Thigh injury - 25% chance of playing",
+          "before": "Thigh injury - Unknown return date"
+        },
+        "status": {
+          "after": "d",
+          "before": "i"
+        }
+      },
+      "detected_at": "2026-10-16T13:47:07Z",
+      "player_id": 379,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Isak"
+    },
+    {
+      "detected_at": "2026-10-16T13:47:07Z",
+      "matched_player_ids": [
+        1
+      ],
+      "published_at_raw": "Tue, 06 Oct 2026 05:00:00 GMT",
+      "source": "bbc_sport",
+      "title": "Matt Damon and Leonardo DiCaprio star in a tense 2006 crime thriller",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032m77?at_mid=mSY9B0KXxo&at_campaign=The_Departed&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0032m77&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Departed&at_bbc_team=BBC"
+    },
+    {
+      "detected_at": "2026-10-16T13:47:07Z",
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Fri, 16 Oct 2026 13:00:00 BST",
+      "source": "sky_sports",
+      "title": "Man Utd latest: Could Shaw and Mainoo return from injury?",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-16T08:48:09Z"
+  "updated_at": "2026-10-16T13:47:07Z"
 }

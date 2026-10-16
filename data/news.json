@@ -21,12 +21,21 @@
     },
     {
       "matched_player_ids": [
+        1
+      ],
+      "published_at_raw": "Tue, 06 Oct 2026 05:00:00 GMT",
+      "source": "bbc_sport",
+      "title": "Matt Damon and Leonardo DiCaprio star in a tense 2006 crime thriller",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032m77?at_mid=mSY9B0KXxo&at_campaign=The_Departed&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0032m77&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Departed&at_bbc_team=BBC"
+    },
+    {
+      "matched_player_ids": [
         423
       ],
-      "published_at_raw": "Thu, 15 Oct 2026 15:01:26 GMT",
-      "source": "bbc_sport",
-      "title": "Why 6-0, nine-man loss to West Ham 'won't define' Lincoln",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmze4lx10l4lo?at_medium=RSS&at_campaign=rss"
+      "published_at_raw": "Fri, 16 Oct 2026 13:00:00 BST",
+      "source": "sky_sports",
+      "title": "Man Utd latest: Could Shaw and Mainoo return from injury?",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
     }
   ],
   "schema_version": 1,
@@ -35,5 +44,5 @@
     "sky_sports"
   ],
   "target_event": 7,
-  "updated_at": "2026-10-16T08:48:09Z"
+  "updated_at": "2026-10-16T13:47:07Z"
 }
