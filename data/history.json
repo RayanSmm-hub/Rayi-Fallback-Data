@@ -1144,8 +1144,84 @@
       "title": "Bellingham agrees new Real deal - Saturday's gossip",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 52,
+          "before": 51
+        }
+      },
+      "detected_at": "2026-10-16T23:17:11Z",
+      "player_id": 115,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "De Cuyper"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 68,
+          "before": 69
+        }
+      },
+      "detected_at": "2026-10-16T23:17:11Z",
+      "player_id": 368,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Szoboszlai"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 157,
+          "before": 156
+        }
+      },
+      "detected_at": "2026-10-16T23:17:11Z",
+      "player_id": 411,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Haaland"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 118,
+          "before": 119
+        }
+      },
+      "detected_at": "2026-10-16T23:17:11Z",
+      "player_id": 426,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "B.Fernandes"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 78,
+          "before": 79
+        }
+      },
+      "detected_at": "2026-10-16T23:17:11Z",
+      "player_id": 427,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Mbeumo"
+    },
+    {
+      "detected_at": "2026-10-16T23:17:11Z",
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Thu, 15 Oct 2026 15:01:26 GMT",
+      "source": "bbc_sport",
+      "title": "Why 6-0, nine-man loss to West Ham 'won't define' Lincoln",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmze4lx10l4lo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-16T20:36:36Z"
+  "updated_at": "2026-10-16T23:17:11Z"
 }

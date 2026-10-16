@@ -14,7 +14,7 @@
       "matched_player_ids": [
         94
       ],
-      "published_at_raw": "Fri, 16 Oct 2026 20:16:40 GMT",
+      "published_at_raw": "Fri, 16 Oct 2026 21:57:37 GMT",
       "source": "bbc_sport",
       "title": "Bellingham agrees new Real deal - Saturday's gossip",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o?at_medium=RSS&at_campaign=rss"
@@ -39,6 +39,15 @@
     },
     {
       "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Thu, 15 Oct 2026 15:01:26 GMT",
+      "source": "bbc_sport",
+      "title": "Why 6-0, nine-man loss to West Ham 'won't define' Lincoln",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmze4lx10l4lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         1
       ],
       "published_at_raw": "Tue, 06 Oct 2026 05:00:00 GMT",
@@ -53,5 +62,5 @@
     "sky_sports"
   ],
   "target_event": 7,
-  "updated_at": "2026-10-16T20:36:36Z"
+  "updated_at": "2026-10-16T23:17:11Z"
 }
