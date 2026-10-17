@@ -1338,8 +1338,73 @@
       "title": "Williams: England have a lot to work on",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/rugby-league/live-blog/12040/13600058/rugby-league-world-cup-2026-live-updates-from-england-men-vs-tonga-and-women-vs-wales-in-opening-games-of-the-tournament"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 0,
+          "before": null
+        },
+        "news": {
+          "after": "Suspended until 31 Oct",
+          "before": ""
+        },
+        "status": {
+          "after": "s",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-10-17T16:53:17Z",
+      "player_id": 98,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Janelt"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": 100
+        },
+        "news": {
+          "after": "Unspecified injury - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-10-17T16:53:17Z",
+      "player_id": 368,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Szoboszlai"
+    },
+    {
+      "detected_at": "2026-10-17T16:53:17Z",
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Sat, 17 Oct 2026 17:28:00 BST",
+      "source": "sky_sports",
+      "title": "Man City continue to weather storm as Haaland scores twice in Ipswich win",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/manchester-city-vs-ipswich-town/report/559510"
+    },
+    {
+      "detected_at": "2026-10-17T16:53:17Z",
+      "matched_player_ids": [
+        98,
+        379
+      ],
+      "published_at_raw": "Sat, 17 Oct 2026 17:00:00 BST",
+      "source": "sky_sports",
+      "title": "Isak clinches win for Liverpool over nine-man Brentford",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/brentford-vs-liverpool/report/559505"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-17T13:53:01Z"
+  "updated_at": "2026-10-17T16:53:17Z"
 }

@@ -30,31 +30,22 @@
     },
     {
       "matched_player_ids": [
-        368,
+        411
+      ],
+      "published_at_raw": "Sat, 17 Oct 2026 17:28:00 BST",
+      "source": "sky_sports",
+      "title": "Man City continue to weather storm as Haaland scores twice in Ipswich win",
+      "url": "https://www.skysports.com/football/manchester-city-vs-ipswich-town/report/559510"
+    },
+    {
+      "matched_player_ids": [
+        98,
         379
       ],
-      "published_at_raw": "Sat, 17 Oct 2026 13:00:00 BST",
+      "published_at_raw": "Sat, 17 Oct 2026 17:00:00 BST",
       "source": "sky_sports",
-      "title": "Isak and Szoboszlai start for Liverpool against Brentford LIVE!",
-      "url": "https://www.skysports.com/football/brentford-vs-liverpool/live/559505"
-    },
-    {
-      "matched_player_ids": [
-        40
-      ],
-      "published_at_raw": "Sat, 17 Oct 2026 14:30:00 BST",
-      "source": "sky_sports",
-      "title": "Chelsea inflict Everton's first defeat after Rogers escapes red",
-      "url": "https://www.skysports.com/football/everton-vs-chelsea/report/559507"
-    },
-    {
-      "matched_player_ids": [
-        469
-      ],
-      "published_at_raw": "Sat, 17 Oct 2026 07:00:00 BST",
-      "source": "sky_sports",
-      "title": "Williams: England have a lot to work on",
-      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13600058/rugby-league-world-cup-2026-live-updates-from-england-men-vs-tonga-and-women-vs-wales-in-opening-games-of-the-tournament"
+      "title": "Isak clinches win for Liverpool over nine-man Brentford",
+      "url": "https://www.skysports.com/football/brentford-vs-liverpool/report/559505"
     }
   ],
   "schema_version": 1,
@@ -63,5 +54,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-17T13:53:01Z"
+  "updated_at": "2026-10-17T16:53:17Z"
 }
