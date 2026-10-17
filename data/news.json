@@ -3,15 +3,6 @@
   "items": [
     {
       "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Fri, 16 Oct 2026 15:49:55 GMT",
-      "source": "bbc_sport",
-      "title": "Does Scott's Disney+ exit unmask wider issue in coverage of women's game?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3wv4ej7lv2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         94
       ],
       "published_at_raw": "Fri, 16 Oct 2026 21:57:37 GMT",
@@ -21,21 +12,12 @@
     },
     {
       "matched_player_ids": [
-        115
+        449
       ],
-      "published_at_raw": "Fri, 16 Oct 2026 07:28:45 GMT",
+      "published_at_raw": "Fri, 16 Oct 2026 15:49:55 GMT",
       "source": "bbc_sport",
-      "title": "Are De Cuyper and Gross essential? FPL gameweek seven dilemmas",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqy7l51e80p0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        249
-      ],
-      "published_at_raw": "Thu, 15 Oct 2026 11:27:07 GMT",
-      "source": "bbc_sport",
-      "title": "Everton's Barry on the video he was scared to post",
-      "url": "https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&at_campaign=rss"
+      "title": "Does Scott's Disney+ exit unmask wider issue in coverage of women's game?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3wv4ej7lv2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -45,6 +27,34 @@
       "source": "bbc_sport",
       "title": "Matt Damon and Leonardo DiCaprio star in a tense 2006 crime thriller",
       "url": "https://www.bbc.co.uk/iplayer/episode/m0032m77?at_mid=mSY9B0KXxo&at_campaign=The_Departed&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0032m77&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Departed&at_bbc_team=BBC"
+    },
+    {
+      "matched_player_ids": [
+        368,
+        379
+      ],
+      "published_at_raw": "Sat, 17 Oct 2026 13:00:00 BST",
+      "source": "sky_sports",
+      "title": "Isak and Szoboszlai start for Liverpool against Brentford LIVE!",
+      "url": "https://www.skysports.com/football/brentford-vs-liverpool/live/559505"
+    },
+    {
+      "matched_player_ids": [
+        40
+      ],
+      "published_at_raw": "Sat, 17 Oct 2026 14:30:00 BST",
+      "source": "sky_sports",
+      "title": "Chelsea inflict Everton's first defeat after Rogers escapes red",
+      "url": "https://www.skysports.com/football/everton-vs-chelsea/report/559507"
+    },
+    {
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 17 Oct 2026 07:00:00 BST",
+      "source": "sky_sports",
+      "title": "Williams: England have a lot to work on",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13600058/rugby-league-world-cup-2026-live-updates-from-england-men-vs-tonga-and-women-vs-wales-in-opening-games-of-the-tournament"
     }
   ],
   "schema_version": 1,
@@ -52,6 +62,6 @@
     "bbc_sport",
     "sky_sports"
   ],
-  "target_event": 7,
-  "updated_at": "2026-10-17T10:27:56Z"
+  "target_event": 8,
+  "updated_at": "2026-10-17T13:53:01Z"
 }

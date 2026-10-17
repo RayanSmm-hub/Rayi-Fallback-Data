@@ -1220,8 +1220,126 @@
       "title": "Why 6-0, nine-man loss to West Ham 'won't define' Lincoln",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmze4lx10l4lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 75
+        },
+        "news": {
+          "after": "",
+          "before": "Shoulder injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-17T13:53:01Z",
+      "player_id": 94,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Schade"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 25
+        },
+        "news": {
+          "after": "",
+          "before": "Ankle injury - 25% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-17T13:53:01Z",
+      "player_id": 367,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gakpo"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 25
+        },
+        "news": {
+          "after": "",
+          "before": "Hamstring injury - 25% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-17T13:53:01Z",
+      "player_id": 368,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Szoboszlai"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 25
+        },
+        "news": {
+          "after": "",
+          "before": "Thigh injury - 25% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-17T13:53:01Z",
+      "player_id": 379,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Isak"
+    },
+    {
+      "detected_at": "2026-10-17T13:53:01Z",
+      "matched_player_ids": [
+        368,
+        379
+      ],
+      "published_at_raw": "Sat, 17 Oct 2026 13:00:00 BST",
+      "source": "sky_sports",
+      "title": "Isak and Szoboszlai start for Liverpool against Brentford LIVE!",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/brentford-vs-liverpool/live/559505"
+    },
+    {
+      "detected_at": "2026-10-17T13:53:01Z",
+      "matched_player_ids": [
+        40
+      ],
+      "published_at_raw": "Sat, 17 Oct 2026 14:30:00 BST",
+      "source": "sky_sports",
+      "title": "Chelsea inflict Everton's first defeat after Rogers escapes red",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/everton-vs-chelsea/report/559507"
+    },
+    {
+      "detected_at": "2026-10-17T13:53:01Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 17 Oct 2026 07:00:00 BST",
+      "source": "sky_sports",
+      "title": "Williams: England have a lot to work on",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/rugby-league/live-blog/12040/13600058/rugby-league-world-cup-2026-live-updates-from-england-men-vs-tonga-and-women-vs-wales-in-opening-games-of-the-tournament"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-17T10:27:56Z"
+  "updated_at": "2026-10-17T13:53:01Z"
 }
