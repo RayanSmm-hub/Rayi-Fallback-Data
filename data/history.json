@@ -1489,8 +1489,58 @@
       "title": "Lamine Yamal opens the scoring as Barcelona beat Real Betis",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmewe0wq0wj1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 60,
+          "before": 59
+        }
+      },
+      "detected_at": "2026-10-17T23:48:34Z",
+      "player_id": 8,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Calafiori"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 39,
+          "before": 40
+        }
+      },
+      "detected_at": "2026-10-17T23:48:34Z",
+      "player_id": 259,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Diop"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 80,
+          "before": 79
+        }
+      },
+      "detected_at": "2026-10-17T23:48:34Z",
+      "player_id": 399,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Cherki"
+    },
+    {
+      "detected_at": "2026-10-17T23:48:34Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 17 Oct 2026 17:05:00 BST",
+      "source": "sky_sports",
+      "title": "Williams stars as Golden State Valkyries beat Atlanta Dream in WNBA Finals Game 1",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/nba/news/12040/13600326/wnba-finals-gabby-williams-stars-as-golden-state-valkyries-beat-atlanta-dream-in-wnba-finals-game-1"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-17T21:37:20Z"
+  "updated_at": "2026-10-17T23:48:34Z"
 }

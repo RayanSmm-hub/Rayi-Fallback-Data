@@ -25,7 +25,7 @@
       ],
       "published_at_raw": "Sat, 17 Oct 2026 20:49:36 GMT",
       "source": "bbc_sport",
-      "title": "Lamine Yamal opens the scoring as Barcelona beat Real Betis",
+      "title": "Lamine Yamal opens scoring as Barcelona beat Real Betis",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmewe0wq0wj1o?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -54,6 +54,15 @@
       "source": "bbc_sport",
       "title": "Matt Damon and Leonardo DiCaprio star in a tense 2006 crime thriller",
       "url": "https://www.bbc.co.uk/iplayer/episode/m0032m77?at_mid=mSY9B0KXxo&at_campaign=The_Departed&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0032m77&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Departed&at_bbc_team=BBC"
+    },
+    {
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 17 Oct 2026 17:05:00 BST",
+      "source": "sky_sports",
+      "title": "Williams stars as Golden State Valkyries beat Atlanta Dream in WNBA Finals Game 1",
+      "url": "https://www.skysports.com/nba/news/12040/13600326/wnba-finals-gabby-williams-stars-as-golden-state-valkyries-beat-atlanta-dream-in-wnba-finals-game-1"
     }
   ],
   "schema_version": 1,
@@ -62,5 +71,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-17T21:37:20Z"
+  "updated_at": "2026-10-17T23:48:34Z"
 }
