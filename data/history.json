@@ -1403,8 +1403,83 @@
       "title": "Isak clinches win for Liverpool over nine-man Brentford",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/brentford-vs-liverpool/report/559505"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 0,
+          "before": 75
+        },
+        "news": {
+          "after": "Hamstring injury - Unknown return date",
+          "before": "Unspecified injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "i",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-17T19:03:50Z",
+      "player_id": 368,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Szoboszlai"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": 100
+        },
+        "news": {
+          "after": "Knee injury - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-10-17T19:03:50Z",
+      "player_id": 397,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Semenyo"
+    },
+    {
+      "detected_at": "2026-10-17T19:03:50Z",
+      "matched_player_ids": [
+        98
+      ],
+      "published_at_raw": "Sat, 17 Oct 2026 19:00:13 GMT",
+      "source": "bbc_sport",
+      "title": "Liverpool come from behind to beat nine-man Brentford",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-17T19:03:50Z",
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Sat, 17 Oct 2026 19:00:09 GMT",
+      "source": "bbc_sport",
+      "title": "Haaland nets double as Man City go six points clear at the top",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-17T19:03:50Z",
+      "matched_player_ids": [
+        368
+      ],
+      "published_at_raw": "Sat, 17 Oct 2026 16:56:12 GMT",
+      "source": "bbc_sport",
+      "title": "Liverpool players in 'delicate' situation with 'demanding' schedule - Iraola",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckgelqlz37w3o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-17T16:53:17Z"
+  "updated_at": "2026-10-17T19:03:50Z"
 }
