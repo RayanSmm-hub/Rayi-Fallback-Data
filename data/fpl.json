@@ -275,7 +275,7 @@
       "news_added": null,
       "now_cost": 79,
       "position": "MID",
-      "selected_by_percent": "47.2",
+      "selected_by_percent": "47.3",
       "status": "a",
       "team_id": 6,
       "team_name": "Chelsea",
@@ -671,7 +671,7 @@
       "news_added": "2026-10-17T15:00:08.293301Z",
       "now_cost": 68,
       "position": "MID",
-      "selected_by_percent": "21.5",
+      "selected_by_percent": "21.3",
       "status": "i",
       "team_id": 14,
       "team_name": "Liverpool",
@@ -707,7 +707,7 @@
       "news_added": null,
       "now_cost": 55,
       "position": "GK",
-      "selected_by_percent": "7.7",
+      "selected_by_percent": "7.8",
       "status": "a",
       "team_id": 15,
       "team_name": "Man City",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 8,
-  "updated_at": "2026-10-17T19:03:50Z"
+  "updated_at": "2026-10-17T21:37:20Z"
 }
