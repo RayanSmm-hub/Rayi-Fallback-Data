@@ -167,7 +167,7 @@
       "news_added": null,
       "now_cost": 79,
       "position": "DEF",
-      "selected_by_percent": "21.2",
+      "selected_by_percent": "21.1",
       "status": "a",
       "team_id": 1,
       "team_name": "Arsenal",
@@ -455,7 +455,7 @@
       "news_added": "2026-09-16T19:00:09.919929Z",
       "now_cost": 78,
       "position": "FWD",
-      "selected_by_percent": "72.3",
+      "selected_by_percent": "72.4",
       "status": "a",
       "team_id": 6,
       "team_name": "Chelsea",
@@ -761,7 +761,7 @@
       "news_added": null,
       "now_cost": 58,
       "position": "DEF",
-      "selected_by_percent": "28.9",
+      "selected_by_percent": "28.8",
       "status": "a",
       "team_id": 15,
       "team_name": "Man City",
@@ -779,7 +779,7 @@
       "news_added": "2026-10-17T17:30:09.977110Z",
       "now_cost": 83,
       "position": "MID",
-      "selected_by_percent": "14.5",
+      "selected_by_percent": "14.4",
       "status": "d",
       "team_id": 15,
       "team_name": "Man City",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 8,
-  "updated_at": "2026-10-18T03:26:30Z"
+  "updated_at": "2026-10-18T08:17:02Z"
 }
