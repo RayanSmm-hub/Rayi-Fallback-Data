@@ -1561,8 +1561,30 @@
       "title": "Bournemouth beat 10-man Sunderland to pick up first league win of season",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/bournemouth-vs-sunderland/report/559504"
+    },
+    {
+      "detected_at": "2026-10-18T18:48:07Z",
+      "matched_player_ids": [
+        427
+      ],
+      "published_at_raw": "Sun, 18 Oct 2026 17:24:45 GMT",
+      "source": "bbc_sport",
+      "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-18T18:48:07Z",
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Sun, 18 Oct 2026 16:13:45 GMT",
+      "source": "bbc_sport",
+      "title": "Man City remain unbeaten as Shaw scores twice against Brighton",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-18T16:23:34Z"
+  "updated_at": "2026-10-18T18:48:07Z"
 }

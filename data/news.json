@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        427
+      ],
+      "published_at_raw": "Sun, 18 Oct 2026 17:24:45 GMT",
+      "source": "bbc_sport",
+      "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         346
       ],
       "published_at_raw": "Sun, 18 Oct 2026 14:56:01 GMT",
@@ -27,6 +36,15 @@
       "source": "bbc_sport",
       "title": "Haaland nets double as Man City go six points clear at the top",
       "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Sun, 18 Oct 2026 16:13:45 GMT",
+      "source": "bbc_sport",
+      "title": "Man City remain unbeaten as Shaw scores twice against Brighton",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -71,5 +89,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-18T16:23:34Z"
+  "updated_at": "2026-10-18T18:48:07Z"
 }
