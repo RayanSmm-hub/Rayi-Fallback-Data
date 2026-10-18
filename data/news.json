@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        346
+      ],
+      "published_at_raw": "Sun, 18 Oct 2026 18:59:10 GMT",
+      "source": "bbc_sport",
+      "title": "Leeds extend Man Utd's winless run to six games",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         427
       ],
       "published_at_raw": "Sun, 18 Oct 2026 17:24:45 GMT",
@@ -18,24 +27,6 @@
       "source": "bbc_sport",
       "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        98
-      ],
-      "published_at_raw": "Sat, 17 Oct 2026 19:00:13 GMT",
-      "source": "bbc_sport",
-      "title": "Liverpool come from behind to beat nine-man Brentford",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c65yn28p859wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        411
-      ],
-      "published_at_raw": "Sat, 17 Oct 2026 19:00:09 GMT",
-      "source": "bbc_sport",
-      "title": "Haaland nets double as Man City go six points clear at the top",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6pwgx89djn2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -75,12 +66,12 @@
     },
     {
       "matched_player_ids": [
-        68
+        427
       ],
-      "published_at_raw": "Sun, 18 Oct 2026 16:00:00 BST",
+      "published_at_raw": "Sun, 18 Oct 2026 14:00:00 BST",
       "source": "sky_sports",
-      "title": "Bournemouth beat 10-man Sunderland to pick up first league win of season",
-      "url": "https://www.skysports.com/football/bournemouth-vs-sunderland/report/559504"
+      "title": "Hits & Misses: Mbeumo is Man Utd's only reliable goalscorer as Eze struggles",
+      "url": "https://www.skysports.com/football/news/12040/13600705/premier-league-hits-and-misses-bryan-mbeumo-is-manchester-uniteds-only-reliable-goalscorer-as-eberechi-eze-struggles-for-arsenal"
     }
   ],
   "schema_version": 1,
@@ -89,5 +80,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-18T18:48:07Z"
+  "updated_at": "2026-10-18T21:17:57Z"
 }

@@ -1,6 +1,6 @@
 {
   "_fallback_meta": {
-    "captured_at": "2026-10-18T18:48:07Z",
+    "captured_at": "2026-10-18T21:17:57Z",
     "last_good": true,
     "source": "rayi_public_consumer_read",
     "target_event": 8
@@ -1869,8 +1869,8 @@
       "is_locked": true,
       "outcome_final": false,
       "rank": {
-        "delta_vs_average": 12,
-        "gw_average": 29,
+        "delta_vs_average": -14,
+        "gw_average": 55,
         "gw_points": 41,
         "rank_movement": null,
         "rank_type": "equivalent",
