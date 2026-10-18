@@ -3,15 +3,6 @@
   "items": [
     {
       "matched_player_ids": [
-        346
-      ],
-      "published_at_raw": "Sun, 18 Oct 2026 18:59:10 GMT",
-      "source": "bbc_sport",
-      "title": "Leeds extend Man Utd's winless run to six games",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         427
       ],
       "published_at_raw": "Sun, 18 Oct 2026 17:24:45 GMT",
@@ -27,6 +18,15 @@
       "source": "bbc_sport",
       "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        346
+      ],
+      "published_at_raw": "Sun, 18 Oct 2026 18:59:10 GMT",
+      "source": "bbc_sport",
+      "title": "Leeds extend Man Utd's winless run to six games",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -66,6 +66,15 @@
     },
     {
       "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 17 Oct 2026 17:03:00 BST",
+      "source": "sky_sports",
+      "title": "NFL results: Williams return inspires Bears win as Browns top AFC North",
+      "url": "https://www.skysports.com/nfl/live-blog/12040/13600325/nfl-2026-results-and-highlights-cleveland-browns-go-top-of-afc-north-with-divisional-win-over-baltimore-ravens"
+    },
+    {
+      "matched_player_ids": [
         427
       ],
       "published_at_raw": "Sun, 18 Oct 2026 14:00:00 BST",
@@ -80,5 +89,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-18T21:17:57Z"
+  "updated_at": "2026-10-18T23:31:53Z"
 }

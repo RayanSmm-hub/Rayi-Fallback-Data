@@ -1605,8 +1605,71 @@
       "title": "Hits & Misses: Mbeumo is Man Utd's only reliable goalscorer as Eze struggles",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13600705/premier-league-hits-and-misses-bryan-mbeumo-is-manchester-uniteds-only-reliable-goalscorer-as-eberechi-eze-struggles-for-arsenal"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 62,
+          "before": 61
+        }
+      },
+      "detected_at": "2026-10-18T23:31:53Z",
+      "player_id": 68,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Tavernier"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 79,
+          "before": 78
+        }
+      },
+      "detected_at": "2026-10-18T23:31:53Z",
+      "player_id": 165,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "João Pedro"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 64,
+          "before": 65
+        }
+      },
+      "detected_at": "2026-10-18T23:31:53Z",
+      "player_id": 356,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Virgil"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 79,
+          "before": 80
+        }
+      },
+      "detected_at": "2026-10-18T23:31:53Z",
+      "player_id": 480,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gibbs-White"
+    },
+    {
+      "detected_at": "2026-10-18T23:31:53Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 17 Oct 2026 17:03:00 BST",
+      "source": "sky_sports",
+      "title": "NFL results: Williams return inspires Bears win as Browns top AFC North",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/nfl/live-blog/12040/13600325/nfl-2026-results-and-highlights-cleveland-browns-go-top-of-afc-north-with-divisional-win-over-baltimore-ravens"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-18T21:17:57Z"
+  "updated_at": "2026-10-18T23:31:53Z"
 }
