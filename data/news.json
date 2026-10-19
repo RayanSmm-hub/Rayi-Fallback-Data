@@ -66,15 +66,6 @@
     },
     {
       "matched_player_ids": [
-        469
-      ],
-      "published_at_raw": "Sat, 17 Oct 2026 17:03:00 BST",
-      "source": "sky_sports",
-      "title": "NFL results: Williams return inspires Bears win as Browns top AFC North",
-      "url": "https://www.skysports.com/nfl/live-blog/12040/13600325/nfl-2026-results-and-highlights-cleveland-browns-go-top-of-afc-north-with-divisional-win-over-baltimore-ravens"
-    },
-    {
-      "matched_player_ids": [
         427
       ],
       "published_at_raw": "Sun, 18 Oct 2026 14:00:00 BST",
@@ -89,5 +80,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-18T23:31:53Z"
+  "updated_at": "2026-10-19T03:38:17Z"
 }
