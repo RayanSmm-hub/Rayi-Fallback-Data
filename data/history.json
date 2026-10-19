@@ -1778,8 +1778,30 @@
       "title": "Ref Watch: Should Rogers and Palmer have been sent off?",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions"
+    },
+    {
+      "detected_at": "2026-10-19T21:21:53Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Mon, 19 Oct 2026 20:15:48 GMT",
+      "source": "bbc_sport",
+      "title": "Building Lionesses 2.0 - Wiegman's new challenge awaits",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-19T21:21:53Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Mon, 19 Oct 2026 19:07:00 BST",
+      "source": "sky_sports",
+      "title": "Woods not part of initial Hero World Challenge field",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/golf/news/12040/13601076/tiger-woods-hero-world-challenge-tournament-host-not-listed-8204in-initial-player-field"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-19T16:50:02Z"
+  "updated_at": "2026-10-19T21:21:53Z"
 }
