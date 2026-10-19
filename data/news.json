@@ -14,19 +14,19 @@
       "matched_player_ids": [
         346
       ],
-      "published_at_raw": "Sun, 18 Oct 2026 14:56:01 GMT",
+      "published_at_raw": "Sun, 18 Oct 2026 18:59:10 GMT",
       "source": "bbc_sport",
-      "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss"
+      "title": "Leeds extend Man Utd's winless run to six games",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
         346
       ],
-      "published_at_raw": "Sun, 18 Oct 2026 18:59:10 GMT",
+      "published_at_raw": "Sun, 18 Oct 2026 14:56:01 GMT",
       "source": "bbc_sport",
-      "title": "Leeds extend Man Utd's winless run to six games",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cw4g1dgr2v93o?at_medium=RSS&at_campaign=rss"
+      "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -48,15 +48,6 @@
     },
     {
       "matched_player_ids": [
-        368
-      ],
-      "published_at_raw": "Sat, 17 Oct 2026 16:56:12 GMT",
-      "source": "bbc_sport",
-      "title": "Liverpool players in 'delicate' situation with 'demanding' schedule - Iraola",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckgelqlz37w3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         1
       ],
       "published_at_raw": "Tue, 06 Oct 2026 05:00:00 GMT",
@@ -66,12 +57,12 @@
     },
     {
       "matched_player_ids": [
-        427
+        449
       ],
-      "published_at_raw": "Sun, 18 Oct 2026 14:00:00 BST",
+      "published_at_raw": "Sun, 18 Oct 2026 16:55:00 BST",
       "source": "sky_sports",
-      "title": "Hits & Misses: Mbeumo is Man Utd's only reliable goalscorer as Eze struggles",
-      "url": "https://www.skysports.com/football/news/12040/13600705/premier-league-hits-and-misses-bryan-mbeumo-is-manchester-uniteds-only-reliable-goalscorer-as-eberechi-eze-struggles-for-arsenal"
+      "title": "Verstappen takes on Leclerc's brother in epic GT duel!",
+      "url": "https://www.skysports.com/watch/video/13600693/max-verstappen-takes-on-leclercs-brother-in-epic-gt-duel"
     }
   ],
   "schema_version": 1,
@@ -80,5 +71,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-19T03:38:17Z"
+  "updated_at": "2026-10-19T09:40:08Z"
 }
