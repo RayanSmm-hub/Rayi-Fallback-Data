@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Tue, 20 Oct 2026 22:35:32 GMT",
+      "source": "bbc_sport",
+      "title": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Tue, 20 Oct 2026 16:56:53 GMT",
@@ -21,22 +30,31 @@
     },
     {
       "matched_player_ids": [
+        1
+      ],
+      "published_at_raw": "Tue, 20 Oct 2026 20:33:27 GMT",
+      "source": "bbc_sport",
+      "title": "Arsenal criticism comes from very small minority - Arteta",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm8xzrwv5zpko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        8,
+        449
+      ],
+      "published_at_raw": "Tue, 20 Oct 2026 20:17:15 GMT",
+      "source": "bbc_sport",
+      "title": "Man Utd revisit deal for Hall - Wednesday gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Mon, 19 Oct 2026 20:15:48 GMT",
       "source": "bbc_sport",
       "title": "Building Lionesses 2.0 - Wiegman's new challenge awaits",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        10,
-        480
-      ],
-      "published_at_raw": "Mon, 19 Oct 2026 12:49:39 GMT",
-      "source": "bbc_sport",
-      "title": "Morgan Gibbs-White fined after his car ran red light",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyr3rrxnrxo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -54,5 +72,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-20T19:52:13Z"
+  "updated_at": "2026-10-20T22:57:47Z"
 }

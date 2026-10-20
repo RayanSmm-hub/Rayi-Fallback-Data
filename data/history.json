@@ -1912,8 +1912,42 @@
       "title": "Webb backs VAR over Botman challenge on Jackson",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-20T22:57:47Z",
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Tue, 20 Oct 2026 22:35:32 GMT",
+      "source": "bbc_sport",
+      "title": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-20T22:57:47Z",
+      "matched_player_ids": [
+        1
+      ],
+      "published_at_raw": "Tue, 20 Oct 2026 20:33:27 GMT",
+      "source": "bbc_sport",
+      "title": "Arsenal criticism comes from very small minority - Arteta",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm8xzrwv5zpko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-20T22:57:47Z",
+      "matched_player_ids": [
+        8,
+        449
+      ],
+      "published_at_raw": "Tue, 20 Oct 2026 20:17:15 GMT",
+      "source": "bbc_sport",
+      "title": "Man Utd revisit deal for Hall - Wednesday gossip",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-20T19:52:13Z"
+  "updated_at": "2026-10-20T22:57:47Z"
 }
