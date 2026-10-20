@@ -1,6 +1,6 @@
 {
   "_fallback_meta": {
-    "captured_at": "2026-10-20T15:45:07Z",
+    "captured_at": "2026-10-20T19:52:13Z",
     "last_good": true,
     "source": "rayi_public_consumer_read",
     "target_event": 8
@@ -849,12 +849,12 @@
     "rank": null,
     "status": "future",
     "status_label": "FUTURE · NOT YET ACTIVE",
-    "updated_at": "2026-10-17T07:24:44.822513+00:00"
+    "updated_at": "2026-10-20T16:15:00.445997+00:00"
   },
   "session_required": false,
   "team": {
     "bank_tenths": 13,
-    "cumulative_points": 290,
+    "cumulative_points": 331,
     "current_event": 7,
     "current_plan": {
       "availability_review_id": 15,
@@ -1331,7 +1331,7 @@
     "team_value_basis": "SELL_VALUE_PLUS_BANK",
     "team_value_tenths": 997,
     "type": "RAYI",
-    "updated_at": "2026-10-17T07:24:44.822513+00:00"
+    "updated_at": "2026-10-20T16:15:00.445997+00:00"
   },
   "timeline": [
     {
@@ -1849,43 +1849,52 @@
     },
     {
       "autosubs": [],
-      "bank_after_tenths": 25,
+      "bank_after_tenths": null,
       "bench_ids": [
         57,
         94,
         10,
         346
       ],
-      "bench_loss": null,
+      "bench_loss": 21,
       "captain_id": 12,
       "chip": "NONE",
+      "cumulative_points_after": 331,
       "decision_actualized": true,
       "decision_reason": "T-3h simulation SLA automatically promoted the latest authoritative completed normal plan for independent verification; unfinished chip branches cannot block recording a legal GW decision.",
-      "final_points": null,
-      "free_transfers_next": 1,
+      "display_points": 41,
+      "execution_provenance": null,
+      "final_points": 41,
+      "free_transfers_next": null,
       "gw": 7,
       "history_actual": true,
       "hit_cost": 0,
       "is_locked": true,
-      "outcome_final": false,
+      "outcome_final": true,
+      "outcome_phase": "FINAL",
       "rank": {
+        "captured_at": "2026-10-20T19:20:15.771204+00:00",
         "delta_vs_average": -18,
         "gw_average": 59,
         "gw_points": 41,
-        "rank_movement": null,
+        "rank_best": 8889248,
         "rank_type": "equivalent",
         "rank_value": null,
+        "rank_worst": 8916938,
+        "source": "official_fpl_overall_points_threshold_v2_final",
         "total_points": 331
       },
-      "status": "locked",
+      "recovery_record_id": null,
+      "status": "scored",
       "status_label": "FINAL LOCK",
+      "team_value_tenths": 999,
       "transfers": [
         {
           "in_id": 165,
           "out_id": 379
         }
       ],
-      "updated_at": "2026-10-17T07:24:44.798546+00:00",
+      "updated_at": "2026-10-20T16:15:00.292468+00:00",
       "vice_captain_id": 426
     }
   ]

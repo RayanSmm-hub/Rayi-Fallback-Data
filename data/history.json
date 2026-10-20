@@ -1859,8 +1859,61 @@
       "title": "Aston Villa latest: Manzambi misses Viking tie, Wan Bissaka, Ruggeri out for longer",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 75
+        },
+        "news": {
+          "after": "",
+          "before": "Unspecified injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-20T19:52:13Z",
+      "player_id": 411,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Haaland"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 0,
+          "before": 75
+        },
+        "news": {
+          "after": "Unspecified injury - Unknown return date",
+          "before": "Unspecified injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "i",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-20T19:52:13Z",
+      "player_id": 423,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Shaw"
+    },
+    {
+      "detected_at": "2026-10-20T19:52:13Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Tue, 20 Oct 2026 16:56:53 GMT",
+      "source": "bbc_sport",
+      "title": "Webb backs VAR over Botman challenge on Jackson",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-20T15:45:07Z"
+  "updated_at": "2026-10-20T19:52:13Z"
 }
