@@ -1800,8 +1800,34 @@
       "title": "Woods not part of initial Hero World Challenge field",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/golf/news/12040/13601076/tiger-woods-hero-world-challenge-tournament-host-not-listed-8204in-initial-player-field"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 53,
+          "before": 52
+        }
+      },
+      "detected_at": "2026-10-20T00:31:41Z",
+      "player_id": 115,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "De Cuyper"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 80,
+          "before": 79
+        }
+      },
+      "detected_at": "2026-10-20T00:31:41Z",
+      "player_id": 40,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Rogers"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-19T21:21:53Z"
+  "updated_at": "2026-10-20T00:31:41Z"
 }

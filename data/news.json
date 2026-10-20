@@ -32,21 +32,21 @@
     },
     {
       "matched_player_ids": [
-        423
-      ],
-      "published_at_raw": "Sun, 18 Oct 2026 16:13:45 GMT",
-      "source": "bbc_sport",
-      "title": "Man City remain unbeaten as Shaw scores twice against Brighton",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         427
       ],
       "published_at_raw": "Sun, 18 Oct 2026 17:24:45 GMT",
       "source": "bbc_sport",
       "title": "Mbeumo offers Carrick solace as Man Utd winless run goes on",
       "url": "https://www.bbc.co.uk/sport/football/articles/c699zmgmx9vzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Sun, 18 Oct 2026 16:13:45 GMT",
+      "source": "bbc_sport",
+      "title": "Man City remain unbeaten as Shaw scores twice against Brighton",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -65,16 +65,6 @@
       "source": "sky_sports",
       "title": "Woods not part of initial Hero World Challenge field",
       "url": "https://www.skysports.com/golf/news/12040/13601076/tiger-woods-hero-world-challenge-tournament-host-not-listed-8204in-initial-player-field"
-    },
-    {
-      "matched_player_ids": [
-        40,
-        154
-      ],
-      "published_at_raw": "Mon, 19 Oct 2026 08:15:00 BST",
-      "source": "sky_sports",
-      "title": "Ref Watch: Should Rogers and Palmer have been sent off?",
-      "url": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions"
     }
   ],
   "schema_version": 1,
@@ -83,5 +73,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-19T21:21:53Z"
+  "updated_at": "2026-10-20T00:31:41Z"
 }
