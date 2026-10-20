@@ -1826,8 +1826,19 @@
       "source": "official_fpl",
       "type": "player_state_change",
       "web_name": "Rogers"
+    },
+    {
+      "detected_at": "2026-10-20T11:02:10Z",
+      "matched_player_ids": [
+        12
+      ],
+      "published_at_raw": "Mon, 19 Oct 2026 10:08:00 BST",
+      "source": "sky_sports",
+      "title": "Boulter puts rain delays behind her to progress at Japan Open",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/tennis/news/12040/13601193/japan-open-katie-boulter-puts-rain-delays-behind-her-as-brit-progresses-to-second-round-in-osaka"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-20T05:42:54Z"
+  "updated_at": "2026-10-20T11:02:10Z"
 }

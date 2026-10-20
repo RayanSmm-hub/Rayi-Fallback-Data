@@ -59,6 +59,15 @@
     },
     {
       "matched_player_ids": [
+        12
+      ],
+      "published_at_raw": "Mon, 19 Oct 2026 10:08:00 BST",
+      "source": "sky_sports",
+      "title": "Boulter puts rain delays behind her to progress at Japan Open",
+      "url": "https://www.skysports.com/tennis/news/12040/13601193/japan-open-katie-boulter-puts-rain-delays-behind-her-as-brit-progresses-to-second-round-in-osaka"
+    },
+    {
+      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Mon, 19 Oct 2026 19:07:00 BST",
@@ -73,5 +82,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-20T05:42:54Z"
+  "updated_at": "2026-10-20T11:02:10Z"
 }
