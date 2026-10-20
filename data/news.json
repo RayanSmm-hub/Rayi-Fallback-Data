@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Tue, 20 Oct 2026 12:12:51 GMT",
+      "source": "bbc_sport",
+      "title": "Ronaldo let Manchester United down - Ten Hag",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Mon, 19 Oct 2026 20:15:48 GMT",
@@ -50,12 +59,12 @@
     },
     {
       "matched_player_ids": [
-        346
+        12
       ],
-      "published_at_raw": "Sun, 18 Oct 2026 14:56:01 GMT",
-      "source": "bbc_sport",
-      "title": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&at_campaign=rss"
+      "published_at_raw": "Tue, 20 Oct 2026 14:51:00 BST",
+      "source": "sky_sports",
+      "title": "Aston Villa latest: Manzambi misses Viking tie, Wan Bissaka, Ruggeri out for longer",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
     },
     {
       "matched_player_ids": [
@@ -65,15 +74,6 @@
       "source": "sky_sports",
       "title": "Boulter puts rain delays behind her to progress at Japan Open",
       "url": "https://www.skysports.com/tennis/news/12040/13601193/japan-open-katie-boulter-puts-rain-delays-behind-her-as-brit-progresses-to-second-round-in-osaka"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Mon, 19 Oct 2026 19:07:00 BST",
-      "source": "sky_sports",
-      "title": "Woods not part of initial Hero World Challenge field",
-      "url": "https://www.skysports.com/golf/news/12040/13601076/tiger-woods-hero-world-challenge-tournament-host-not-listed-8204in-initial-player-field"
     }
   ],
   "schema_version": 1,
@@ -82,5 +82,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-20T11:02:10Z"
+  "updated_at": "2026-10-20T15:45:07Z"
 }
