@@ -64,6 +64,33 @@
       "source": "bbc_sport",
       "title": "Man City remain unbeaten as Shaw scores twice against Brighton",
       "url": "https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        106
+      ],
+      "published_at_raw": "Wed, 21 Oct 2026 10:00:00 BST",
+      "source": "sky_sports",
+      "title": "What's happened to Igor Thiago?",
+      "url": "https://www.skysports.com/football/news/12040/13601356/igor-thiago-should-brentford-be-worried-about-the-brazil-strikers-lack-of-premier-league-goals-in-2026-27"
+    },
+    {
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Wed, 21 Oct 2026 09:04:00 BST",
+      "source": "sky_sports",
+      "title": "England Women confirm Sri Lanka white-ball tour for 2027",
+      "url": "https://www.skysports.com/cricket/news/12040/13601792/england-womens-cricket-charlotte-edwards-side-confirm-white-ball-tour-of-sri-lanka-and-red-ball-training-camp-in-india"
+    },
+    {
+      "matched_player_ids": [
+        12
+      ],
+      "published_at_raw": "Wed, 21 Oct 2026 08:39:00 BST",
+      "source": "sky_sports",
+      "title": "Boulter beats Golubic to reach Japan Open quarter-finals",
+      "url": "https://www.skysports.com/tennis/news/12040/13601799/japan-open-katie-boulter-beats-viktorija-golubic-in-straight-sets-to-advance-to-quarter-finals-in-osaka"
     }
   ],
   "schema_version": 1,
@@ -72,5 +99,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-21T06:26:48Z"
+  "updated_at": "2026-10-21T12:13:57Z"
 }

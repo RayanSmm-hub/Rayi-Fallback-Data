@@ -1946,8 +1946,41 @@
       "title": "Man Utd revisit deal for Hall - Wednesday gossip",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-21T12:13:57Z",
+      "matched_player_ids": [
+        106
+      ],
+      "published_at_raw": "Wed, 21 Oct 2026 10:00:00 BST",
+      "source": "sky_sports",
+      "title": "What's happened to Igor Thiago?",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13601356/igor-thiago-should-brentford-be-worried-about-the-brazil-strikers-lack-of-premier-league-goals-in-2026-27"
+    },
+    {
+      "detected_at": "2026-10-21T12:13:57Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Wed, 21 Oct 2026 09:04:00 BST",
+      "source": "sky_sports",
+      "title": "England Women confirm Sri Lanka white-ball tour for 2027",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/cricket/news/12040/13601792/england-womens-cricket-charlotte-edwards-side-confirm-white-ball-tour-of-sri-lanka-and-red-ball-training-camp-in-india"
+    },
+    {
+      "detected_at": "2026-10-21T12:13:57Z",
+      "matched_player_ids": [
+        12
+      ],
+      "published_at_raw": "Wed, 21 Oct 2026 08:39:00 BST",
+      "source": "sky_sports",
+      "title": "Boulter beats Golubic to reach Japan Open quarter-finals",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/tennis/news/12040/13601799/japan-open-katie-boulter-beats-viktorija-golubic-in-straight-sets-to-advance-to-quarter-finals-in-osaka"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-21T06:26:48Z"
+  "updated_at": "2026-10-21T12:13:57Z"
 }
