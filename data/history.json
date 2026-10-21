@@ -1979,8 +1979,51 @@
       "title": "Boulter beats Golubic to reach Japan Open quarter-finals",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/tennis/news/12040/13601799/japan-open-katie-boulter-beats-viktorija-golubic-in-straight-sets-to-advance-to-quarter-finals-in-osaka"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 75
+        },
+        "news": {
+          "after": "",
+          "before": "Muscular injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-21T17:32:53Z",
+      "player_id": 480,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gibbs-White"
+    },
+    {
+      "detected_at": "2026-10-21T17:32:53Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Wed, 21 Oct 2026 17:00:00 BST",
+      "source": "sky_sports",
+      "title": "White: Fisher will reach \"another level\" for his next fight",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/boxing/news/12040/13601903/johnny-fisher-will-reach-another-level-for-next-fight-says-zuffa-boxings-dana-white-charles-martin-wants-fisher-fight"
+    },
+    {
+      "detected_at": "2026-10-21T17:32:53Z",
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Wed, 21 Oct 2026 13:00:00 BST",
+      "source": "sky_sports",
+      "title": "VAR who wrongly awarded Haaland winner vs Man Utd set for PL return",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13601893/var-official-matt-donohue-set-for-premier-league-return-after-wrongly-awarding-erling-haaland-winner-vs-man-utd"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-21T12:13:57Z"
+  "updated_at": "2026-10-21T17:32:53Z"
 }

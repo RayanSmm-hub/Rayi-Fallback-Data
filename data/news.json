@@ -12,12 +12,13 @@
     },
     {
       "matched_player_ids": [
+        8,
         449
       ],
-      "published_at_raw": "Tue, 20 Oct 2026 16:56:53 GMT",
+      "published_at_raw": "Tue, 20 Oct 2026 20:17:15 GMT",
       "source": "bbc_sport",
-      "title": "Webb backs VAR over Botman challenge on Jackson",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss"
+      "title": "Man Utd revisit deal for Hall - Wednesday gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -30,13 +31,12 @@
     },
     {
       "matched_player_ids": [
-        8,
         449
       ],
-      "published_at_raw": "Tue, 20 Oct 2026 20:17:15 GMT",
+      "published_at_raw": "Tue, 20 Oct 2026 16:56:53 GMT",
       "source": "bbc_sport",
-      "title": "Man Utd revisit deal for Hall - Wednesday gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo?at_medium=RSS&at_campaign=rss"
+      "title": "Webb backs VAR over Botman challenge on Jackson",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -67,30 +67,30 @@
     },
     {
       "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Wed, 21 Oct 2026 17:00:00 BST",
+      "source": "sky_sports",
+      "title": "White: Fisher will reach \"another level\" for his next fight",
+      "url": "https://www.skysports.com/boxing/news/12040/13601903/johnny-fisher-will-reach-another-level-for-next-fight-says-zuffa-boxings-dana-white-charles-martin-wants-fisher-fight"
+    },
+    {
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Wed, 21 Oct 2026 13:00:00 BST",
+      "source": "sky_sports",
+      "title": "VAR who wrongly awarded Haaland winner vs Man Utd set for PL return",
+      "url": "https://www.skysports.com/football/news/12040/13601893/var-official-matt-donohue-set-for-premier-league-return-after-wrongly-awarding-erling-haaland-winner-vs-man-utd"
+    },
+    {
+      "matched_player_ids": [
         106
       ],
       "published_at_raw": "Wed, 21 Oct 2026 10:00:00 BST",
       "source": "sky_sports",
       "title": "What's happened to Igor Thiago?",
       "url": "https://www.skysports.com/football/news/12040/13601356/igor-thiago-should-brentford-be-worried-about-the-brazil-strikers-lack-of-premier-league-goals-in-2026-27"
-    },
-    {
-      "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Wed, 21 Oct 2026 09:04:00 BST",
-      "source": "sky_sports",
-      "title": "England Women confirm Sri Lanka white-ball tour for 2027",
-      "url": "https://www.skysports.com/cricket/news/12040/13601792/england-womens-cricket-charlotte-edwards-side-confirm-white-ball-tour-of-sri-lanka-and-red-ball-training-camp-in-india"
-    },
-    {
-      "matched_player_ids": [
-        12
-      ],
-      "published_at_raw": "Wed, 21 Oct 2026 08:39:00 BST",
-      "source": "sky_sports",
-      "title": "Boulter beats Golubic to reach Japan Open quarter-finals",
-      "url": "https://www.skysports.com/tennis/news/12040/13601799/japan-open-katie-boulter-beats-viktorija-golubic-in-straight-sets-to-advance-to-quarter-finals-in-osaka"
     }
   ],
   "schema_version": 1,
@@ -99,5 +99,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-21T12:13:57Z"
+  "updated_at": "2026-10-21T17:32:53Z"
 }
