@@ -2022,8 +2022,51 @@
       "title": "VAR who wrongly awarded Haaland winner vs Man Utd set for PL return",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13601893/var-official-matt-donohue-set-for-premier-league-return-after-wrongly-awarding-erling-haaland-winner-vs-man-utd"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": null
+        },
+        "news": {
+          "after": "Thigh injury - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-10-21T21:20:59Z",
+      "player_id": 12,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Saka"
+    },
+    {
+      "detected_at": "2026-10-21T21:20:59Z",
+      "matched_player_ids": [
+        12
+      ],
+      "published_at_raw": "Wed, 21 Oct 2026 21:09:36 GMT",
+      "source": "bbc_sport",
+      "title": "Rice strikes to earn Arsenal draw at Bayern",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crx23nx0vp8jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-21T21:20:59Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Wed, 21 Oct 2026 18:21:00 BST",
+      "source": "sky_sports",
+      "title": "McCullum on Brook: Our relationship has really blossomed",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/cricket/news/12040/13601984/england-cricket-brendon-mccullum-believes-his-relationship-with-harry-brook-has-blossomed-over-the-past-18-months"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-21T17:32:53Z"
+  "updated_at": "2026-10-21T21:20:59Z"
 }

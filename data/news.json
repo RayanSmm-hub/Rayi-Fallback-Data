@@ -3,22 +3,21 @@
   "items": [
     {
       "matched_player_ids": [
+        12
+      ],
+      "published_at_raw": "Wed, 21 Oct 2026 21:09:36 GMT",
+      "source": "bbc_sport",
+      "title": "Rice strikes to earn Arsenal draw at Bayern",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crx23nx0vp8jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         411
       ],
       "published_at_raw": "Tue, 20 Oct 2026 22:35:32 GMT",
       "source": "bbc_sport",
       "title": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        8,
-        449
-      ],
-      "published_at_raw": "Tue, 20 Oct 2026 20:17:15 GMT",
-      "source": "bbc_sport",
-      "title": "Man Utd revisit deal for Hall - Wednesday gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yq0rd0vvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -40,30 +39,12 @@
     },
     {
       "matched_player_ids": [
-        1
-      ],
-      "published_at_raw": "Tue, 20 Oct 2026 20:33:27 GMT",
-      "source": "bbc_sport",
-      "title": "Arsenal criticism comes from very small minority - Arteta",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm8xzrwv5zpko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Mon, 19 Oct 2026 20:15:48 GMT",
       "source": "bbc_sport",
       "title": "Building Lionesses 2.0 - Wiegman's new challenge awaits",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        423
-      ],
-      "published_at_raw": "Sun, 18 Oct 2026 16:13:45 GMT",
-      "source": "bbc_sport",
-      "title": "Man City remain unbeaten as Shaw scores twice against Brighton",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -85,12 +66,12 @@
     },
     {
       "matched_player_ids": [
-        106
+        10
       ],
-      "published_at_raw": "Wed, 21 Oct 2026 10:00:00 BST",
+      "published_at_raw": "Wed, 21 Oct 2026 18:21:00 BST",
       "source": "sky_sports",
-      "title": "What's happened to Igor Thiago?",
-      "url": "https://www.skysports.com/football/news/12040/13601356/igor-thiago-should-brentford-be-worried-about-the-brazil-strikers-lack-of-premier-league-goals-in-2026-27"
+      "title": "McCullum on Brook: Our relationship has really blossomed",
+      "url": "https://www.skysports.com/cricket/news/12040/13601984/england-cricket-brendon-mccullum-believes-his-relationship-with-harry-brook-has-blossomed-over-the-past-18-months"
     }
   ],
   "schema_version": 1,
@@ -99,5 +80,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-21T17:32:53Z"
+  "updated_at": "2026-10-21T21:20:59Z"
 }
