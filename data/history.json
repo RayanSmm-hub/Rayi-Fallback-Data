@@ -2065,8 +2065,49 @@
       "title": "McCullum on Brook: Our relationship has really blossomed",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/cricket/news/12040/13601984/england-cricket-brendon-mccullum-believes-his-relationship-with-harry-brook-has-blossomed-over-the-past-18-months"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 50,
+          "before": 75
+        },
+        "news": {
+          "after": "Thigh injury - 50% chance of playing",
+          "before": "Thigh injury - 75% chance of playing"
+        }
+      },
+      "detected_at": "2026-10-22T00:07:11Z",
+      "player_id": 12,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Saka"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 61,
+          "before": 60
+        }
+      },
+      "detected_at": "2026-10-22T00:07:11Z",
+      "player_id": 346,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Calvert-Lewin"
+    },
+    {
+      "detected_at": "2026-10-22T00:07:11Z",
+      "matched_player_ids": [
+        12
+      ],
+      "published_at_raw": "Wed, 21 Oct 2026 22:51:56 GMT",
+      "source": "bbc_sport",
+      "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-21T21:20:59Z"
+  "updated_at": "2026-10-22T00:07:11Z"
 }

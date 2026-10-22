@@ -5,6 +5,15 @@
       "matched_player_ids": [
         12
       ],
+      "published_at_raw": "Wed, 21 Oct 2026 22:51:56 GMT",
+      "source": "bbc_sport",
+      "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        12
+      ],
       "published_at_raw": "Wed, 21 Oct 2026 21:09:36 GMT",
       "source": "bbc_sport",
       "title": "Rice strikes to earn Arsenal draw at Bayern",
@@ -27,15 +36,6 @@
       "source": "bbc_sport",
       "title": "Ronaldo let Manchester United down - Ten Hag",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Tue, 20 Oct 2026 16:56:53 GMT",
-      "source": "bbc_sport",
-      "title": "Webb backs VAR over Botman challenge on Jackson",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3vqz1de9lro?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -80,5 +80,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-21T21:20:59Z"
+  "updated_at": "2026-10-22T00:07:11Z"
 }
