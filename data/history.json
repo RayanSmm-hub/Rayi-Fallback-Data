@@ -2139,8 +2139,30 @@
       "title": "How will Arsenal cope without Saka?",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13602180/how-will-arsenal-cope-without-injured-bukayo-saka-noni-madueke-and-max-dowman-in-frame-for-more-minutes"
+    },
+    {
+      "detected_at": "2026-10-22T23:00:02Z",
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Sun, 18 Oct 2026 16:13:45 GMT",
+      "source": "bbc_sport",
+      "title": "Man City remain unbeaten as Shaw scores twice against Brighton",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-22T23:00:02Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Thu, 22 Oct 2026 21:40:00 BST",
+      "source": "sky_sports",
+      "title": "'That's not enough for me' - Hamilton explains why he went against Ferrari strategy",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/f1/news/12040/13602364/lewis-hamilton-ferrari-driver-explains-taking-strategy-into-own-hands-in-singapore-ahead-of-united-states-gp"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-22T19:47:19Z"
+  "updated_at": "2026-10-22T23:00:02Z"
 }
