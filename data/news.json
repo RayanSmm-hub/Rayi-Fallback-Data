@@ -21,24 +21,6 @@
     },
     {
       "matched_player_ids": [
-        411
-      ],
-      "published_at_raw": "Tue, 20 Oct 2026 22:35:32 GMT",
-      "source": "bbc_sport",
-      "title": "No Haaland, no problem - can Foden be Man City's alternative goalscorer?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqx2vjdnwkyyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Tue, 20 Oct 2026 12:12:51 GMT",
-      "source": "bbc_sport",
-      "title": "Ronaldo let Manchester United down - Ten Hag",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Mon, 19 Oct 2026 20:15:48 GMT",
@@ -48,30 +30,12 @@
     },
     {
       "matched_player_ids": [
-        10
+        449
       ],
-      "published_at_raw": "Wed, 21 Oct 2026 17:00:00 BST",
+      "published_at_raw": "Thu, 22 Oct 2026 10:00:00 BST",
       "source": "sky_sports",
-      "title": "White: Fisher will reach \"another level\" for his next fight",
-      "url": "https://www.skysports.com/boxing/news/12040/13601903/johnny-fisher-will-reach-another-level-for-next-fight-says-zuffa-boxings-dana-white-charles-martin-wants-fisher-fight"
-    },
-    {
-      "matched_player_ids": [
-        411
-      ],
-      "published_at_raw": "Wed, 21 Oct 2026 13:00:00 BST",
-      "source": "sky_sports",
-      "title": "VAR who wrongly awarded Haaland winner vs Man Utd set for PL return",
-      "url": "https://www.skysports.com/football/news/12040/13601893/var-official-matt-donohue-set-for-premier-league-return-after-wrongly-awarding-erling-haaland-winner-vs-man-utd"
-    },
-    {
-      "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Wed, 21 Oct 2026 18:21:00 BST",
-      "source": "sky_sports",
-      "title": "McCullum on Brook: Our relationship has really blossomed",
-      "url": "https://www.skysports.com/cricket/news/12040/13601984/england-cricket-brendon-mccullum-believes-his-relationship-with-harry-brook-has-blossomed-over-the-past-18-months"
+      "title": "From the highest highs to the lowest lows: How Bjorn is rediscovering her best self",
+      "url": "https://www.skysports.com/football/news/12040/13601848/nathalie-bjorn-chelsea-women-defender-on-her-incredible-injury-comeback-vice-captaincy-and-wsl-improvements"
     }
   ],
   "schema_version": 1,
@@ -80,5 +44,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-22T05:12:45Z"
+  "updated_at": "2026-10-22T10:27:23Z"
 }
