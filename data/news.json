@@ -12,6 +12,15 @@
     },
     {
       "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Thu, 22 Oct 2026 10:28:21 GMT",
+      "source": "bbc_sport",
+      "title": "Third-longest serving manager in top 92 clubs Woodman leaves Bromley",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck0541dzqe04o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         12
       ],
       "published_at_raw": "Wed, 21 Oct 2026 21:09:36 GMT",
@@ -30,12 +39,12 @@
     },
     {
       "matched_player_ids": [
-        449
+        12
       ],
-      "published_at_raw": "Thu, 22 Oct 2026 10:00:00 BST",
+      "published_at_raw": "Thu, 22 Oct 2026 09:51:00 BST",
       "source": "sky_sports",
-      "title": "From the highest highs to the lowest lows: How Bjorn is rediscovering her best self",
-      "url": "https://www.skysports.com/football/news/12040/13601848/nathalie-bjorn-chelsea-women-defender-on-her-incredible-injury-comeback-vice-captaincy-and-wsl-improvements"
+      "title": "How will Arsenal cope without Saka?",
+      "url": "https://www.skysports.com/football/news/12040/13602180/how-will-arsenal-cope-without-injured-bukayo-saka-noni-madueke-and-max-dowman-in-frame-for-more-minutes"
     }
   ],
   "schema_version": 1,
@@ -44,5 +53,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-22T10:27:23Z"
+  "updated_at": "2026-10-22T15:31:41Z"
 }
