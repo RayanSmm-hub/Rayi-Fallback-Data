@@ -5,10 +5,10 @@
       "matched_player_ids": [
         12
       ],
-      "published_at_raw": "Wed, 21 Oct 2026 22:51:56 GMT",
+      "published_at_raw": "Wed, 21 Oct 2026 21:09:36 GMT",
       "source": "bbc_sport",
-      "title": "Saka injury 'does not look good' - how will Arsenal cope?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss"
+      "title": "Rice strikes to earn Arsenal draw at Bayern",
+      "url": "https://www.bbc.co.uk/sport/football/videos/crx23nx0vp8jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -23,10 +23,10 @@
       "matched_player_ids": [
         12
       ],
-      "published_at_raw": "Wed, 21 Oct 2026 21:09:36 GMT",
+      "published_at_raw": "Wed, 21 Oct 2026 22:51:56 GMT",
       "source": "bbc_sport",
-      "title": "Rice strikes to earn Arsenal draw at Bayern",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crx23nx0vp8jo?at_medium=RSS&at_campaign=rss"
+      "title": "Saka injury 'does not look good' - how will Arsenal cope?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -36,15 +36,6 @@
       "source": "bbc_sport",
       "title": "Building Lionesses 2.0 - Wiegman's new challenge awaits",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        12
-      ],
-      "published_at_raw": "Thu, 22 Oct 2026 09:51:00 BST",
-      "source": "sky_sports",
-      "title": "How will Arsenal cope without Saka?",
-      "url": "https://www.skysports.com/football/news/12040/13602180/how-will-arsenal-cope-without-injured-bukayo-saka-noni-madueke-and-max-dowman-in-frame-for-more-minutes"
     }
   ],
   "schema_version": 1,
@@ -53,5 +44,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-22T15:31:41Z"
+  "updated_at": "2026-10-22T19:47:19Z"
 }
