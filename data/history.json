@@ -2161,8 +2161,34 @@
       "title": "'That's not enough for me' - Hamilton explains why he went against Ferrari strategy",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/f1/news/12040/13602364/lewis-hamilton-ferrari-driver-explains-taking-strategy-into-own-hands-in-singapore-ahead-of-united-states-gp"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 98,
+          "before": 97
+        }
+      },
+      "detected_at": "2026-10-23T01:25:24Z",
+      "player_id": 154,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Palmer"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 79,
+          "before": 78
+        }
+      },
+      "detected_at": "2026-10-23T01:25:24Z",
+      "player_id": 427,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Mbeumo"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-22T23:00:02Z"
+  "updated_at": "2026-10-23T01:25:24Z"
 }
