@@ -2339,8 +2339,143 @@
       "title": "Williams volleys Forest in front at Ipswich!",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13602847/goal-n-williams-13-ipswich-0-0-nottm-forest"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 62,
+          "before": 61
+        }
+      },
+      "detected_at": "2026-10-23T23:20:37Z",
+      "player_id": 1,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Raya"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 95,
+          "before": 96
+        }
+      },
+      "detected_at": "2026-10-23T23:20:37Z",
+      "player_id": 12,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Saka"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 63,
+          "before": 62
+        }
+      },
+      "detected_at": "2026-10-23T23:20:37Z",
+      "player_id": 68,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Tavernier"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 82,
+          "before": 83
+        }
+      },
+      "detected_at": "2026-10-23T23:20:37Z",
+      "player_id": 397,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Semenyo"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 42,
+          "before": 43
+        }
+      },
+      "detected_at": "2026-10-23T23:20:37Z",
+      "player_id": 423,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Shaw"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 117,
+          "before": 118
+        }
+      },
+      "detected_at": "2026-10-23T23:20:37Z",
+      "player_id": 426,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "B.Fernandes"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 44,
+          "before": 45
+        }
+      },
+      "detected_at": "2026-10-23T23:20:37Z",
+      "player_id": 496,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Kinsky"
+    },
+    {
+      "detected_at": "2026-10-23T23:20:37Z",
+      "matched_player_ids": [
+        259
+      ],
+      "published_at_raw": "Fri, 23 Oct 2026 22:15:29 GMT",
+      "source": "bbc_sport",
+      "title": "'It doesn't make sense' - Glasner confused after Diop avoids red card",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8ly03l6klzpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-23T23:20:37Z",
+      "matched_player_ids": [
+        259
+      ],
+      "published_at_raw": "Fri, 23 Oct 2026 22:52:00 BST",
+      "source": "sky_sports",
+      "title": "'A clear red' - Should Ipswich's Diop have been sent off?",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13602915/ipswichs-issa-diop-escaped-a-red-card-for-a-foul-on-nottingham-forests-james-mcatee-but-was-it-the-right-call"
+    },
+    {
+      "detected_at": "2026-10-23T23:20:37Z",
+      "matched_player_ids": [
+        259
+      ],
+      "published_at_raw": "Fri, 23 Oct 2026 22:56:00 BST",
+      "source": "sky_sports",
+      "title": "Did Diop deny a clear goalscoring opportunity?",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13602919/did-issa-diop-deny-james-mcatee-a-clear-goalscoring-opportunity"
+    },
+    {
+      "detected_at": "2026-10-23T23:20:37Z",
+      "matched_player_ids": [
+        259
+      ],
+      "published_at_raw": "Fri, 23 Oct 2026 22:47:00 BST",
+      "source": "sky_sports",
+      "title": "Glasner and O'Neil's contrasting views on Diop's controversial foul",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13602911/oliver-glasner-and-gary-oneils-contrasting-views-on-issa-diops-controversial-foul"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-23T20:13:48Z"
+  "updated_at": "2026-10-23T23:20:37Z"
 }

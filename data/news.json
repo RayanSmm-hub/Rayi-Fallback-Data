@@ -12,6 +12,15 @@
     },
     {
       "matched_player_ids": [
+        259
+      ],
+      "published_at_raw": "Fri, 23 Oct 2026 22:15:29 GMT",
+      "source": "bbc_sport",
+      "title": "'It doesn't make sense' - Glasner confused after Diop avoids red card",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c8ly03l6klzpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         423
       ],
       "published_at_raw": "Sun, 18 Oct 2026 16:13:45 GMT",
@@ -48,30 +57,30 @@
     },
     {
       "matched_player_ids": [
-        469
+        259
       ],
-      "published_at_raw": "Fri, 23 Oct 2026 20:20:00 BST",
+      "published_at_raw": "Fri, 23 Oct 2026 22:52:00 BST",
       "source": "sky_sports",
-      "title": "Williams volleys Forest in front at Ipswich!",
-      "url": "https://www.skysports.com/watch/video/13602847/goal-n-williams-13-ipswich-0-0-nottm-forest"
+      "title": "'A clear red' - Should Ipswich's Diop have been sent off?",
+      "url": "https://www.skysports.com/football/news/12040/13602915/ipswichs-issa-diop-escaped-a-red-card-for-a-foul-on-nottingham-forests-james-mcatee-but-was-it-the-right-call"
     },
     {
       "matched_player_ids": [
-        449
+        259
       ],
-      "published_at_raw": "Fri, 23 Oct 2026 17:30:00 BST",
+      "published_at_raw": "Fri, 23 Oct 2026 22:56:00 BST",
       "source": "sky_sports",
-      "title": "Burning Up backed to rise to Futurity challenge",
-      "url": "https://www.skysports.com/racing/news/12040/13602715/racing-tips-burning-up-backed-to-rise-to-futurity-challenge"
+      "title": "Did Diop deny a clear goalscoring opportunity?",
+      "url": "https://www.skysports.com/watch/video/13602919/did-issa-diop-deny-james-mcatee-a-clear-goalscoring-opportunity"
     },
     {
       "matched_player_ids": [
-        469
+        259
       ],
-      "published_at_raw": "Thu, 22 Oct 2026 12:10:00 BST",
+      "published_at_raw": "Fri, 23 Oct 2026 22:47:00 BST",
       "source": "sky_sports",
-      "title": "Forest latest: Williams on goal struggles, new role and recovery under Glasner",
-      "url": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+      "title": "Glasner and O'Neil's contrasting views on Diop's controversial foul",
+      "url": "https://www.skysports.com/watch/video/13602911/oliver-glasner-and-gary-oneils-contrasting-views-on-issa-diops-controversial-foul"
     }
   ],
   "schema_version": 1,
@@ -80,5 +89,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-23T20:13:48Z"
+  "updated_at": "2026-10-23T23:20:37Z"
 }
