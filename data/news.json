@@ -3,21 +3,21 @@
   "items": [
     {
       "matched_player_ids": [
+        12
+      ],
+      "published_at_raw": "Fri, 23 Oct 2026 14:09:36 GMT",
+      "source": "bbc_sport",
+      "title": "Arsenal fear Saka could be out for two months",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyql6v5q82o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         411
       ],
       "published_at_raw": "Fri, 23 Oct 2026 06:56:15 GMT",
       "source": "bbc_sport",
       "title": "Haaland captaincy headache - stick or twist? FPL gameweek eight dilemmas",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq1m43jee9z5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        12
-      ],
-      "published_at_raw": "Wed, 21 Oct 2026 22:51:56 GMT",
-      "source": "bbc_sport",
-      "title": "Saka injury 'does not look good' - how will Arsenal cope?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg5j1zdn4m3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -41,6 +41,15 @@
       "matched_player_ids": [
         449
       ],
+      "published_at_raw": "Fri, 08 May 2026 21:02:30 GMT",
+      "source": "bbc_sport",
+      "title": "Coming soon: Sir David Attenborough's next great ocean journey",
+      "url": "https://www.bbc.co.uk/iplayer/episodes/m002zl60/watch/p0phnw1z?at_mid=0Q85UjCr2P&at_campaign=BBC_Extended_Trailer_Blue_Planet_III&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl60&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=awareness&at_link_title=BBC_Extended_Trailer_Blue_Planet_III&at_bbc_team=BBC"
+    },
+    {
+      "matched_player_ids": [
+        449
+      ],
       "published_at_raw": "Fri, 23 Oct 2026 06:44:39 GMT",
       "source": "bbc_sport",
       "title": "Injury issues mount at Hearts amid Milne & Borchgrevink blows - gossip",
@@ -59,10 +68,37 @@
       "matched_player_ids": [
         449
       ],
-      "published_at_raw": "Fri, 23 Oct 2026 10:00:00 BST",
+      "published_at_raw": "Fri, 23 Oct 2026 17:30:00 BST",
       "source": "sky_sports",
-      "title": "O'Neill challenges Celtic to 'find a way' to win in Europe",
-      "url": "https://www.skysports.com/football/news/12040/13602587/martin-oneill-challenges-celtic-to-find-a-way-in-europe-but-are-they-just-not-good-enough"
+      "title": "Burning Up backed to rise to Futurity challenge",
+      "url": "https://www.skysports.com/racing/news/12040/13602715/racing-tips-burning-up-backed-to-rise-to-futurity-challenge"
+    },
+    {
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Thu, 22 Oct 2026 12:10:00 BST",
+      "source": "sky_sports",
+      "title": "Forest latest: Williams on goal struggles, new role and recovery under Glasner",
+      "url": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+    },
+    {
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Fri, 23 Oct 2026 09:39:00 BST",
+      "source": "sky_sports",
+      "title": "Defiant Carrick denies dressing room divide and backs himself to turn Man Utd around",
+      "url": "https://www.skysports.com/football/news/12040/13602589/man-utd-boss-michael-carrick-insists-there-is-no-divide-despite-bruno-fernandes-criticism"
+    },
+    {
+      "matched_player_ids": [
+        368
+      ],
+      "published_at_raw": "Fri, 23 Oct 2026 13:15:00 BST",
+      "source": "sky_sports",
+      "title": "Liverpool latest: Barcola, Munoz, Szoboszlai updates ahead of Brighton clash",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
     }
   ],
   "schema_version": 1,
@@ -71,5 +107,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-23T11:57:15Z"
+  "updated_at": "2026-10-23T16:52:49Z"
 }
