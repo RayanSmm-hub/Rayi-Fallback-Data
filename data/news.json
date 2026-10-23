@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Fri, 23 Oct 2026 06:56:15 GMT",
+      "source": "bbc_sport",
+      "title": "Haaland captaincy headache - stick or twist? FPL gameweek eight dilemmas",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq1m43jee9z5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         12
       ],
       "published_at_raw": "Wed, 21 Oct 2026 22:51:56 GMT",
@@ -32,6 +41,15 @@
       "matched_player_ids": [
         449
       ],
+      "published_at_raw": "Fri, 23 Oct 2026 06:44:39 GMT",
+      "source": "bbc_sport",
+      "title": "Injury issues mount at Hearts amid Milne & Borchgrevink blows - gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm86z5w5y21zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        449
+      ],
       "published_at_raw": "Mon, 19 Oct 2026 20:15:48 GMT",
       "source": "bbc_sport",
       "title": "Building Lionesses 2.0 - Wiegman's new challenge awaits",
@@ -41,10 +59,10 @@
       "matched_player_ids": [
         449
       ],
-      "published_at_raw": "Thu, 22 Oct 2026 21:40:00 BST",
+      "published_at_raw": "Fri, 23 Oct 2026 10:00:00 BST",
       "source": "sky_sports",
-      "title": "'That's not enough for me' - Hamilton explains why he went against Ferrari strategy",
-      "url": "https://www.skysports.com/f1/news/12040/13602364/lewis-hamilton-ferrari-driver-explains-taking-strategy-into-own-hands-in-singapore-ahead-of-united-states-gp"
+      "title": "O'Neill challenges Celtic to 'find a way' to win in Europe",
+      "url": "https://www.skysports.com/football/news/12040/13602587/martin-oneill-challenges-celtic-to-find-a-way-in-europe-but-are-they-just-not-good-enough"
     }
   ],
   "schema_version": 1,
@@ -53,5 +71,5 @@
     "sky_sports"
   ],
   "target_event": 8,
-  "updated_at": "2026-10-23T06:21:06Z"
+  "updated_at": "2026-10-23T11:57:15Z"
 }
