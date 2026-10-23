@@ -2328,8 +2328,19 @@
       "title": "Liverpool latest: Barcola, Munoz, Szoboszlai updates ahead of Brighton clash",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+    },
+    {
+      "detected_at": "2026-10-23T20:13:48Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Fri, 23 Oct 2026 20:20:00 BST",
+      "source": "sky_sports",
+      "title": "Williams volleys Forest in front at Ipswich!",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13602847/goal-n-williams-13-ipswich-0-0-nottm-forest"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-23T16:52:49Z"
+  "updated_at": "2026-10-23T20:13:48Z"
 }

@@ -12,24 +12,6 @@
     },
     {
       "matched_player_ids": [
-        411
-      ],
-      "published_at_raw": "Fri, 23 Oct 2026 06:56:15 GMT",
-      "source": "bbc_sport",
-      "title": "Haaland captaincy headache - stick or twist? FPL gameweek eight dilemmas",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq1m43jee9z5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Thu, 22 Oct 2026 10:28:21 GMT",
-      "source": "bbc_sport",
-      "title": "Third-longest serving manager in top 92 clubs Woodman leaves Bromley",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck0541dzqe04o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         423
       ],
       "published_at_raw": "Sun, 18 Oct 2026 16:13:45 GMT",
@@ -66,6 +48,15 @@
     },
     {
       "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Fri, 23 Oct 2026 20:20:00 BST",
+      "source": "sky_sports",
+      "title": "Williams volleys Forest in front at Ipswich!",
+      "url": "https://www.skysports.com/watch/video/13602847/goal-n-williams-13-ipswich-0-0-nottm-forest"
+    },
+    {
+      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Fri, 23 Oct 2026 17:30:00 BST",
@@ -81,24 +72,6 @@
       "source": "sky_sports",
       "title": "Forest latest: Williams on goal struggles, new role and recovery under Glasner",
       "url": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
-    },
-    {
-      "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Fri, 23 Oct 2026 09:39:00 BST",
-      "source": "sky_sports",
-      "title": "Defiant Carrick denies dressing room divide and backs himself to turn Man Utd around",
-      "url": "https://www.skysports.com/football/news/12040/13602589/man-utd-boss-michael-carrick-insists-there-is-no-divide-despite-bruno-fernandes-criticism"
-    },
-    {
-      "matched_player_ids": [
-        368
-      ],
-      "published_at_raw": "Fri, 23 Oct 2026 13:15:00 BST",
-      "source": "sky_sports",
-      "title": "Liverpool latest: Barcola, Munoz, Szoboszlai updates ahead of Brighton clash",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
     }
   ],
   "schema_version": 1,
@@ -106,6 +79,6 @@
     "bbc_sport",
     "sky_sports"
   ],
-  "target_event": 8,
-  "updated_at": "2026-10-23T16:52:49Z"
+  "target_event": 9,
+  "updated_at": "2026-10-23T20:13:48Z"
 }

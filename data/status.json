@@ -1,16 +1,16 @@
 {
   "app_snapshot_refreshed": true,
-  "deadline_time": "2026-10-23T17:30:00Z",
+  "deadline_time": "2026-10-31T11:00:00Z",
   "errors": [],
   "fixture_count": 10,
   "live_available": true,
-  "news_matches": 11,
+  "news_matches": 8,
   "note": "Temporary public read-only fallback. No secrets, private model code, or personal identifiers.",
   "players_found": 53,
   "schema_version": 1,
   "service": "Ray.i FPL fallback data",
   "state": "OK",
-  "target_event": 8,
-  "updated_at": "2026-10-23T16:52:49Z",
+  "target_event": 9,
+  "updated_at": "2026-10-23T20:13:48Z",
   "watchlist_count": 53
 }
