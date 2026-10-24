@@ -2495,8 +2495,19 @@
       "source": "official_fpl",
       "type": "player_state_change",
       "web_name": "N.Williams"
+    },
+    {
+      "detected_at": "2026-10-24T11:54:14Z",
+      "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 11:27:40 GMT",
+      "source": "bbc_sport",
+      "title": "Barnsley legend Barry 'Spud' Murphy dies",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyqljyyg1lo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-24T06:56:10Z"
+  "updated_at": "2026-10-24T11:54:14Z"
 }

@@ -12,6 +12,15 @@
     },
     {
       "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 11:27:40 GMT",
+      "source": "bbc_sport",
+      "title": "Barnsley legend Barry 'Spud' Murphy dies",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyqljyyg1lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         259
       ],
       "published_at_raw": "Fri, 23 Oct 2026 22:15:29 GMT",
@@ -41,15 +50,6 @@
       "matched_player_ids": [
         449
       ],
-      "published_at_raw": "Fri, 23 Oct 2026 06:44:39 GMT",
-      "source": "bbc_sport",
-      "title": "Injury issues mount at Hearts amid Milne & Borchgrevink blows - gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm86z5w5y21zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
       "published_at_raw": "Mon, 19 Oct 2026 20:15:48 GMT",
       "source": "bbc_sport",
       "title": "Building Lionesses 2.0 - Wiegman's new challenge awaits",
@@ -63,24 +63,6 @@
       "source": "sky_sports",
       "title": "'A clear red' - Should Ipswich's Diop have been sent off?",
       "url": "https://www.skysports.com/football/news/12040/13602915/ipswichs-issa-diop-escaped-a-red-card-for-a-foul-on-nottingham-forests-james-mcatee-but-was-it-the-right-call"
-    },
-    {
-      "matched_player_ids": [
-        259
-      ],
-      "published_at_raw": "Fri, 23 Oct 2026 22:56:00 BST",
-      "source": "sky_sports",
-      "title": "Did Diop deny a clear goalscoring opportunity?",
-      "url": "https://www.skysports.com/watch/video/13602919/did-issa-diop-deny-james-mcatee-a-clear-goalscoring-opportunity"
-    },
-    {
-      "matched_player_ids": [
-        259
-      ],
-      "published_at_raw": "Fri, 23 Oct 2026 22:47:00 BST",
-      "source": "sky_sports",
-      "title": "Glasner and O'Neil's contrasting views on Diop's controversial foul",
-      "url": "https://www.skysports.com/watch/video/13602911/oliver-glasner-and-gary-oneils-contrasting-views-on-issa-diops-controversial-foul"
     }
   ],
   "schema_version": 1,
@@ -89,5 +71,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-24T06:56:10Z"
+  "updated_at": "2026-10-24T11:54:14Z"
 }
