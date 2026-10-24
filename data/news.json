@@ -3,21 +3,22 @@
   "items": [
     {
       "matched_player_ids": [
-        12
+        384
       ],
-      "published_at_raw": "Fri, 23 Oct 2026 14:09:36 GMT",
+      "published_at_raw": "Sat, 24 Oct 2026 15:05:45 GMT",
       "source": "bbc_sport",
-      "title": "Arsenal fear Saka could be out for two months",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyql6v5q82o?at_medium=RSS&at_campaign=rss"
+      "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
-        249
+        10,
+        469
       ],
-      "published_at_raw": "Sat, 24 Oct 2026 11:27:40 GMT",
+      "published_at_raw": "Sat, 24 Oct 2026 15:03:37 GMT",
       "source": "bbc_sport",
-      "title": "Barnsley legend Barry 'Spud' Murphy dies",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyqljyyg1lo?at_medium=RSS&at_campaign=rss"
+      "title": "'It's harsh' - was Arsenal's winning penalty a controversial decision?",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw62ylp68m4po?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -30,12 +31,21 @@
     },
     {
       "matched_player_ids": [
-        423
+        249
       ],
-      "published_at_raw": "Sun, 18 Oct 2026 16:13:45 GMT",
+      "published_at_raw": "Sat, 24 Oct 2026 11:27:40 GMT",
       "source": "bbc_sport",
-      "title": "Man City remain unbeaten as Shaw scores twice against Brighton",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqrly0ly7j59o?at_medium=RSS&at_campaign=rss"
+      "title": "Barnsley legend Barry 'Spud' Murphy dies",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyqljyyg1lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        12
+      ],
+      "published_at_raw": "Fri, 23 Oct 2026 14:09:36 GMT",
+      "source": "bbc_sport",
+      "title": "Arsenal fear Saka could be out for two months",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyql6v5q82o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -48,21 +58,21 @@
     },
     {
       "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Mon, 19 Oct 2026 20:15:48 GMT",
-      "source": "bbc_sport",
-      "title": "Building Lionesses 2.0 - Wiegman's new challenge awaits",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvze4w57746yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         259
       ],
       "published_at_raw": "Fri, 23 Oct 2026 22:52:00 BST",
       "source": "sky_sports",
       "title": "'A clear red' - Should Ipswich's Diop have been sent off?",
       "url": "https://www.skysports.com/football/news/12040/13602915/ipswichs-issa-diop-escaped-a-red-card-for-a-foul-on-nottingham-forests-james-mcatee-but-was-it-the-right-call"
+    },
+    {
+      "matched_player_ids": [
+        4
+      ],
+      "published_at_raw": "Thu, 22 Oct 2026 15:17:00 BST",
+      "source": "sky_sports",
+      "title": "Gabriel extends Arsenal's lead vs Everton LIVE!",
+      "url": "https://www.skysports.com/football/arsenal-vs-everton/live/559514"
     }
   ],
   "schema_version": 1,
@@ -71,5 +81,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-24T11:54:14Z"
+  "updated_at": "2026-10-24T15:31:12Z"
 }
