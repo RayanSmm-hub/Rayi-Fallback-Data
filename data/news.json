@@ -3,11 +3,20 @@
   "items": [
     {
       "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 18:26:29 GMT",
+      "source": "bbc_sport",
+      "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         384
       ],
       "published_at_raw": "Sat, 24 Oct 2026 15:05:45 GMT",
       "source": "bbc_sport",
-      "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
+      "title": "Donnarumma & Guehi highlight Man City issues as solid Arsenal move level",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss"
     },
     {
@@ -31,24 +40,6 @@
     },
     {
       "matched_player_ids": [
-        249
-      ],
-      "published_at_raw": "Sat, 24 Oct 2026 11:27:40 GMT",
-      "source": "bbc_sport",
-      "title": "Barnsley legend Barry 'Spud' Murphy dies",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyqljyyg1lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        12
-      ],
-      "published_at_raw": "Fri, 23 Oct 2026 14:09:36 GMT",
-      "source": "bbc_sport",
-      "title": "Arsenal fear Saka could be out for two months",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyql6v5q82o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Fri, 08 May 2026 21:02:30 GMT",
@@ -58,21 +49,21 @@
     },
     {
       "matched_player_ids": [
-        259
+        154
       ],
-      "published_at_raw": "Fri, 23 Oct 2026 22:52:00 BST",
+      "published_at_raw": "Sat, 24 Oct 2026 19:06:00 BST",
       "source": "sky_sports",
-      "title": "'A clear red' - Should Ipswich's Diop have been sent off?",
-      "url": "https://www.skysports.com/football/news/12040/13602915/ipswichs-issa-diop-escaped-a-red-card-for-a-foul-on-nottingham-forests-james-mcatee-but-was-it-the-right-call"
+      "title": "Should Palmer have seen straight red for barge on Mateus Fernandes?",
+      "url": "https://www.skysports.com/watch/video/13603322/booked-m-fernandes-72-chelsea-0-0-tottenham-hotspur"
     },
     {
       "matched_player_ids": [
-        4
+        154
       ],
-      "published_at_raw": "Thu, 22 Oct 2026 15:17:00 BST",
+      "published_at_raw": "Sat, 24 Oct 2026 19:18:00 BST",
       "source": "sky_sports",
-      "title": "Gabriel extends Arsenal's lead vs Everton LIVE!",
-      "url": "https://www.skysports.com/football/arsenal-vs-everton/live/559514"
+      "title": "'Lost his head!' - Disaster for Chelsea as Palmer sent off for second yellow",
+      "url": "https://www.skysports.com/watch/video/13603330/off-c-palmer-80-chelsea-0-1-tottenham-hotspur"
     }
   ],
   "schema_version": 1,
@@ -81,5 +72,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-24T15:31:12Z"
+  "updated_at": "2026-10-24T18:37:20Z"
 }

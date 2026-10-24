@@ -2540,8 +2540,83 @@
       "title": "Gabriel extends Arsenal's lead vs Everton LIVE!",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/arsenal-vs-everton/live/559514"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": null
+        },
+        "news": {
+          "after": "Hip injury - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-10-24T18:37:20Z",
+      "player_id": 8,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Calafiori"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": 100
+        },
+        "news": {
+          "after": "Unspecified injury - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-10-24T18:37:20Z",
+      "player_id": 165,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "João Pedro"
+    },
+    {
+      "detected_at": "2026-10-24T18:37:20Z",
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 18:26:29 GMT",
+      "source": "bbc_sport",
+      "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-24T18:37:20Z",
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 19:06:00 BST",
+      "source": "sky_sports",
+      "title": "Should Palmer have seen straight red for barge on Mateus Fernandes?",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13603322/booked-m-fernandes-72-chelsea-0-0-tottenham-hotspur"
+    },
+    {
+      "detected_at": "2026-10-24T18:37:20Z",
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 19:18:00 BST",
+      "source": "sky_sports",
+      "title": "'Lost his head!' - Disaster for Chelsea as Palmer sent off for second yellow",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13603330/off-c-palmer-80-chelsea-0-1-tottenham-hotspur"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-24T15:31:12Z"
+  "updated_at": "2026-10-24T18:37:20Z"
 }
