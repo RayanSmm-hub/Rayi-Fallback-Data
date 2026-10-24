@@ -2615,8 +2615,86 @@
       "title": "'Lost his head!' - Disaster for Chelsea as Palmer sent off for second yellow",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13603330/off-c-palmer-80-chelsea-0-1-tottenham-hotspur"
+    },
+    {
+      "detected_at": "2026-10-24T21:25:46Z",
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 19:17:06 GMT",
+      "source": "bbc_sport",
+      "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-24T21:25:46Z",
+      "matched_player_ids": [
+        4,
+        31
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 18:59:30 GMT",
+      "source": "bbc_sport",
+      "title": "Arsenal beat Everton to go level on points with leaders Man City",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-24T21:25:46Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 18:58:25 GMT",
+      "source": "bbc_sport",
+      "title": "Barnet condemn racial abuse of Noel-Williams",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqm2dx312d98o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-24T21:25:46Z",
+      "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 19:50:31 GMT",
+      "source": "bbc_sport",
+      "title": "Cardiff's Aberfan inspiration after emotional tribute",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj93z1pxdp57o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-24T21:25:46Z",
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 21:14:00 BST",
+      "source": "sky_sports",
+      "title": "Alonso 'out-coached', 'petulant' Palmer and Penders howler: Chelsea's horror night",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13603342/chelsea-cole-palmer-red-card-mike-penders-howler-and-out-coached-by-roberto-de-zerbi-on-horror-night-for-xabi-alonso"
+    },
+    {
+      "detected_at": "2026-10-24T21:25:46Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 20:42:00 BST",
+      "source": "sky_sports",
+      "title": "Golden State beat Atlanta in Game 4 to level WNBA Finals",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/nba/news/12040/13603375/wnba-finals-golden-state-valkyries-beat-atlanta-dream-67-62-in-game-4-to-level-best-of-seven-series"
+    },
+    {
+      "detected_at": "2026-10-24T21:25:46Z",
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 19:30:00 BST",
+      "source": "sky_sports",
+      "title": "Spurs earn deserved win at Chelsea after Penders error and Palmer red",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/report/559516"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-24T18:37:20Z"
+  "updated_at": "2026-10-24T21:25:46Z"
 }

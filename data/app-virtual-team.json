@@ -1,6 +1,6 @@
 {
   "_fallback_meta": {
-    "captured_at": "2026-10-24T18:37:20Z",
+    "captured_at": "2026-10-24T21:25:46Z",
     "last_good": true,
     "source": "rayi_public_consumer_read",
     "target_event": 9
@@ -960,7 +960,7 @@
         165
       ],
       "stale": true,
-      "stale_at": "2026-10-24T18:30:00.373864+00:00",
+      "stale_at": "2026-10-24T21:20:00.188518+00:00",
       "stale_reason": "Material planning inputs changed. Ray.i is rebuilding the decision.",
       "status": "PLAN_READY",
       "status_label": "STALE · UPDATE REQUIRED",
@@ -1079,7 +1079,7 @@
         165
       ],
       "stale": true,
-      "stale_at": "2026-10-24T18:30:00.373864+00:00",
+      "stale_at": "2026-10-24T21:20:00.188518+00:00",
       "stale_reason": "Material planning inputs changed. Ray.i is rebuilding the decision.",
       "status": "PLAN_READY",
       "status_label": "STALE · UPDATE REQUIRED",
@@ -1175,7 +1175,7 @@
     "team_value_basis": "SELL_VALUE_PLUS_BANK",
     "team_value_tenths": 998,
     "type": "RAYI",
-    "updated_at": "2026-10-24T18:30:00.373864+00:00"
+    "updated_at": "2026-10-24T21:20:00.188518+00:00"
   },
   "timeline": [
     {
