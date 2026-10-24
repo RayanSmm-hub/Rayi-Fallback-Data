@@ -2474,8 +2474,29 @@
       "title": "Glasner and O'Neil's contrasting views on Diop's controversial foul",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13602911/oliver-glasner-and-gary-oneils-contrasting-views-on-issa-diops-controversial-foul"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": 100
+        },
+        "news": {
+          "after": "Arm injury - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-10-24T01:49:53Z",
+      "player_id": 469,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "N.Williams"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-23T23:20:37Z"
+  "updated_at": "2026-10-24T01:49:53Z"
 }
