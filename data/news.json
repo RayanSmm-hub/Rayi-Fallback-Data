@@ -3,6 +3,34 @@
   "items": [
     {
       "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 19:17:06 GMT",
+      "source": "bbc_sport",
+      "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        4,
+        31
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 18:59:30 GMT",
+      "source": "bbc_sport",
+      "title": "Arsenal beat Everton to go level on points with leaders Man City",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 21:34:19 GMT",
+      "source": "bbc_sport",
+      "title": "Man Utd not an unmanageable club - Carrick",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         384
       ],
       "published_at_raw": "Sat, 24 Oct 2026 15:05:45 GMT",
@@ -23,30 +51,10 @@
       "matched_player_ids": [
         154
       ],
-      "published_at_raw": "Sat, 24 Oct 2026 19:17:06 GMT",
+      "published_at_raw": "Sat, 24 Oct 2026 22:43:33 GMT",
       "source": "bbc_sport",
-      "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        4,
-        31
-      ],
-      "published_at_raw": "Sat, 24 Oct 2026 18:59:30 GMT",
-      "source": "bbc_sport",
-      "title": "Arsenal beat Everton to go level on points with leaders Man City",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        10,
-        469
-      ],
-      "published_at_raw": "Sat, 24 Oct 2026 15:03:37 GMT",
-      "source": "bbc_sport",
-      "title": "'It's harsh' - was Arsenal's winning penalty a controversial decision?",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cw62ylp68m4po?at_medium=RSS&at_campaign=rss"
+      "title": "Should Palmer have been sent off earlier than he was?",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmd93enq4z20o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -65,6 +73,16 @@
       "source": "bbc_sport",
       "title": "Cardiff's Aberfan inspiration after emotional tribute",
       "url": "https://www.bbc.co.uk/sport/football/articles/cj93z1pxdp57o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        10,
+        469
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 15:03:37 GMT",
+      "source": "bbc_sport",
+      "title": "'It's harsh' - was Arsenal's winning penalty a controversial decision?",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw62ylp68m4po?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -101,33 +119,6 @@
       "source": "sky_sports",
       "title": "Golden State beat Atlanta in Game 4 to level WNBA Finals",
       "url": "https://www.skysports.com/nba/news/12040/13603375/wnba-finals-golden-state-valkyries-beat-atlanta-dream-67-62-in-game-4-to-level-best-of-seven-series"
-    },
-    {
-      "matched_player_ids": [
-        154
-      ],
-      "published_at_raw": "Sat, 24 Oct 2026 19:06:00 BST",
-      "source": "sky_sports",
-      "title": "Should Palmer have seen straight red for barge on Mateus Fernandes?",
-      "url": "https://www.skysports.com/watch/video/13603322/booked-m-fernandes-72-chelsea-0-0-tottenham-hotspur"
-    },
-    {
-      "matched_player_ids": [
-        154
-      ],
-      "published_at_raw": "Sat, 24 Oct 2026 19:30:00 BST",
-      "source": "sky_sports",
-      "title": "Spurs earn deserved win at Chelsea after Penders error and Palmer red",
-      "url": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/report/559516"
-    },
-    {
-      "matched_player_ids": [
-        154
-      ],
-      "published_at_raw": "Sat, 24 Oct 2026 19:18:00 BST",
-      "source": "sky_sports",
-      "title": "'Lost his head!' - Disaster for Chelsea as Palmer sent off for second yellow",
-      "url": "https://www.skysports.com/watch/video/13603330/off-c-palmer-80-chelsea-0-1-tottenham-hotspur"
     }
   ],
   "schema_version": 1,
@@ -136,5 +127,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-24T21:25:46Z"
+  "updated_at": "2026-10-24T23:33:20Z"
 }

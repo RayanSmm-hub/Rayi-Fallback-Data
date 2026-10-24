@@ -1,6 +1,6 @@
 {
   "_fallback_meta": {
-    "captured_at": "2026-10-24T21:25:46Z",
+    "captured_at": "2026-10-24T23:33:20Z",
     "last_good": true,
     "source": "rayi_public_consumer_read",
     "target_event": 9
@@ -861,6 +861,19 @@
   "selected_gw": {
     "deadline_decision": null,
     "decision_actualized": false,
+    "decision_contract": {
+      "class": "NOT_LOCKED",
+      "classification_reason": "NO_EXPLICIT_LOCK",
+      "execution_final": false,
+      "fallback_not_primary": false,
+      "gw": 9,
+      "ok": true,
+      "primary_verified": false,
+      "source": "NONE",
+      "staged_plan": false,
+      "version": "rayi_decision_contract_v3"
+    },
+    "decision_source_class": "NOT_LOCKED",
     "display_decision": {
       "bank_after_tenths": 41,
       "bank_before_tenths": 41,
@@ -960,7 +973,7 @@
         165
       ],
       "stale": true,
-      "stale_at": "2026-10-24T21:20:00.188518+00:00",
+      "stale_at": "2026-10-24T23:30:00.331133+00:00",
       "stale_reason": "Material planning inputs changed. Ray.i is rebuilding the decision.",
       "status": "PLAN_READY",
       "status_label": "STALE · UPDATE REQUIRED",
@@ -973,6 +986,7 @@
     "gw": 9,
     "history_actual": false,
     "outcome_final": false,
+    "primary_strategy73_verified": false,
     "rank": null,
     "status": "open",
     "updated_at": "2026-10-23T17:30:00.540515+00:00"
@@ -1079,7 +1093,7 @@
         165
       ],
       "stale": true,
-      "stale_at": "2026-10-24T21:20:00.188518+00:00",
+      "stale_at": "2026-10-24T23:30:00.331133+00:00",
       "stale_reason": "Material planning inputs changed. Ray.i is rebuilding the decision.",
       "status": "PLAN_READY",
       "status_label": "STALE · UPDATE REQUIRED",
@@ -1175,7 +1189,7 @@
     "team_value_basis": "SELL_VALUE_PLUS_BANK",
     "team_value_tenths": 998,
     "type": "RAYI",
-    "updated_at": "2026-10-24T21:20:00.188518+00:00"
+    "updated_at": "2026-10-24T23:30:00.331133+00:00"
   },
   "timeline": [
     {

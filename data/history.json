@@ -2693,8 +2693,56 @@
       "title": "Spurs earn deserved win at Chelsea after Penders error and Palmer red",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/report/559516"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 60,
+          "before": 61
+        }
+      },
+      "detected_at": "2026-10-24T23:33:20Z",
+      "player_id": 569,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gonzalo"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 67,
+          "before": 68
+        }
+      },
+      "detected_at": "2026-10-24T23:33:20Z",
+      "player_id": 368,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Szoboszlai"
+    },
+    {
+      "detected_at": "2026-10-24T23:33:20Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 21:34:19 GMT",
+      "source": "bbc_sport",
+      "title": "Man Utd not an unmanageable club - Carrick",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-24T23:33:20Z",
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Sat, 24 Oct 2026 22:43:33 GMT",
+      "source": "bbc_sport",
+      "title": "Should Palmer have been sent off earlier than he was?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmd93enq4z20o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-24T21:25:46Z"
+  "updated_at": "2026-10-24T23:33:20Z"
 }
