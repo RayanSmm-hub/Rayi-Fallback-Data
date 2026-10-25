@@ -22,12 +22,12 @@
     },
     {
       "matched_player_ids": [
-        385
+        154
       ],
-      "published_at_raw": "Sat, 24 Oct 2026 21:34:19 GMT",
+      "published_at_raw": "Sat, 24 Oct 2026 18:26:29 GMT",
       "source": "bbc_sport",
-      "title": "Man Utd not an unmanageable club - Carrick",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss"
+      "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -40,12 +40,12 @@
     },
     {
       "matched_player_ids": [
-        154
+        385
       ],
-      "published_at_raw": "Sat, 24 Oct 2026 18:26:29 GMT",
+      "published_at_raw": "Sat, 24 Oct 2026 21:34:19 GMT",
       "source": "bbc_sport",
-      "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss"
+      "title": "Man Utd not an unmanageable club - Carrick",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -64,15 +64,6 @@
       "source": "bbc_sport",
       "title": "Barnet condemn racial abuse of Noel-Williams",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqm2dx312d98o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        249
-      ],
-      "published_at_raw": "Sat, 24 Oct 2026 19:50:31 GMT",
-      "source": "bbc_sport",
-      "title": "Cardiff's Aberfan inspiration after emotional tribute",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cj93z1pxdp57o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -127,5 +118,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-25T03:35:28Z"
+  "updated_at": "2026-10-25T08:59:15Z"
 }
