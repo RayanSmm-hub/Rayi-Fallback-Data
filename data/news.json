@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Sun, 25 Oct 2026 15:58:26 GMT",
+      "source": "bbc_sport",
+      "title": "Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crwyd857p00yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         154
       ],
       "published_at_raw": "Sat, 24 Oct 2026 19:17:06 GMT",
@@ -22,15 +31,6 @@
     },
     {
       "matched_player_ids": [
-        384
-      ],
-      "published_at_raw": "Sat, 24 Oct 2026 15:05:45 GMT",
-      "source": "bbc_sport",
-      "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         154
       ],
       "published_at_raw": "Sat, 24 Oct 2026 22:43:33 GMT",
@@ -40,12 +40,12 @@
     },
     {
       "matched_player_ids": [
-        469
+        384
       ],
-      "published_at_raw": "Sat, 24 Oct 2026 18:58:25 GMT",
+      "published_at_raw": "Sat, 24 Oct 2026 15:05:45 GMT",
       "source": "bbc_sport",
-      "title": "Barnet condemn racial abuse of Noel-Williams",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqm2dx312d98o?at_medium=RSS&at_campaign=rss"
+      "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -77,12 +77,21 @@
     },
     {
       "matched_player_ids": [
-        367
+        385
       ],
-      "published_at_raw": "Fri, 23 Oct 2026 11:09:00 BST",
+      "published_at_raw": "Sun, 25 Oct 2026 16:10:00 GMT",
       "source": "sky_sports",
-      "title": "Gakpo starts for Liverpool with Ngumoha on bench vs Brighton LIVE!",
-      "url": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/live/559521"
+      "title": "Neville fears Carrick on the brink as Carra calls for decision tonight",
+      "url": "https://www.skysports.com/football/news/12040/13603616/manchester-united-michael-carrick-head-coach-on-brink-of-losing-job-after-bournemouth-defeat"
+    },
+    {
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Sun, 25 Oct 2026 16:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Isak on target again as Liverpool beat Brighton",
+      "url": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/report/559521"
     }
   ],
   "schema_version": 1,
@@ -91,5 +100,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-25T13:40:30Z"
+  "updated_at": "2026-10-25T17:27:21Z"
 }

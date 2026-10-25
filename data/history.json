@@ -2752,8 +2752,62 @@
       "title": "Gakpo starts for Liverpool with Ngumoha on bench vs Brighton LIVE!",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/live/559521"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 0
+        },
+        "news": {
+          "after": "",
+          "before": "Suspended until 31 Oct"
+        },
+        "status": {
+          "after": "a",
+          "before": "s"
+        }
+      },
+      "detected_at": "2026-10-25T17:27:21Z",
+      "player_id": 98,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Janelt"
+    },
+    {
+      "detected_at": "2026-10-25T17:27:21Z",
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Sun, 25 Oct 2026 15:58:26 GMT",
+      "source": "bbc_sport",
+      "title": "Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crwyd857p00yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-25T17:27:21Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sun, 25 Oct 2026 16:10:00 GMT",
+      "source": "sky_sports",
+      "title": "Neville fears Carrick on the brink as Carra calls for decision tonight",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13603616/manchester-united-michael-carrick-head-coach-on-brink-of-losing-job-after-bournemouth-defeat"
+    },
+    {
+      "detected_at": "2026-10-25T17:27:21Z",
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Sun, 25 Oct 2026 16:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Isak on target again as Liverpool beat Brighton",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/report/559521"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-25T13:40:30Z"
+  "updated_at": "2026-10-25T17:27:21Z"
 }
