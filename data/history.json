@@ -2806,8 +2806,72 @@
       "title": "Isak on target again as Liverpool beat Brighton",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/report/559521"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 50
+        },
+        "news": {
+          "after": "",
+          "before": "Foot injury - 50% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-25T19:54:08Z",
+      "player_id": 346,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Calvert-Lewin"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 75
+        },
+        "news": {
+          "after": "",
+          "before": "Hamstring injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-25T19:54:08Z",
+      "player_id": 552,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Brobbey"
+    },
+    {
+      "detected_at": "2026-10-25T19:54:08Z",
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Sun, 25 Oct 2026 18:13:55 GMT",
+      "source": "bbc_sport",
+      "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-25T19:54:08Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sun, 25 Oct 2026 16:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Carrick drops Fernandes only to see Man Utd humbled by Bournemouth",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/manchester-united-vs-bournemouth/report/559522"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-25T17:27:21Z"
+  "updated_at": "2026-10-25T19:54:08Z"
 }

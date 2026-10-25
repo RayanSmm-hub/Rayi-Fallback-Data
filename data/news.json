@@ -5,10 +5,10 @@
       "matched_player_ids": [
         379
       ],
-      "published_at_raw": "Sun, 25 Oct 2026 15:58:26 GMT",
+      "published_at_raw": "Sun, 25 Oct 2026 18:13:55 GMT",
       "source": "bbc_sport",
-      "title": "Isak, Barcola and Wirtz turn up - player ratings for Liverpool v Brighton",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crwyd857p00yo?at_medium=RSS&at_campaign=rss"
+      "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -37,15 +37,6 @@
       "source": "bbc_sport",
       "title": "Should Palmer have been sent off earlier than he was?",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmd93enq4z20o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        384
-      ],
-      "published_at_raw": "Sat, 24 Oct 2026 15:05:45 GMT",
-      "source": "bbc_sport",
-      "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -81,7 +72,7 @@
       ],
       "published_at_raw": "Sun, 25 Oct 2026 16:10:00 GMT",
       "source": "sky_sports",
-      "title": "Neville fears Carrick on the brink as Carra calls for decision tonight",
+      "title": "Neville fears Carrick set to be sacked as Carra calls for decision tonight",
       "url": "https://www.skysports.com/football/news/12040/13603616/manchester-united-michael-carrick-head-coach-on-brink-of-losing-job-after-bournemouth-defeat"
     },
     {
@@ -92,6 +83,15 @@
       "source": "sky_sports",
       "title": "Isak on target again as Liverpool beat Brighton",
       "url": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/report/559521"
+    },
+    {
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sun, 25 Oct 2026 16:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Carrick drops Fernandes only to see Man Utd humbled by Bournemouth",
+      "url": "https://www.skysports.com/football/manchester-united-vs-bournemouth/report/559522"
     }
   ],
   "schema_version": 1,
@@ -100,5 +100,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-25T17:27:21Z"
+  "updated_at": "2026-10-25T19:54:08Z"
 }
