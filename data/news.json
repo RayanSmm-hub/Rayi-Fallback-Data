@@ -22,30 +22,12 @@
     },
     {
       "matched_player_ids": [
-        154
-      ],
-      "published_at_raw": "Sat, 24 Oct 2026 18:26:29 GMT",
-      "source": "bbc_sport",
-      "title": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         384
       ],
       "published_at_raw": "Sat, 24 Oct 2026 15:05:45 GMT",
       "source": "bbc_sport",
       "title": "Man City's leaky defence highlights Donnarumma & Guehi struggles",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6kg7z700k7jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Sat, 24 Oct 2026 21:34:19 GMT",
-      "source": "bbc_sport",
-      "title": "Man Utd not an unmanageable club - Carrick",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -95,21 +77,12 @@
     },
     {
       "matched_player_ids": [
-        154
+        367
       ],
-      "published_at_raw": "Sat, 24 Oct 2026 21:14:00 BST",
+      "published_at_raw": "Fri, 23 Oct 2026 11:09:00 BST",
       "source": "sky_sports",
-      "title": "Alonso 'out-coached', 'petulant' Palmer and Penders howler: Chelsea's horror night",
-      "url": "https://www.skysports.com/football/news/12040/13603342/chelsea-cole-palmer-red-card-mike-penders-howler-and-out-coached-by-roberto-de-zerbi-on-horror-night-for-xabi-alonso"
-    },
-    {
-      "matched_player_ids": [
-        469
-      ],
-      "published_at_raw": "Sat, 24 Oct 2026 20:42:00 BST",
-      "source": "sky_sports",
-      "title": "Golden State beat Atlanta in Game 4 to level WNBA Finals",
-      "url": "https://www.skysports.com/nba/news/12040/13603375/wnba-finals-golden-state-valkyries-beat-atlanta-dream-67-62-in-game-4-to-level-best-of-seven-series"
+      "title": "Gakpo starts for Liverpool with Ngumoha on bench vs Brighton LIVE!",
+      "url": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/live/559521"
     }
   ],
   "schema_version": 1,
@@ -118,5 +91,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-25T08:59:15Z"
+  "updated_at": "2026-10-25T13:40:30Z"
 }

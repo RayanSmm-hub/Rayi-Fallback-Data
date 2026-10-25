@@ -2741,8 +2741,19 @@
       "title": "Should Palmer have been sent off earlier than he was?",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmd93enq4z20o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-25T13:40:30Z",
+      "matched_player_ids": [
+        367
+      ],
+      "published_at_raw": "Fri, 23 Oct 2026 11:09:00 BST",
+      "source": "sky_sports",
+      "title": "Gakpo starts for Liverpool with Ngumoha on bench vs Brighton LIVE!",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/live/559521"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-25T08:59:15Z"
+  "updated_at": "2026-10-25T13:40:30Z"
 }
