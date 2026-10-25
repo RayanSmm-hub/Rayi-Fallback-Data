@@ -2870,8 +2870,30 @@
       "title": "Carrick drops Fernandes only to see Man Utd humbled by Bournemouth",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/manchester-united-vs-bournemouth/report/559522"
+    },
+    {
+      "detected_at": "2026-10-25T22:21:01Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sun, 25 Oct 2026 20:00:19 GMT",
+      "source": "bbc_sport",
+      "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-25T22:21:01Z",
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Sun, 25 Oct 2026 20:00:09 GMT",
+      "source": "bbc_sport",
+      "title": "Liverpool earn first league win at Anfield with victory over Brighton",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-25T19:54:08Z"
+  "updated_at": "2026-10-25T22:21:01Z"
 }

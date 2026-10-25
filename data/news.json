@@ -3,31 +3,30 @@
   "items": [
     {
       "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sun, 25 Oct 2026 20:00:19 GMT",
+      "source": "bbc_sport",
+      "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Sun, 25 Oct 2026 20:00:09 GMT",
+      "source": "bbc_sport",
+      "title": "Liverpool earn first league win at Anfield with victory over Brighton",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         379
       ],
       "published_at_raw": "Sun, 25 Oct 2026 18:13:55 GMT",
       "source": "bbc_sport",
       "title": "Isak finally living up to price tag as Liverpool patience rewarded",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        154
-      ],
-      "published_at_raw": "Sat, 24 Oct 2026 19:17:06 GMT",
-      "source": "bbc_sport",
-      "title": "Spurs clinch rare Stamford Bridge win as Palmer sent off",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckly0dnqz0r7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        4,
-        31
-      ],
-      "published_at_raw": "Sat, 24 Oct 2026 18:59:30 GMT",
-      "source": "bbc_sport",
-      "title": "Arsenal beat Everton to go level on points with leaders Man City",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -50,15 +49,6 @@
     },
     {
       "matched_player_ids": [
-        259
-      ],
-      "published_at_raw": "Fri, 23 Oct 2026 22:15:29 GMT",
-      "source": "bbc_sport",
-      "title": "'It doesn't make sense' - Glasner confused after Diop avoids red card",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c8ly03l6klzpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Fri, 08 May 2026 21:02:30 GMT",
@@ -72,7 +62,7 @@
       ],
       "published_at_raw": "Sun, 25 Oct 2026 16:10:00 GMT",
       "source": "sky_sports",
-      "title": "Neville fears Carrick set to be sacked as Carra calls for decision tonight",
+      "title": "Neville fears Carrick set to be sacked as Carra calls for swift decision",
       "url": "https://www.skysports.com/football/news/12040/13603616/manchester-united-michael-carrick-head-coach-on-brink-of-losing-job-after-bournemouth-defeat"
     },
     {
@@ -83,15 +73,6 @@
       "source": "sky_sports",
       "title": "Isak on target again as Liverpool beat Brighton",
       "url": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/report/559521"
-    },
-    {
-      "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Sun, 25 Oct 2026 16:00:00 GMT",
-      "source": "sky_sports",
-      "title": "Carrick drops Fernandes only to see Man Utd humbled by Bournemouth",
-      "url": "https://www.skysports.com/football/manchester-united-vs-bournemouth/report/559522"
     }
   ],
   "schema_version": 1,
@@ -100,5 +81,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-25T19:54:08Z"
+  "updated_at": "2026-10-25T22:21:01Z"
 }
