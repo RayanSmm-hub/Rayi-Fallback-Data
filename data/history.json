@@ -3020,8 +3020,19 @@
       "title": "'He knows what he's doing!' - Ref Watch debate Palmer's red card against Spurs",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13603947/ref-watch-was-cole-palmers-sending-off-against-spurs-the-right-decision"
+    },
+    {
+      "detected_at": "2026-10-26T18:49:24Z",
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Mon, 26 Oct 2026 14:12:43 GMT",
+      "source": "bbc_sport",
+      "title": "Which game will Chelsea's Palmer miss after red card?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-26T12:24:42Z"
+  "updated_at": "2026-10-26T18:49:24Z"
 }
