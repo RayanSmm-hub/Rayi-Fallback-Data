@@ -2953,8 +2953,75 @@
       "title": "How Liverpool's attack impressed against Brighton",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/videos/ckq6nvp2ldz5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-26T12:24:42Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Mon, 26 Oct 2026 00:08:00 GMT",
+      "source": "bbc_sport",
+      "title": "Football Daily",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sounds/play/p0phzkpn?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-26T12:24:42Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Mon, 26 Oct 2026 06:40:00 GMT",
+      "source": "sky_sports",
+      "title": "Thunder star Williams stretched off with leg injury",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/basketball/news/12040/13603869/jalen-williams-oklahoma-city-thunder-star-stretchered-off-with-significant-leg-injury-in-win-over-los-angeles-clippers"
+    },
+    {
+      "detected_at": "2026-10-26T12:24:42Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Mon, 26 Oct 2026 01:00:00 GMT",
+      "source": "sky_sports",
+      "title": "'Quality of drivers very low' - Alonso criticises Albon after clash",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/f1/news/12040/13603615/fernando-alonso-criticises-alex-albon-and-says-quality-of-drivers-is-very-low-in-bottom-third-of-f1-field-at-united-states-gp"
+    },
+    {
+      "detected_at": "2026-10-26T12:24:42Z",
+      "matched_player_ids": [
+        259,
+        449
+      ],
+      "published_at_raw": "Mon, 26 Oct 2026 11:38:00 GMT",
+      "source": "sky_sports",
+      "title": "Should Ipswich's Diop have seen red vs Forest",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13603951/ref-watch-should-ipswichs-issa-diop-have-seen-red-vs-nottingham-forest"
+    },
+    {
+      "detected_at": "2026-10-26T12:24:42Z",
+      "matched_player_ids": [
+        40
+      ],
+      "published_at_raw": "Mon, 26 Oct 2026 11:18:00 GMT",
+      "source": "sky_sports",
+      "title": "'That's violent conduct' - Should Rogers have been sent off for Gallagher foul?",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13603948/ref-watch-should-morgan-rogers-have-been-sent-off-for-conor-gallagher-foul"
+    },
+    {
+      "detected_at": "2026-10-26T12:24:42Z",
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Mon, 26 Oct 2026 11:13:00 GMT",
+      "source": "sky_sports",
+      "title": "'He knows what he's doing!' - Ref Watch debate Palmer's red card against Spurs",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13603947/ref-watch-was-cole-palmers-sending-off-against-spurs-the-right-decision"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-26T05:49:25Z"
+  "updated_at": "2026-10-26T12:24:42Z"
 }

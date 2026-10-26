@@ -3,30 +3,21 @@
   "items": [
     {
       "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Sun, 25 Oct 2026 20:00:19 GMT",
-      "source": "bbc_sport",
-      "title": "Pressure intensifies on Carrick as Man Utd lose to Bournemouth",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq0mepm1d774o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        379
-      ],
-      "published_at_raw": "Sun, 25 Oct 2026 20:00:09 GMT",
-      "source": "bbc_sport",
-      "title": "Liverpool earn first league win at Anfield with victory over Brighton",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         379
       ],
       "published_at_raw": "Sun, 25 Oct 2026 18:13:55 GMT",
       "source": "bbc_sport",
       "title": "Isak finally living up to price tag as Liverpool patience rewarded",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Mon, 26 Oct 2026 00:08:00 GMT",
+      "source": "bbc_sport",
+      "title": "Football Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/p0phzkpn?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -57,30 +48,49 @@
     },
     {
       "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Mon, 26 Oct 2026 06:40:00 GMT",
+      "source": "sky_sports",
+      "title": "Thunder star Williams stretched off with leg injury",
+      "url": "https://www.skysports.com/basketball/news/12040/13603869/jalen-williams-oklahoma-city-thunder-star-stretchered-off-with-significant-leg-injury-in-win-over-los-angeles-clippers"
+    },
+    {
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Mon, 26 Oct 2026 01:00:00 GMT",
+      "source": "sky_sports",
+      "title": "'Quality of drivers very low' - Alonso criticises Albon after clash",
+      "url": "https://www.skysports.com/f1/news/12040/13603615/fernando-alonso-criticises-alex-albon-and-says-quality-of-drivers-is-very-low-in-bottom-third-of-f1-field-at-united-states-gp"
+    },
+    {
+      "matched_player_ids": [
+        259,
         449
       ],
-      "published_at_raw": "Fri, 08 May 2026 21:02:30 GMT",
-      "source": "bbc_sport",
-      "title": "Coming soon: Sir David Attenborough's next great ocean journey",
-      "url": "https://www.bbc.co.uk/iplayer/episodes/m002zl60/watch/p0phnw1z?at_mid=0Q85UjCr2P&at_campaign=BBC_Extended_Trailer_Blue_Planet_III&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002zl60&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=awareness&at_link_title=BBC_Extended_Trailer_Blue_Planet_III&at_bbc_team=BBC"
+      "published_at_raw": "Mon, 26 Oct 2026 11:38:00 GMT",
+      "source": "sky_sports",
+      "title": "Should Ipswich's Diop have seen red vs Forest",
+      "url": "https://www.skysports.com/watch/video/13603951/ref-watch-should-ipswichs-issa-diop-have-seen-red-vs-nottingham-forest"
     },
     {
       "matched_player_ids": [
-        385
+        40
       ],
-      "published_at_raw": "Sun, 25 Oct 2026 16:10:00 GMT",
+      "published_at_raw": "Mon, 26 Oct 2026 11:18:00 GMT",
       "source": "sky_sports",
-      "title": "Neville fears Carrick set to be sacked as Carra calls for swift decision",
-      "url": "https://www.skysports.com/football/news/12040/13603616/manchester-united-michael-carrick-head-coach-on-brink-of-losing-job-after-bournemouth-defeat"
+      "title": "'That's violent conduct' - Should Rogers have been sent off for Gallagher foul?",
+      "url": "https://www.skysports.com/watch/video/13603948/ref-watch-should-morgan-rogers-have-been-sent-off-for-conor-gallagher-foul"
     },
     {
       "matched_player_ids": [
-        379
+        154
       ],
-      "published_at_raw": "Sun, 25 Oct 2026 16:00:00 GMT",
+      "published_at_raw": "Mon, 26 Oct 2026 11:13:00 GMT",
       "source": "sky_sports",
-      "title": "Isak on target again as Liverpool beat Brighton",
-      "url": "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/report/559521"
+      "title": "'He knows what he's doing!' - Ref Watch debate Palmer's red card against Spurs",
+      "url": "https://www.skysports.com/watch/video/13603947/ref-watch-was-cole-palmers-sending-off-against-spurs-the-right-decision"
     }
   ],
   "schema_version": 1,
@@ -89,5 +99,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-26T05:49:25Z"
+  "updated_at": "2026-10-26T12:24:42Z"
 }
