@@ -72,16 +72,6 @@
       "source": "sky_sports",
       "title": "'Quality of drivers very low' - Alonso criticises Albon after clash",
       "url": "https://www.skysports.com/f1/news/12040/13603615/fernando-alonso-criticises-alex-albon-and-says-quality-of-drivers-is-very-low-in-bottom-third-of-f1-field-at-united-states-gp"
-    },
-    {
-      "matched_player_ids": [
-        259,
-        449
-      ],
-      "published_at_raw": "Mon, 26 Oct 2026 11:38:00 GMT",
-      "source": "sky_sports",
-      "title": "Should Ipswich's Diop have seen red vs Forest",
-      "url": "https://www.skysports.com/watch/video/13603951/ref-watch-should-ipswichs-issa-diop-have-seen-red-vs-nottingham-forest"
     }
   ],
   "schema_version": 1,
@@ -90,5 +80,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-26T18:49:24Z"
+  "updated_at": "2026-10-26T23:02:57Z"
 }
