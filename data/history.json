@@ -2892,8 +2892,69 @@
       "title": "Liverpool earn first league win at Anfield with victory over Brighton",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm3vq1vpv6zno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 47,
+          "before": 46
+        }
+      },
+      "detected_at": "2026-10-26T00:34:41Z",
+      "player_id": 31,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Konsa"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 56,
+          "before": 57
+        }
+      },
+      "detected_at": "2026-10-26T00:34:41Z",
+      "player_id": 249,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Barry"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 51,
+          "before": 50
+        }
+      },
+      "detected_at": "2026-10-26T00:34:41Z",
+      "player_id": 334,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Muharemović"
+    },
+    {
+      "detected_at": "2026-10-26T00:34:41Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sun, 25 Oct 2026 23:51:22 GMT",
+      "source": "bbc_sport",
+      "title": "Man Utd lacked intensity & fight - Alderweireld",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6wyrg2vwjmgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-26T00:34:41Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sun, 25 Oct 2026 23:49:41 GMT",
+      "source": "bbc_sport",
+      "title": "How Liverpool's attack impressed against Brighton",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckq6nvp2ldz5o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-25T22:21:01Z"
+  "updated_at": "2026-10-26T00:34:41Z"
 }
