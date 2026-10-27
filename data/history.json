@@ -3031,8 +3031,58 @@
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 64,
+          "before": 63
+        }
+      },
+      "detected_at": "2026-10-27T02:19:30Z",
+      "player_id": 68,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Tavernier"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 57,
+          "before": 58
+        }
+      },
+      "detected_at": "2026-10-27T02:19:30Z",
+      "player_id": 391,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gvardiol"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 48,
+          "before": 49
+        }
+      },
+      "detected_at": "2026-10-27T02:19:30Z",
+      "player_id": 412,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Lammens"
+    },
+    {
+      "detected_at": "2026-10-27T02:19:30Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Mon, 26 Oct 2026 23:20:00 GMT",
+      "source": "sky_sports",
+      "title": "Thunder's Williams requires surgery for broken leg and dislocated ankle",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/basketball/news/12040/13604207/jalen-williams-oklahoma-city-thunder-star-requires-surgery-for-broken-leg-and-dislocated-ankle"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-26T23:02:57Z"
+  "updated_at": "2026-10-27T02:19:30Z"
 }

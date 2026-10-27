@@ -59,19 +59,19 @@
       "matched_player_ids": [
         469
       ],
-      "published_at_raw": "Mon, 26 Oct 2026 06:40:00 GMT",
+      "published_at_raw": "Mon, 26 Oct 2026 23:20:00 GMT",
       "source": "sky_sports",
-      "title": "Thunder star Williams stretched off with leg injury",
-      "url": "https://www.skysports.com/basketball/news/12040/13603869/jalen-williams-oklahoma-city-thunder-star-stretchered-off-with-significant-leg-injury-in-win-over-los-angeles-clippers"
+      "title": "Thunder's Williams requires surgery for broken leg and dislocated ankle",
+      "url": "https://www.skysports.com/basketball/news/12040/13604207/jalen-williams-oklahoma-city-thunder-star-requires-surgery-for-broken-leg-and-dislocated-ankle"
     },
     {
       "matched_player_ids": [
         469
       ],
-      "published_at_raw": "Mon, 26 Oct 2026 01:00:00 GMT",
+      "published_at_raw": "Mon, 26 Oct 2026 06:40:00 GMT",
       "source": "sky_sports",
-      "title": "'Quality of drivers very low' - Alonso criticises Albon after clash",
-      "url": "https://www.skysports.com/f1/news/12040/13603615/fernando-alonso-criticises-alex-albon-and-says-quality-of-drivers-is-very-low-in-bottom-third-of-f1-field-at-united-states-gp"
+      "title": "Thunder star Williams stretched off with leg injury",
+      "url": "https://www.skysports.com/basketball/news/12040/13603869/jalen-williams-oklahoma-city-thunder-star-stretchered-off-with-significant-leg-injury-in-win-over-los-angeles-clippers"
     }
   ],
   "schema_version": 1,
@@ -80,5 +80,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-26T23:02:57Z"
+  "updated_at": "2026-10-27T02:19:30Z"
 }
