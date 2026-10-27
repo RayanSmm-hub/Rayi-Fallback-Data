@@ -30,15 +30,6 @@
     },
     {
       "matched_player_ids": [
-        379
-      ],
-      "published_at_raw": "Sun, 25 Oct 2026 18:13:55 GMT",
-      "source": "bbc_sport",
-      "title": "Isak finally living up to price tag as Liverpool patience rewarded",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         469
       ],
       "published_at_raw": "Sun, 25 Oct 2026 23:49:41 GMT",
@@ -54,25 +45,6 @@
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Tue, 27 Oct 2026 17:51:00 GMT",
-      "source": "sky_sports",
-      "title": "Borthwick lays down World Cup challenge to England",
-      "url": "https://www.skysports.com/rugby-union/news/12040/13604478/steve-borthwick-lays-down-englands-rugby-world-cup-challenge-with-just-10-tests-left-before-naming-his-squad"
-    },
-    {
-      "matched_player_ids": [
-        12,
-        469
-      ],
-      "published_at_raw": "Tue, 27 Oct 2026 15:45:00 GMT",
-      "source": "sky_sports",
-      "title": "Osaka's outfit dazzles again in Japan win as Williams loses to teenager",
-      "url": "https://www.skysports.com/tennis/news/12040/13604425/wta-tour-naomi-osaka-wears-japan-inspired-outfit-during-tokyo-win-as-venus-williams-loses-to-teenager-at-guangzhou-open"
     }
   ],
   "schema_version": 1,
@@ -81,5 +53,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-27T19:52:13Z"
+  "updated_at": "2026-10-27T23:34:41Z"
 }
