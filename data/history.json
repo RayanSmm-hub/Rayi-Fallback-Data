@@ -3092,8 +3092,63 @@
       "title": "No Saliba, no problem - Konsa stepping up for Arsenal",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/cw5ynr87jdr0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 0,
+          "before": 75
+        },
+        "news": {
+          "after": "Thigh injury - Unknown return date",
+          "before": "Unspecified injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "i",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-27T19:52:13Z",
+      "player_id": 165,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "João Pedro"
+    },
+    {
+      "detected_at": "2026-10-27T19:52:13Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Tue, 27 Oct 2026 18:56:36 GMT",
+      "source": "bbc_sport",
+      "title": "Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-27T19:52:13Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Tue, 27 Oct 2026 17:51:00 GMT",
+      "source": "sky_sports",
+      "title": "Borthwick lays down World Cup challenge to England",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13604478/steve-borthwick-lays-down-englands-rugby-world-cup-challenge-with-just-10-tests-left-before-naming-his-squad"
+    },
+    {
+      "detected_at": "2026-10-27T19:52:13Z",
+      "matched_player_ids": [
+        12,
+        469
+      ],
+      "published_at_raw": "Tue, 27 Oct 2026 15:45:00 GMT",
+      "source": "sky_sports",
+      "title": "Osaka's outfit dazzles again in Japan win as Williams loses to teenager",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/tennis/news/12040/13604425/wta-tour-naomi-osaka-wears-japan-inspired-outfit-during-tokyo-win-as-venus-williams-loses-to-teenager-at-guangzhou-open"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-27T14:49:19Z"
+  "updated_at": "2026-10-27T19:52:13Z"
 }

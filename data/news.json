@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Tue, 27 Oct 2026 18:56:36 GMT",
+      "source": "bbc_sport",
+      "title": "Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         31
       ],
       "published_at_raw": "Tue, 27 Oct 2026 07:22:04 GMT",
@@ -48,12 +57,22 @@
     },
     {
       "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Tue, 27 Oct 2026 17:51:00 GMT",
+      "source": "sky_sports",
+      "title": "Borthwick lays down World Cup challenge to England",
+      "url": "https://www.skysports.com/rugby-union/news/12040/13604478/steve-borthwick-lays-down-englands-rugby-world-cup-challenge-with-just-10-tests-left-before-naming-his-squad"
+    },
+    {
+      "matched_player_ids": [
+        12,
         469
       ],
-      "published_at_raw": "Mon, 26 Oct 2026 23:20:00 GMT",
+      "published_at_raw": "Tue, 27 Oct 2026 15:45:00 GMT",
       "source": "sky_sports",
-      "title": "Thunder's Williams requires surgery for broken leg and dislocated ankle",
-      "url": "https://www.skysports.com/basketball/news/12040/13604207/jalen-williams-oklahoma-city-thunder-star-requires-surgery-for-broken-leg-and-dislocated-ankle"
+      "title": "Osaka's outfit dazzles again in Japan win as Williams loses to teenager",
+      "url": "https://www.skysports.com/tennis/news/12040/13604425/wta-tour-naomi-osaka-wears-japan-inspired-outfit-during-tokyo-win-as-venus-williams-loses-to-teenager-at-guangzhou-open"
     }
   ],
   "schema_version": 1,
@@ -62,5 +81,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-27T14:49:19Z"
+  "updated_at": "2026-10-27T19:52:13Z"
 }
