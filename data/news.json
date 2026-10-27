@@ -12,24 +12,6 @@
     },
     {
       "matched_player_ids": [
-        379
-      ],
-      "published_at_raw": "Sun, 25 Oct 2026 18:13:55 GMT",
-      "source": "bbc_sport",
-      "title": "Isak finally living up to price tag as Liverpool patience rewarded",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Mon, 26 Oct 2026 00:08:00 GMT",
-      "source": "bbc_sport",
-      "title": "Football Daily",
-      "url": "https://www.bbc.co.uk/sounds/play/p0phzkpn?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         469
       ],
       "published_at_raw": "Sun, 25 Oct 2026 23:51:22 GMT",
@@ -39,21 +21,21 @@
     },
     {
       "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Sun, 25 Oct 2026 18:13:55 GMT",
+      "source": "bbc_sport",
+      "title": "Isak finally living up to price tag as Liverpool patience rewarded",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmj47lq7e5e7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         469
       ],
       "published_at_raw": "Sun, 25 Oct 2026 23:49:41 GMT",
       "source": "bbc_sport",
       "title": "How Liverpool's attack impressed against Brighton",
       "url": "https://www.bbc.co.uk/sport/football/videos/ckq6nvp2ldz5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        154
-      ],
-      "published_at_raw": "Sat, 24 Oct 2026 22:43:33 GMT",
-      "source": "bbc_sport",
-      "title": "Should Palmer have been sent off earlier than he was?",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmd93enq4z20o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -80,5 +62,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-27T08:14:38Z"
+  "updated_at": "2026-10-27T14:49:19Z"
 }
