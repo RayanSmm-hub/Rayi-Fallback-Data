@@ -45,15 +45,6 @@
       "source": "sky_sports",
       "title": "The two teenage darts superstars ready to challenge Littler",
       "url": "https://www.skysports.com/darts/news/12040/13604135/beat-luke-littler-teenagers-jayden-walker-and-mitchell-lawrie-set-to-challenge-world-no-1-to-win-501000"
-    },
-    {
-      "matched_player_ids": [
-        12
-      ],
-      "published_at_raw": "Tue, 27 Oct 2026 16:11:00 GMT",
-      "source": "sky_sports",
-      "title": "Osaka impresses again with Tokyo crane kimono outfit!",
-      "url": "https://www.skysports.com/watch/video/13604434/tennis-naomi-osaka-impresses-again-with-tokyo-crane-kimono-outfit"
     }
   ],
   "schema_version": 1,
@@ -62,5 +53,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-28T10:46:07Z"
+  "updated_at": "2026-10-28T17:01:20Z"
 }
