@@ -3147,8 +3147,47 @@
       "title": "Osaka's outfit dazzles again in Japan win as Williams loses to teenager",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/tennis/news/12040/13604425/wta-tour-naomi-osaka-wears-japan-inspired-outfit-during-tokyo-win-as-venus-williams-loses-to-teenager-at-guangzhou-open"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 78,
+          "before": 79
+        }
+      },
+      "detected_at": "2026-10-28T04:28:38Z",
+      "player_id": 165,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "João Pedro"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 91,
+          "before": 90
+        }
+      },
+      "detected_at": "2026-10-28T04:28:38Z",
+      "player_id": 379,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Isak"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 158,
+          "before": 157
+        }
+      },
+      "detected_at": "2026-10-28T04:28:38Z",
+      "player_id": 411,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Haaland"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-27T23:34:41Z"
+  "updated_at": "2026-10-28T04:28:38Z"
 }
