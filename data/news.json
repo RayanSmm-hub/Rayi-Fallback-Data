@@ -12,15 +12,6 @@
     },
     {
       "matched_player_ids": [
-        31
-      ],
-      "published_at_raw": "Tue, 27 Oct 2026 07:22:04 GMT",
-      "source": "bbc_sport",
-      "title": "No Saliba, no problem - Konsa stepping up for Arsenal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw5ynr87jdr0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         469
       ],
       "published_at_raw": "Sun, 25 Oct 2026 23:51:22 GMT",
@@ -45,6 +36,24 @@
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "source": "sky_sports",
+      "title": "The two teenage darts superstars ready to challenge Littler",
+      "url": "https://www.skysports.com/darts/news/12040/13604135/beat-luke-littler-teenagers-jayden-walker-and-mitchell-lawrie-set-to-challenge-world-no-1-to-win-501000"
+    },
+    {
+      "matched_player_ids": [
+        12
+      ],
+      "published_at_raw": "Tue, 27 Oct 2026 16:11:00 GMT",
+      "source": "sky_sports",
+      "title": "Osaka impresses again with Tokyo crane kimono outfit!",
+      "url": "https://www.skysports.com/watch/video/13604434/tennis-naomi-osaka-impresses-again-with-tokyo-crane-kimono-outfit"
     }
   ],
   "schema_version": 1,
@@ -53,5 +62,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-28T04:28:38Z"
+  "updated_at": "2026-10-28T10:46:07Z"
 }
