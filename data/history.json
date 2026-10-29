@@ -3219,8 +3219,40 @@
       "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 75
+        },
+        "news": {
+          "after": "",
+          "before": "Arm injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-10-29T15:26:23Z",
+      "player_id": 469,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "N.Williams"
+    },
+    {
+      "detected_at": "2026-10-29T15:26:23Z",
+      "matched_player_ids": [
+        12
+      ],
+      "published_at_raw": "Thu, 29 Oct 2026 08:05:00 GMT",
+      "source": "sky_sports",
+      "title": "Osaka stunned by 18-year-old Pohankova at Pan Pacific Open in Japan",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/tennis/news/12040/13605209/pan-pacific-open-naomi-osaka-stunned-by-18-year-old-mia-pohankova-and-knocked-out-in-front-of-home-crowd-in-tokyo"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-29T08:08:31Z"
+  "updated_at": "2026-10-29T15:26:23Z"
 }

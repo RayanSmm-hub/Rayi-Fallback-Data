@@ -7,17 +7,8 @@
       ],
       "published_at_raw": "Wed, 28 Oct 2026 23:10:06 GMT",
       "source": "bbc_sport",
-      "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
+      "title": "'He knows his role' - Man City penalty hero Rulli still Donnarumma deputy",
       "url": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Tue, 27 Oct 2026 18:56:36 GMT",
-      "source": "bbc_sport",
-      "title": "Man Utd stick with Carrick - inside a turbulent 48 hours at Old Trafford",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwz0vgj35k7mo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -45,6 +36,15 @@
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        12
+      ],
+      "published_at_raw": "Thu, 29 Oct 2026 08:05:00 GMT",
+      "source": "sky_sports",
+      "title": "Osaka stunned by 18-year-old Pohankova at Pan Pacific Open in Japan",
+      "url": "https://www.skysports.com/tennis/news/12040/13605209/pan-pacific-open-naomi-osaka-stunned-by-18-year-old-mia-pohankova-and-knocked-out-in-front-of-home-crowd-in-tokyo"
     }
   ],
   "schema_version": 1,
@@ -53,5 +53,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-29T08:08:31Z"
+  "updated_at": "2026-10-29T15:26:23Z"
 }
