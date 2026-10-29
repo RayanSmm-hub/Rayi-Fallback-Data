@@ -3208,8 +3208,19 @@
       "title": "Osaka impresses again with Tokyo crane kimono outfit!",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13604434/tennis-naomi-osaka-impresses-again-with-tokyo-crane-kimono-outfit"
+    },
+    {
+      "detected_at": "2026-10-29T01:36:53Z",
+      "matched_player_ids": [
+        384
+      ],
+      "published_at_raw": "Wed, 28 Oct 2026 23:10:06 GMT",
+      "source": "bbc_sport",
+      "title": "'He knows his role' - Rulli provides heroics but no worries for Donnarumma",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-28T21:50:53Z"
+  "updated_at": "2026-10-29T01:36:53Z"
 }
