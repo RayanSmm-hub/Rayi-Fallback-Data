@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        1
+      ],
+      "published_at_raw": "Thu, 29 Oct 2026 16:21:00 GMT",
+      "source": "bbc_sport",
+      "title": "Euro Leagues",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pkb7f8?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         384
       ],
       "published_at_raw": "Wed, 28 Oct 2026 23:10:06 GMT",
@@ -39,12 +48,12 @@
     },
     {
       "matched_player_ids": [
-        12
+        26
       ],
-      "published_at_raw": "Thu, 29 Oct 2026 08:05:00 GMT",
+      "published_at_raw": "Thu, 29 Oct 2026 15:13:00 GMT",
       "source": "sky_sports",
-      "title": "Osaka stunned by 18-year-old Pohankova at Pan Pacific Open in Japan",
-      "url": "https://www.skysports.com/tennis/news/12040/13605209/pan-pacific-open-naomi-osaka-stunned-by-18-year-old-mia-pohankova-and-knocked-out-in-front-of-home-crowd-in-tokyo"
+      "title": "Arsenal striker dilemma: Should Arteta keep faith in Havertz?",
+      "url": "https://www.skysports.com/football/news/12040/13605389/arsenals-kai-havertz-in-goal-drought-so-should-mikel-arteta-keep-faith-in-him-ahead-of-viktor-gyokeres-against-liverpool"
     }
   ],
   "schema_version": 1,
@@ -53,5 +62,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-29T15:26:23Z"
+  "updated_at": "2026-10-29T20:28:39Z"
 }
