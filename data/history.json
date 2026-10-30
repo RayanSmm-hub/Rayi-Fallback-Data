@@ -3273,8 +3273,56 @@
       "title": "Arsenal striker dilemma: Should Arteta keep faith in Havertz?",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13605389/arsenals-kai-havertz-in-goal-drought-so-should-mikel-arteta-keep-faith-in-him-ahead-of-viktor-gyokeres-against-liverpool"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 59,
+          "before": 60
+        }
+      },
+      "detected_at": "2026-10-30T00:12:36Z",
+      "player_id": 8,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Calafiori"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 74,
+          "before": 75
+        }
+      },
+      "detected_at": "2026-10-30T00:12:36Z",
+      "player_id": 26,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Havertz"
+    },
+    {
+      "detected_at": "2026-10-30T00:12:36Z",
+      "matched_player_ids": [
+        346
+      ],
+      "published_at_raw": "Thu, 29 Oct 2026 21:40:24 GMT",
+      "source": "bbc_sport",
+      "title": "Chelsea linked with Alexander-Arnold - Friday's gossip",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck1l396jqv4zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-30T00:12:36Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Thu, 29 Oct 2026 21:05:00 GMT",
+      "source": "sky_sports",
+      "title": "'Lack of talent' - Alonso doubles down on Albon criticism",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/f1/news/12040/13605423/fernando-alonso-doubles-down-on-alex-albon-and-f1-field-criticism-ahead-of-mexico-city-grand-prix"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-29T20:28:39Z"
+  "updated_at": "2026-10-30T00:12:36Z"
 }
