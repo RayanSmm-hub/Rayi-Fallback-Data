@@ -3,6 +3,24 @@
   "items": [
     {
       "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Fri, 30 Oct 2026 16:27:13 GMT",
+      "source": "bbc_sport",
+      "title": "What Howe could bring to Man Utd - and what are the challenges?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        346
+      ],
+      "published_at_raw": "Fri, 30 Oct 2026 10:26:53 GMT",
+      "source": "bbc_sport",
+      "title": "Calvert-Lewin set for new Leeds deal",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2w1epxx8yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         346
       ],
       "published_at_raw": "Thu, 29 Oct 2026 21:40:24 GMT",
@@ -45,24 +63,6 @@
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        469
-      ],
-      "published_at_raw": "Thu, 29 Oct 2026 21:05:00 GMT",
-      "source": "sky_sports",
-      "title": "'Lack of talent' - Alonso doubles down on Albon criticism",
-      "url": "https://www.skysports.com/f1/news/12040/13605423/fernando-alonso-doubles-down-on-alex-albon-and-f1-field-criticism-ahead-of-mexico-city-grand-prix"
-    },
-    {
-      "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Fri, 30 Oct 2026 09:30:00 GMT",
-      "source": "sky_sports",
-      "title": "Duckett promises 'confidence' in Australia ODIs after dismal Ashes",
-      "url": "https://www.skysports.com/cricket/news/12040/13605680/england-vs-australia-ben-duckett-says-odi-task-completely-different-to-ashes-ahead-of-november-series"
     }
   ],
   "schema_version": 1,
@@ -71,5 +71,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-30T13:21:23Z"
+  "updated_at": "2026-10-30T18:44:52Z"
 }

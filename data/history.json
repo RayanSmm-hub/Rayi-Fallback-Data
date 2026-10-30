@@ -3332,8 +3332,51 @@
       "title": "Duckett promises 'confidence' in Australia ODIs after dismal Ashes",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/cricket/news/12040/13605680/england-vs-australia-ben-duckett-says-odi-task-completely-different-to-ashes-ahead-of-november-series"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 50,
+          "before": 0
+        },
+        "news": {
+          "after": "Hamstring injury - 50% chance of playing",
+          "before": "Hamstring injury - Unknown return date"
+        },
+        "status": {
+          "after": "d",
+          "before": "i"
+        }
+      },
+      "detected_at": "2026-10-30T18:44:52Z",
+      "player_id": 368,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Szoboszlai"
+    },
+    {
+      "detected_at": "2026-10-30T18:44:52Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Fri, 30 Oct 2026 16:27:13 GMT",
+      "source": "bbc_sport",
+      "title": "What Howe could bring to Man Utd - and what are the challenges?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-30T18:44:52Z",
+      "matched_player_ids": [
+        346
+      ],
+      "published_at_raw": "Fri, 30 Oct 2026 10:26:53 GMT",
+      "source": "bbc_sport",
+      "title": "Calvert-Lewin set for new Leeds deal",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2w1epxx8yo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-30T13:21:23Z"
+  "updated_at": "2026-10-30T18:44:52Z"
 }
