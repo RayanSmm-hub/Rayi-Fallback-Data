@@ -30,15 +30,6 @@
     },
     {
       "matched_player_ids": [
-        1
-      ],
-      "published_at_raw": "Thu, 29 Oct 2026 16:21:00 GMT",
-      "source": "bbc_sport",
-      "title": "Euro Leagues",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pkb7f8?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         469
       ],
       "published_at_raw": "Sun, 25 Oct 2026 23:51:22 GMT",
@@ -71,5 +62,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-30T18:44:52Z"
+  "updated_at": "2026-10-30T22:49:01Z"
 }
