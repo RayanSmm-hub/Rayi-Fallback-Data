@@ -3321,8 +3321,19 @@
       "title": "'Lack of talent' - Alonso doubles down on Albon criticism",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/f1/news/12040/13605423/fernando-alonso-doubles-down-on-alex-albon-and-f1-field-criticism-ahead-of-mexico-city-grand-prix"
+    },
+    {
+      "detected_at": "2026-10-30T13:21:23Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Fri, 30 Oct 2026 09:30:00 GMT",
+      "source": "sky_sports",
+      "title": "Duckett promises 'confidence' in Australia ODIs after dismal Ashes",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/cricket/news/12040/13605680/england-vs-australia-ben-duckett-says-odi-task-completely-different-to-ashes-ahead-of-november-series"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-30T06:14:55Z"
+  "updated_at": "2026-10-30T13:21:23Z"
 }

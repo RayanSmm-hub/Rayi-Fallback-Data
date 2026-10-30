@@ -21,15 +21,6 @@
     },
     {
       "matched_player_ids": [
-        384
-      ],
-      "published_at_raw": "Wed, 28 Oct 2026 23:10:06 GMT",
-      "source": "bbc_sport",
-      "title": "'He knows his role' - Man City penalty hero Rulli still Donnarumma deputy",
-      "url": "https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         469
       ],
       "published_at_raw": "Sun, 25 Oct 2026 23:51:22 GMT",
@@ -63,6 +54,15 @@
       "source": "sky_sports",
       "title": "'Lack of talent' - Alonso doubles down on Albon criticism",
       "url": "https://www.skysports.com/f1/news/12040/13605423/fernando-alonso-doubles-down-on-alex-albon-and-f1-field-criticism-ahead-of-mexico-city-grand-prix"
+    },
+    {
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Fri, 30 Oct 2026 09:30:00 GMT",
+      "source": "sky_sports",
+      "title": "Duckett promises 'confidence' in Australia ODIs after dismal Ashes",
+      "url": "https://www.skysports.com/cricket/news/12040/13605680/england-vs-australia-ben-duckett-says-odi-task-completely-different-to-ashes-ahead-of-november-series"
     }
   ],
   "schema_version": 1,
@@ -71,5 +71,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-30T06:14:55Z"
+  "updated_at": "2026-10-30T13:21:23Z"
 }
