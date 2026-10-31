@@ -3448,8 +3448,31 @@
       "title": "Bournemouth punish Trafford horror error to sink Leeds",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/bournemouth-vs-leeds-united/report/559525"
+    },
+    {
+      "detected_at": "2026-10-31T22:45:01Z",
+      "matched_player_ids": [
+        106
+      ],
+      "published_at_raw": "Sat, 31 Oct 2026 22:29:11 GMT",
+      "source": "bbc_sport",
+      "title": "Thiago on target as Brentford beat Forest",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck1l3z063n8vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-10-31T22:45:01Z",
+      "matched_player_ids": [
+        40,
+        154
+      ],
+      "published_at_raw": "Sat, 31 Oct 2026 14:35:50 GMT",
+      "source": "bbc_sport",
+      "title": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-31T19:27:47Z"
+  "updated_at": "2026-10-31T22:45:01Z"
 }

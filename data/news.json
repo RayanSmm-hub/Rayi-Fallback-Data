@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        106
+      ],
+      "published_at_raw": "Sat, 31 Oct 2026 22:29:11 GMT",
+      "source": "bbc_sport",
+      "title": "Thiago on target as Brentford beat Forest",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck1l3z063n8vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         40
       ],
       "published_at_raw": "Sat, 31 Oct 2026 16:34:42 GMT",
@@ -12,21 +21,13 @@
     },
     {
       "matched_player_ids": [
-        449
+        40,
+        154
       ],
-      "published_at_raw": "Fri, 30 Oct 2026 16:27:13 GMT",
+      "published_at_raw": "Sat, 31 Oct 2026 14:35:50 GMT",
       "source": "bbc_sport",
-      "title": "What Howe could bring to Man Utd - and what are the challenges?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr74pd99vwq3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        346
-      ],
-      "published_at_raw": "Fri, 30 Oct 2026 10:26:53 GMT",
-      "source": "bbc_sport",
-      "title": "Calvert-Lewin set for new Leeds deal",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6x2w1epxx8yo?at_medium=RSS&at_campaign=rss"
+      "title": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -53,5 +54,5 @@
     "sky_sports"
   ],
   "target_event": 10,
-  "updated_at": "2026-10-31T19:27:47Z"
+  "updated_at": "2026-10-31T22:45:01Z"
 }
