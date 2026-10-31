@@ -3,13 +3,12 @@
   "items": [
     {
       "matched_player_ids": [
-        40,
-        154
+        40
       ],
-      "published_at_raw": "Sat, 31 Oct 2026 14:35:50 GMT",
+      "published_at_raw": "Sat, 31 Oct 2026 16:34:42 GMT",
       "source": "bbc_sport",
-      "title": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss"
+      "title": "Returning Estevao brings X-factor to strikerless Chelsea",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwnv0p143qzyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -31,30 +30,21 @@
     },
     {
       "matched_player_ids": [
-        469
-      ],
-      "published_at_raw": "Sun, 25 Oct 2026 23:51:22 GMT",
-      "source": "bbc_sport",
-      "title": "Man Utd lacked intensity & fight - Alderweireld",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6wyrg2vwjmgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        469
-      ],
-      "published_at_raw": "Sun, 25 Oct 2026 23:49:41 GMT",
-      "source": "bbc_sport",
-      "title": "How Liverpool's attack impressed against Brighton",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckq6nvp2ldz5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         154
       ],
       "published_at_raw": "Mon, 26 Oct 2026 14:12:43 GMT",
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sat, 31 Oct 2026 17:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Bournemouth punish Trafford horror error to sink Leeds",
+      "url": "https://www.skysports.com/football/bournemouth-vs-leeds-united/report/559525"
     }
   ],
   "schema_version": 1,
@@ -63,5 +53,5 @@
     "sky_sports"
   ],
   "target_event": 10,
-  "updated_at": "2026-10-31T15:08:05Z"
+  "updated_at": "2026-10-31T19:27:47Z"
 }
