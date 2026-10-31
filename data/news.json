@@ -21,15 +21,6 @@
     },
     {
       "matched_player_ids": [
-        346
-      ],
-      "published_at_raw": "Thu, 29 Oct 2026 21:40:24 GMT",
-      "source": "bbc_sport",
-      "title": "Chelsea linked with Alexander-Arnold - Friday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck1l396jqv4zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         469
       ],
       "published_at_raw": "Sun, 25 Oct 2026 23:51:22 GMT",
@@ -62,5 +53,5 @@
     "sky_sports"
   ],
   "target_event": 9,
-  "updated_at": "2026-10-30T22:49:01Z"
+  "updated_at": "2026-10-31T02:04:17Z"
 }

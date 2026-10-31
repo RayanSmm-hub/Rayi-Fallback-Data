@@ -3375,8 +3375,47 @@
       "title": "Calvert-Lewin set for new Leeds deal",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6x2w1epxx8yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 80,
+          "before": 79
+        }
+      },
+      "detected_at": "2026-10-31T02:04:17Z",
+      "player_id": 4,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gabriel"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 65,
+          "before": 64
+        }
+      },
+      "detected_at": "2026-10-31T02:04:17Z",
+      "player_id": 68,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Tavernier"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 81,
+          "before": 80
+        }
+      },
+      "detected_at": "2026-10-31T02:04:17Z",
+      "player_id": 40,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Rogers"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-10-30T22:49:01Z"
+  "updated_at": "2026-10-31T02:04:17Z"
 }
