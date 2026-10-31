@@ -3,6 +3,16 @@
   "items": [
     {
       "matched_player_ids": [
+        40,
+        154
+      ],
+      "published_at_raw": "Sat, 31 Oct 2026 14:35:50 GMT",
+      "source": "bbc_sport",
+      "title": "Rogers shines, 3/10 for sent-off Martinez - player ratings for Chelsea v Man Utd",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3j47prvlz04o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Fri, 30 Oct 2026 16:27:13 GMT",
@@ -52,6 +62,6 @@
     "bbc_sport",
     "sky_sports"
   ],
-  "target_event": 9,
-  "updated_at": "2026-10-31T08:41:27Z"
+  "target_event": 10,
+  "updated_at": "2026-10-31T15:08:05Z"
 }
