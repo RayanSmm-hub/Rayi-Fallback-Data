@@ -3560,8 +3560,30 @@
       "title": "Canelo returns to beat Mbilli and reclaim world title in Riyadh",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/boxing/news/12040/13606459/canelo-alvarez-returns-to-beat-christian-mbilli-and-reclaim-wbc-super-middleweight-world-championship-in-riyadh"
+    },
+    {
+      "detected_at": "2026-11-01T08:52:08Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sun, 01 Nov 2026 05:01:19 GMT",
+      "source": "bbc_sport",
+      "title": "Williams heart warning after career ended at 22",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckn8wxdp83g9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-01T08:52:08Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sun, 01 Nov 2026 07:45:00 GMT",
+      "source": "sky_sports",
+      "title": "Golden State Valkyries win first WNBA championship",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/nba/news/12040/13606564/wnba-championship-gabby-williams-leads-golden-state-valkyries-to-first-title-in-second-season-beating-atlanta-dream-68-63-in-game-7"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-01T01:55:28Z"
+  "updated_at": "2026-11-01T08:52:08Z"
 }
