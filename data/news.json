@@ -12,6 +12,15 @@
     },
     {
       "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sun, 01 Nov 2026 11:15:42 GMT",
+      "source": "bbc_sport",
+      "title": "Wednesday appoint former Stockport boss Challinor",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         40
       ],
       "published_at_raw": "Sat, 31 Oct 2026 16:34:42 GMT",
@@ -31,15 +40,6 @@
     },
     {
       "matched_player_ids": [
-        469
-      ],
-      "published_at_raw": "Sun, 01 Nov 2026 05:01:19 GMT",
-      "source": "bbc_sport",
-      "title": "Williams heart warning after career ended at 22",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckn8wxdp83g9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         154
       ],
       "published_at_raw": "Mon, 26 Oct 2026 14:12:43 GMT",
@@ -55,15 +55,6 @@
       "source": "sky_sports",
       "title": "Golden State Valkyries win first WNBA championship",
       "url": "https://www.skysports.com/nba/news/12040/13606564/wnba-championship-gabby-williams-leads-golden-state-valkyries-to-first-title-in-second-season-beating-atlanta-dream-68-63-in-game-7"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Sat, 31 Oct 2026 23:00:00 GMT",
-      "source": "sky_sports",
-      "title": "Canelo returns to beat Mbilli and reclaim world title in Riyadh",
-      "url": "https://www.skysports.com/boxing/news/12040/13606459/canelo-alvarez-returns-to-beat-christian-mbilli-and-reclaim-wbc-super-middleweight-world-championship-in-riyadh"
     }
   ],
   "schema_version": 1,
@@ -72,5 +63,5 @@
     "sky_sports"
   ],
   "target_event": 10,
-  "updated_at": "2026-11-01T08:52:08Z"
+  "updated_at": "2026-11-01T15:50:51Z"
 }

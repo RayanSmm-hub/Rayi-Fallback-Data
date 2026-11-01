@@ -3582,8 +3582,40 @@
       "title": "Golden State Valkyries win first WNBA championship",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/nba/news/12040/13606564/wnba-championship-gabby-williams-leads-golden-state-valkyries-to-first-title-in-second-season-beating-atlanta-dream-68-63-in-game-7"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 75
+        },
+        "news": {
+          "after": "",
+          "before": "Hip injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-11-01T15:50:51Z",
+      "player_id": 8,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Calafiori"
+    },
+    {
+      "detected_at": "2026-11-01T15:50:51Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sun, 01 Nov 2026 11:15:42 GMT",
+      "source": "bbc_sport",
+      "title": "Wednesday appoint former Stockport boss Challinor",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-01T08:52:08Z"
+  "updated_at": "2026-11-01T15:50:51Z"
 }
