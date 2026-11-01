@@ -3679,8 +3679,19 @@
       "title": "Neville: Man Utd stuck in a rut - and it's really worrying",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13606708/manchester-united-gary-neville-says-club-are-in-a-rut-and-is-unimpressed-with-lisandro-martinez-amid-tough-run-of-games-for-michael-carricks-side"
+    },
+    {
+      "detected_at": "2026-11-01T23:46:49Z",
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Sun, 01 Nov 2026 20:05:00 GMT",
+      "source": "sky_sports",
+      "title": "Isak's non-penalty and Madueke-Mac Allister 'headbutt' - were big calls right?",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13606793/liverpool-0-1-arsenal-alexander-isak-jurrien-timber-shirt-pull-and-noni-madueke-alexis-mac-allister-headbutt-show-good-and-bad-sides-of-var"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-01T20:16:58Z"
+  "updated_at": "2026-11-01T23:46:49Z"
 }
