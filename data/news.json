@@ -3,6 +3,24 @@
   "items": [
     {
       "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 16:00:07 GMT",
+      "source": "bbc_sport",
+      "title": "Carrick says it's 'crazy' but he's looking forward to Roma game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 14:06:47 GMT",
+      "source": "bbc_sport",
+      "title": "To dive or not to dive? Football's big dilemma",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         379
       ],
       "published_at_raw": "Mon, 02 Nov 2026 00:00:03 GMT",
@@ -48,30 +66,21 @@
     },
     {
       "matched_player_ids": [
-        379
+        249
       ],
-      "published_at_raw": "Mon, 02 Nov 2026 10:45:00 GMT",
+      "published_at_raw": "Mon, 02 Nov 2026 22:00:00 GMT",
       "source": "sky_sports",
-      "title": "Ref Watch: Isak denied 'nailed on' penalty, Mac Allister slammed for theatrics",
-      "url": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions"
+      "title": "Sorry Newcastle booed off as Everton earn first away PL win of season",
+      "url": "https://www.skysports.com/football/newcastle-united-vs-everton/report/559532"
     },
     {
       "matched_player_ids": [
-        379
+        249
       ],
-      "published_at_raw": "Mon, 02 Nov 2026 11:23:00 GMT",
+      "published_at_raw": "Mon, 02 Nov 2026 22:18:00 GMT",
       "source": "sky_sports",
-      "title": "'It's nailed on!' - Why was Isak NOT awarded penalty against Arsenal?",
-      "url": "https://www.skysports.com/watch/video/13607034/alexander-isak-penalty-appeal-ref-watch-debate-why-liverpool-striker-wasnt-awarded-penalty-against-arsenal"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Mon, 02 Nov 2026 11:53:00 GMT",
-      "source": "sky_sports",
-      "title": "'That's violent conduct!' - Should Martinez have received a straight red?",
-      "url": "https://www.skysports.com/watch/video/13607049/ref-watch-debate-whether-lisandro-martinez-should-have-received-a-straight-red-against-chelsea"
+      "title": "Barry goal sees Everton ease past meagre Newcastle",
+      "url": "https://www.skysports.com/watch/video/13607313/newcastle-0-1-everton-premier-league-highlights"
     }
   ],
   "schema_version": 1,
@@ -80,5 +89,5 @@
     "sky_sports"
   ],
   "target_event": 10,
-  "updated_at": "2026-11-02T13:11:40Z"
+  "updated_at": "2026-11-02T22:25:37Z"
 }

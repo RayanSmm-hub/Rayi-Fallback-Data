@@ -3745,8 +3745,52 @@
       "title": "'That's violent conduct!' - Should Martinez have received a straight red?",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13607049/ref-watch-debate-whether-lisandro-martinez-should-have-received-a-straight-red-against-chelsea"
+    },
+    {
+      "detected_at": "2026-11-02T22:25:37Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 16:00:07 GMT",
+      "source": "bbc_sport",
+      "title": "Carrick says it's 'crazy' but he's looking forward to Roma game",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-02T22:25:37Z",
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 14:06:47 GMT",
+      "source": "bbc_sport",
+      "title": "To dive or not to dive? Football's big dilemma",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-02T22:25:37Z",
+      "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 22:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Sorry Newcastle booed off as Everton earn first away PL win of season",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/newcastle-united-vs-everton/report/559532"
+    },
+    {
+      "detected_at": "2026-11-02T22:25:37Z",
+      "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 22:18:00 GMT",
+      "source": "sky_sports",
+      "title": "Barry goal sees Everton ease past meagre Newcastle",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13607313/newcastle-0-1-everton-premier-league-highlights"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-02T13:11:40Z"
+  "updated_at": "2026-11-02T22:25:37Z"
 }
