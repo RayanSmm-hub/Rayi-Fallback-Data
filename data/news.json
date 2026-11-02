@@ -5,19 +5,28 @@
       "matched_player_ids": [
         379
       ],
+      "published_at_raw": "Mon, 02 Nov 2026 00:00:03 GMT",
+      "source": "bbc_sport",
+      "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        31
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 00:00:11 GMT",
+      "source": "bbc_sport",
+      "title": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        379
+      ],
       "published_at_raw": "Sun, 01 Nov 2026 19:37:44 GMT",
       "source": "bbc_sport",
       "title": "'Everyone saw it' - Iraola confused by Isak penalty decision",
       "url": "https://www.bbc.co.uk/sport/football/videos/cjdx3dpvevngo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        106
-      ],
-      "published_at_raw": "Sat, 31 Oct 2026 22:29:11 GMT",
-      "source": "bbc_sport",
-      "title": "Thiago on target as Brentford beat Forest",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck1l3z063n8vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -89,5 +98,5 @@
     "sky_sports"
   ],
   "target_event": 10,
-  "updated_at": "2026-11-01T23:46:49Z"
+  "updated_at": "2026-11-02T04:50:50Z"
 }

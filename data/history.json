@@ -3690,8 +3690,30 @@
       "title": "Isak's non-penalty and Madueke-Mac Allister 'headbutt' - were big calls right?",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13606793/liverpool-0-1-arsenal-alexander-isak-jurrien-timber-shirt-pull-and-noni-madueke-alexis-mac-allister-headbutt-show-good-and-bad-sides-of-var"
+    },
+    {
+      "detected_at": "2026-11-02T04:50:50Z",
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 00:00:03 GMT",
+      "source": "bbc_sport",
+      "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-02T04:50:50Z",
+      "matched_player_ids": [
+        31
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 00:00:11 GMT",
+      "source": "bbc_sport",
+      "title": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-01T23:46:49Z"
+  "updated_at": "2026-11-02T04:50:50Z"
 }
