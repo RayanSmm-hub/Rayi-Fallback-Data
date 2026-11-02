@@ -30,24 +30,6 @@
     },
     {
       "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Sun, 01 Nov 2026 11:15:42 GMT",
-      "source": "bbc_sport",
-      "title": "Wednesday appoint former Stockport boss Challinor",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        40
-      ],
-      "published_at_raw": "Sat, 31 Oct 2026 16:34:42 GMT",
-      "source": "bbc_sport",
-      "title": "Returning Estevao brings X-factor to strikerless Chelsea",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwnv0p143qzyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         423
       ],
       "published_at_raw": "Sun, 01 Nov 2026 17:54:43 GMT",
@@ -68,28 +50,28 @@
       "matched_player_ids": [
         379
       ],
-      "published_at_raw": "Sun, 01 Nov 2026 20:05:00 GMT",
+      "published_at_raw": "Mon, 02 Nov 2026 10:45:00 GMT",
       "source": "sky_sports",
-      "title": "Isak's non-penalty and Madueke-Mac Allister 'headbutt' - were big calls right?",
-      "url": "https://www.skysports.com/football/news/12040/13606793/liverpool-0-1-arsenal-alexander-isak-jurrien-timber-shirt-pull-and-noni-madueke-alexis-mac-allister-headbutt-show-good-and-bad-sides-of-var"
+      "title": "Ref Watch: Isak denied 'nailed on' penalty, Mac Allister slammed for theatrics",
+      "url": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions"
     },
     {
       "matched_player_ids": [
-        26
+        379
       ],
-      "published_at_raw": "Sun, 01 Nov 2026 18:30:00 GMT",
+      "published_at_raw": "Mon, 02 Nov 2026 11:23:00 GMT",
       "source": "sky_sports",
-      "title": "Arsenal win at Anfield for first time in 14 years to move top",
-      "url": "https://www.skysports.com/football/liverpool-vs-arsenal/report/559530"
+      "title": "'It's nailed on!' - Why was Isak NOT awarded penalty against Arsenal?",
+      "url": "https://www.skysports.com/watch/video/13607034/alexander-isak-penalty-appeal-ref-watch-debate-why-liverpool-striker-wasnt-awarded-penalty-against-arsenal"
     },
     {
       "matched_player_ids": [
-        385
+        449
       ],
-      "published_at_raw": "Sun, 01 Nov 2026 16:45:00 GMT",
+      "published_at_raw": "Mon, 02 Nov 2026 11:53:00 GMT",
       "source": "sky_sports",
-      "title": "Neville: Man Utd stuck in a rut - and it's really worrying",
-      "url": "https://www.skysports.com/football/news/12040/13606708/manchester-united-gary-neville-says-club-are-in-a-rut-and-is-unimpressed-with-lisandro-martinez-amid-tough-run-of-games-for-michael-carricks-side"
+      "title": "'That's violent conduct!' - Should Martinez have received a straight red?",
+      "url": "https://www.skysports.com/watch/video/13607049/ref-watch-debate-whether-lisandro-martinez-should-have-received-a-straight-red-against-chelsea"
     }
   ],
   "schema_version": 1,
@@ -98,5 +80,5 @@
     "sky_sports"
   ],
   "target_event": 10,
-  "updated_at": "2026-11-02T04:50:50Z"
+  "updated_at": "2026-11-02T13:11:40Z"
 }

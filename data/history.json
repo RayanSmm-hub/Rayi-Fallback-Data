@@ -3712,8 +3712,41 @@
       "title": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-02T13:11:40Z",
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 10:45:00 GMT",
+      "source": "sky_sports",
+      "title": "Ref Watch: Isak denied 'nailed on' penalty, Mac Allister slammed for theatrics",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/live-blog/12040/13576553/ref-watch-premier-league-weekend-reaction-live-dermot-gallagher-assesses-the-big-refereeing-decisions"
+    },
+    {
+      "detected_at": "2026-11-02T13:11:40Z",
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 11:23:00 GMT",
+      "source": "sky_sports",
+      "title": "'It's nailed on!' - Why was Isak NOT awarded penalty against Arsenal?",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13607034/alexander-isak-penalty-appeal-ref-watch-debate-why-liverpool-striker-wasnt-awarded-penalty-against-arsenal"
+    },
+    {
+      "detected_at": "2026-11-02T13:11:40Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 11:53:00 GMT",
+      "source": "sky_sports",
+      "title": "'That's violent conduct!' - Should Martinez have received a straight red?",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13607049/ref-watch-debate-whether-lisandro-martinez-should-have-received-a-straight-red-against-chelsea"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-02T04:50:50Z"
+  "updated_at": "2026-11-02T13:11:40Z"
 }
