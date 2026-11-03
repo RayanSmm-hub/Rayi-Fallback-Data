@@ -30,21 +30,21 @@
     },
     {
       "matched_player_ids": [
-        379
-      ],
-      "published_at_raw": "Mon, 02 Nov 2026 14:06:47 GMT",
-      "source": "bbc_sport",
-      "title": "To dive or not to dive? Football's big dilemma",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         249
       ],
       "published_at_raw": "Mon, 02 Nov 2026 23:01:13 GMT",
       "source": "bbc_sport",
       "title": "Jaissle unhappy with 'clear foul' before Barry goal",
       "url": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 14:06:47 GMT",
+      "source": "bbc_sport",
+      "title": "To dive or not to dive? Football's big dilemma",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -93,21 +93,12 @@
     },
     {
       "matched_player_ids": [
-        249
+        411
       ],
-      "published_at_raw": "Mon, 02 Nov 2026 22:00:00 GMT",
+      "published_at_raw": "Mon, 02 Nov 2026 17:00:00 GMT",
       "source": "sky_sports",
-      "title": "Sorry Newcastle booed off as Everton earn first away PL win of season",
-      "url": "https://www.skysports.com/football/newcastle-united-vs-everton/report/559532"
-    },
-    {
-      "matched_player_ids": [
-        249
-      ],
-      "published_at_raw": "Mon, 02 Nov 2026 22:18:00 GMT",
-      "source": "sky_sports",
-      "title": "Barry goal sees Everton ease past meagre Newcastle",
-      "url": "https://www.skysports.com/watch/video/13607313/newcastle-0-1-everton-premier-league-highlights"
+      "title": "Man Utd beware! Malen is a man transformed at Roma",
+      "url": "https://www.skysports.com/football/news/12040/13607180/donyell-malen-at-roma-man-utd-face-the-top-scorer-in-europes-major-leagues-in-2026-with-the-dutchman-transformed"
     }
   ],
   "schema_version": 1,
@@ -116,5 +107,5 @@
     "sky_sports"
   ],
   "target_event": 10,
-  "updated_at": "2026-11-03T03:38:32Z"
+  "updated_at": "2026-11-03T11:40:34Z"
 }

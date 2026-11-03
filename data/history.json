@@ -3835,8 +3835,19 @@
       "title": "Jaissle unhappy with 'clear foul' before Barry goal",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-03T11:40:34Z",
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 17:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Man Utd beware! Malen is a man transformed at Roma",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13607180/donyell-malen-at-roma-man-utd-face-the-top-scorer-in-europes-major-leagues-in-2026-with-the-dutchman-transformed"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-03T03:38:32Z"
+  "updated_at": "2026-11-03T11:40:34Z"
 }
