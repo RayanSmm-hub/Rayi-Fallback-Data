@@ -3,21 +3,12 @@
   "items": [
     {
       "matched_player_ids": [
-        249
+        423
       ],
-      "published_at_raw": "Mon, 02 Nov 2026 23:28:17 GMT",
+      "published_at_raw": "Tue, 03 Nov 2026 12:28:26 GMT",
       "source": "bbc_sport",
-      "title": "From nightmare debut season to Everton hero - Barry's revival",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Mon, 02 Nov 2026 16:00:07 GMT",
-      "source": "bbc_sport",
-      "title": "Carrick says it's 'crazy' but he's looking forward to Roma game",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss"
+      "title": "Shaw among big names to miss out on FifPro World XI",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -36,6 +27,24 @@
       "source": "bbc_sport",
       "title": "Jaissle unhappy with 'clear foul' before Barry goal",
       "url": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 16:00:07 GMT",
+      "source": "bbc_sport",
+      "title": "Carrick says it's 'crazy' but he's looking forward to Roma game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c933x04ryz4do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 23:28:17 GMT",
+      "source": "bbc_sport",
+      "title": "From nightmare debut season to Everton hero - Barry's revival",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -95,6 +104,24 @@
       "matched_player_ids": [
         411
       ],
+      "published_at_raw": "Tue, 03 Nov 2026 19:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Esteve hoping for Champions League debut – and Haaland reunion",
+      "url": "https://www.skysports.com/football/news/12040/13605575/maxime-esteve-interview-rb-leipzig-defender-on-his-erling-haaland-reunion-after-two-own-goals-against-man-city"
+    },
+    {
+      "matched_player_ids": [
+        552
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 11:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Sunderland latest: Brobbey signs long-term deal",
+      "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+    },
+    {
+      "matched_player_ids": [
+        411
+      ],
       "published_at_raw": "Mon, 02 Nov 2026 17:00:00 GMT",
       "source": "sky_sports",
       "title": "Man Utd beware! Malen is a man transformed at Roma",
@@ -107,5 +134,5 @@
     "sky_sports"
   ],
   "target_event": 10,
-  "updated_at": "2026-11-03T11:40:34Z"
+  "updated_at": "2026-11-03T19:11:43Z"
 }

@@ -3846,8 +3846,41 @@
       "title": "Man Utd beware! Malen is a man transformed at Roma",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13607180/donyell-malen-at-roma-man-utd-face-the-top-scorer-in-europes-major-leagues-in-2026-with-the-dutchman-transformed"
+    },
+    {
+      "detected_at": "2026-11-03T19:11:43Z",
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Tue, 03 Nov 2026 12:28:26 GMT",
+      "source": "bbc_sport",
+      "title": "Shaw among big names to miss out on FifPro World XI",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-03T19:11:43Z",
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Tue, 03 Nov 2026 19:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Esteve hoping for Champions League debut – and Haaland reunion",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13605575/maxime-esteve-interview-rb-leipzig-defender-on-his-erling-haaland-reunion-after-two-own-goals-against-man-city"
+    },
+    {
+      "detected_at": "2026-11-03T19:11:43Z",
+      "matched_player_ids": [
+        552
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 11:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Sunderland latest: Brobbey signs long-term deal",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-03T11:40:34Z"
+  "updated_at": "2026-11-03T19:11:43Z"
 }
