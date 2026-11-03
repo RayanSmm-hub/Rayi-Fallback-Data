@@ -3789,8 +3789,54 @@
       "title": "Barry goal sees Everton ease past meagre Newcastle",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13607313/newcastle-0-1-everton-premier-league-highlights"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 59,
+          "before": 60
+        }
+      },
+      "detected_at": "2026-11-03T03:38:32Z",
+      "player_id": 569,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gonzalo"
+    },
+    {
+      "detected_at": "2026-11-03T03:38:32Z",
+      "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 23:28:17 GMT",
+      "source": "bbc_sport",
+      "title": "From nightmare debut season to Everton hero - Barry's revival",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqj346rvg3pzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-03T03:38:32Z",
+      "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 22:44:30 GMT",
+      "source": "bbc_sport",
+      "title": "Everton hold off Newcastle to move into seventh",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-03T03:38:32Z",
+      "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 23:01:13 GMT",
+      "source": "bbc_sport",
+      "title": "Jaissle unhappy with 'clear foul' before Barry goal",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-02T22:25:37Z"
+  "updated_at": "2026-11-03T03:38:32Z"
 }
