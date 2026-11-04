@@ -3879,8 +3879,81 @@
       "title": "Sunderland latest: Brobbey signs long-term deal",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/live-blog/12040/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 48,
+          "before": 47
+        }
+      },
+      "detected_at": "2026-11-04T00:06:48Z",
+      "player_id": 31,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Konsa"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 82,
+          "before": 81
+        }
+      },
+      "detected_at": "2026-11-04T00:06:48Z",
+      "player_id": 40,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Rogers"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 49,
+          "before": 50
+        }
+      },
+      "detected_at": "2026-11-04T00:06:48Z",
+      "player_id": 445,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Thiaw"
+    },
+    {
+      "detected_at": "2026-11-04T00:06:48Z",
+      "matched_player_ids": [
+        1,
+        249
+      ],
+      "published_at_raw": "Tue, 03 Nov 2026 22:55:00 GMT",
+      "source": "bbc_sport",
+      "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-04T00:06:48Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Tue, 03 Nov 2026 22:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Cunha completes wild Man Utd comeback win over Roma from two down",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/manchester-united-vs-roma/report/577657"
+    },
+    {
+      "detected_at": "2026-11-04T00:06:48Z",
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Tue, 03 Nov 2026 20:47:00 GMT",
+      "source": "sky_sports",
+      "title": "Arteta dismisses Isak penalty furore: I have massive library we can talk about!",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-03T19:11:43Z"
+  "updated_at": "2026-11-04T00:06:48Z"
 }
