@@ -40,15 +40,6 @@
     },
     {
       "matched_player_ids": [
-        423
-      ],
-      "published_at_raw": "Tue, 03 Nov 2026 12:28:26 GMT",
-      "source": "bbc_sport",
-      "title": "Shaw among big names to miss out on FifPro World XI",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         379
       ],
       "published_at_raw": "Mon, 02 Nov 2026 00:00:03 GMT",
@@ -94,12 +85,21 @@
     },
     {
       "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Tue, 03 Nov 2026 12:28:26 GMT",
+      "source": "bbc_sport",
+      "title": "Shaw among big names to miss out on FifPro World XI",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c8dx37gxzvgyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         4
       ],
-      "published_at_raw": "Wed, 04 Nov 2026 09:28:00 GMT",
+      "published_at_raw": "Wed, 04 Nov 2026 15:22:00 GMT",
       "source": "sky_sports",
-      "title": "Real Madrid reach verbal agreement with Man Utd teen star JJ Gabriel",
-      "url": "https://www.skysports.com/football/news/12040/13607845/jj-gabriel-real-madrid-reach-verbal-agreement-with-man-utd-teenager-who-requested-to-leave-old-trafford"
+      "title": "Should Man Utd teenager JJ Gabriel leave for Real Madrid?",
+      "url": "https://www.skysports.com/watch/video/13607990/jj-gabriel-should-the-manchester-united-teenager-leave-for-real-madrid"
     }
   ],
   "schema_version": 1,
@@ -108,5 +108,5 @@
     "sky_sports"
   ],
   "target_event": 10,
-  "updated_at": "2026-11-04T15:11:36Z"
+  "updated_at": "2026-11-04T21:26:37Z"
 }
