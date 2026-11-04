@@ -3,13 +3,12 @@
   "items": [
     {
       "matched_player_ids": [
-        1,
-        249
+        4
       ],
-      "published_at_raw": "Tue, 03 Nov 2026 22:55:00 GMT",
+      "published_at_raw": "Wed, 04 Nov 2026 11:49:23 GMT",
       "source": "bbc_sport",
-      "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo?at_medium=RSS&at_campaign=rss"
+      "title": "Real Madrid reach verbal agreement to sign Gabriel",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -28,6 +27,16 @@
       "source": "bbc_sport",
       "title": "Jaissle unhappy with 'clear foul' before Barry goal",
       "url": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        1,
+        249
+      ],
+      "published_at_raw": "Tue, 03 Nov 2026 22:55:00 GMT",
+      "source": "bbc_sport",
+      "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -85,30 +94,12 @@
     },
     {
       "matched_player_ids": [
-        385
+        4
       ],
-      "published_at_raw": "Tue, 03 Nov 2026 22:00:00 GMT",
+      "published_at_raw": "Wed, 04 Nov 2026 09:28:00 GMT",
       "source": "sky_sports",
-      "title": "Cunha completes wild Man Utd comeback win over Roma from two down",
-      "url": "https://www.skysports.com/football/manchester-united-vs-roma/report/577657"
-    },
-    {
-      "matched_player_ids": [
-        379
-      ],
-      "published_at_raw": "Tue, 03 Nov 2026 20:47:00 GMT",
-      "source": "sky_sports",
-      "title": "Arteta dismisses Isak penalty furore: I have massive library we can talk about!",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-    },
-    {
-      "matched_player_ids": [
-        411
-      ],
-      "published_at_raw": "Tue, 03 Nov 2026 19:00:00 GMT",
-      "source": "sky_sports",
-      "title": "Esteve hoping for Champions League debut – and Haaland reunion",
-      "url": "https://www.skysports.com/football/news/12040/13605575/maxime-esteve-interview-rb-leipzig-defender-on-his-erling-haaland-reunion-after-two-own-goals-against-man-city"
+      "title": "Real Madrid reach verbal agreement with Man Utd teen star JJ Gabriel",
+      "url": "https://www.skysports.com/football/news/12040/13607845/jj-gabriel-real-madrid-reach-verbal-agreement-with-man-utd-teenager-who-requested-to-leave-old-trafford"
     }
   ],
   "schema_version": 1,
@@ -117,5 +108,5 @@
     "sky_sports"
   ],
   "target_event": 10,
-  "updated_at": "2026-11-04T06:53:07Z"
+  "updated_at": "2026-11-04T15:11:36Z"
 }
