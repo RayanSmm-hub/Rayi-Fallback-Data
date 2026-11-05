@@ -39,12 +39,12 @@
     },
     {
       "matched_player_ids": [
-        249
+        449
       ],
-      "published_at_raw": "Mon, 02 Nov 2026 23:01:13 GMT",
+      "published_at_raw": "Thu, 05 Nov 2026 13:03:43 GMT",
       "source": "bbc_sport",
-      "title": "Jaissle unhappy with 'clear foul' before Barry goal",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss"
+      "title": "Coleman in 'hybrid role' with Republic of Ireland",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -75,12 +75,12 @@
     },
     {
       "matched_player_ids": [
-        411
+        154
       ],
-      "published_at_raw": "Wed, 04 Nov 2026 22:00:00 GMT",
+      "published_at_raw": "Thu, 05 Nov 2026 16:00:00 GMT",
       "source": "sky_sports",
-      "title": "Haaland calls on Man City to 'step up' despite late winner at RB Leipzig",
-      "url": "https://www.skysports.com/football/rb-leipzig-vs-manchester-city/report/577666"
+      "title": "Palmer to return? Mainoo recall? Tuchel's England squad dilemmas",
+      "url": "https://www.skysports.com/football/news/12040/13608436/england-squad-cole-palmer-to-return-kobbie-mainoo-recall-thomas-tuchels-big-selection-dilemmas-analysed"
     }
   ],
   "schema_version": 1,
@@ -89,5 +89,5 @@
     "sky_sports"
   ],
   "target_event": 10,
-  "updated_at": "2026-11-05T09:04:35Z"
+  "updated_at": "2026-11-05T17:33:47Z"
 }

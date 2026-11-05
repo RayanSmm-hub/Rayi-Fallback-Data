@@ -4042,8 +4042,30 @@
       "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-05T17:33:47Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Thu, 05 Nov 2026 13:03:43 GMT",
+      "source": "bbc_sport",
+      "title": "Coleman in 'hybrid role' with Republic of Ireland",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-05T17:33:47Z",
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Thu, 05 Nov 2026 16:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Palmer to return? Mainoo recall? Tuchel's England squad dilemmas",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13608436/england-squad-cole-palmer-to-return-kobbie-mainoo-recall-thomas-tuchels-big-selection-dilemmas-analysed"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-05T09:04:35Z"
+  "updated_at": "2026-11-05T17:33:47Z"
 }
