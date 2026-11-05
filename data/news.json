@@ -12,21 +12,21 @@
     },
     {
       "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Thu, 05 Nov 2026 07:17:20 GMT",
+      "source": "bbc_sport",
+      "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         385
       ],
       "published_at_raw": "Wed, 04 Nov 2026 22:04:05 GMT",
       "source": "bbc_sport",
       "title": "Manchester United beat Roma in epic second-half comeback",
       "url": "https://www.bbc.co.uk/sport/football/videos/cqrmy8lrz0wno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        4
-      ],
-      "published_at_raw": "Wed, 04 Nov 2026 11:49:23 GMT",
-      "source": "bbc_sport",
-      "title": "Real Madrid reach verbal agreement to sign Gabriel",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -45,6 +45,15 @@
       "source": "bbc_sport",
       "title": "Jaissle unhappy with 'clear foul' before Barry goal",
       "url": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        4
+      ],
+      "published_at_raw": "Wed, 04 Nov 2026 11:49:23 GMT",
+      "source": "bbc_sport",
+      "title": "Real Madrid reach verbal agreement to sign Gabriel",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -70,17 +79,8 @@
       ],
       "published_at_raw": "Wed, 04 Nov 2026 22:00:00 GMT",
       "source": "sky_sports",
-      "title": "Haaland nets Man City winner to haunt RB Leipzig again",
+      "title": "Haaland calls on Man City to 'step up' despite late winner at RB Leipzig",
       "url": "https://www.skysports.com/football/rb-leipzig-vs-manchester-city/report/577666"
-    },
-    {
-      "matched_player_ids": [
-        4
-      ],
-      "published_at_raw": "Wed, 04 Nov 2026 15:22:00 GMT",
-      "source": "sky_sports",
-      "title": "Should Man Utd teenager JJ Gabriel leave for Real Madrid?",
-      "url": "https://www.skysports.com/watch/video/13607990/jj-gabriel-should-the-manchester-united-teenager-leave-for-real-madrid"
     }
   ],
   "schema_version": 1,
@@ -89,5 +89,5 @@
     "sky_sports"
   ],
   "target_event": 10,
-  "updated_at": "2026-11-05T01:43:27Z"
+  "updated_at": "2026-11-05T09:04:35Z"
 }
