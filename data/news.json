@@ -3,6 +3,24 @@
   "items": [
     {
       "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Wed, 04 Nov 2026 22:15:31 GMT",
+      "source": "bbc_sport",
+      "title": "Haaland scores winner as Man City beat Leipzig",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Wed, 04 Nov 2026 22:04:05 GMT",
+      "source": "bbc_sport",
+      "title": "Manchester United beat Roma in epic second-half comeback",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqrmy8lrz0wno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         4
       ],
       "published_at_raw": "Wed, 04 Nov 2026 11:49:23 GMT",
@@ -30,52 +48,6 @@
     },
     {
       "matched_player_ids": [
-        1,
-        249
-      ],
-      "published_at_raw": "Tue, 03 Nov 2026 22:55:00 GMT",
-      "source": "bbc_sport",
-      "title": "Man Utd eye Man City's Ait-Nouri - Wednesday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3vgx8qkqx4jo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        379
-      ],
-      "published_at_raw": "Mon, 02 Nov 2026 00:00:03 GMT",
-      "source": "bbc_sport",
-      "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        31
-      ],
-      "published_at_raw": "Mon, 02 Nov 2026 00:00:11 GMT",
-      "source": "bbc_sport",
-      "title": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        379
-      ],
-      "published_at_raw": "Sun, 01 Nov 2026 19:37:44 GMT",
-      "source": "bbc_sport",
-      "title": "'Everyone saw it' - Iraola confused by Isak penalty decision",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cjdx3dpvevngo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        423
-      ],
-      "published_at_raw": "Sun, 01 Nov 2026 17:54:43 GMT",
-      "source": "bbc_sport",
-      "title": "Clinical Man City edge past London City in WSL thriller",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1rgey8j7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         154
       ],
       "published_at_raw": "Mon, 26 Oct 2026 14:12:43 GMT",
@@ -94,6 +66,15 @@
     },
     {
       "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Wed, 04 Nov 2026 22:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Haaland nets Man City winner to haunt RB Leipzig again",
+      "url": "https://www.skysports.com/football/rb-leipzig-vs-manchester-city/report/577666"
+    },
+    {
+      "matched_player_ids": [
         4
       ],
       "published_at_raw": "Wed, 04 Nov 2026 15:22:00 GMT",
@@ -108,5 +89,5 @@
     "sky_sports"
   ],
   "target_event": 10,
-  "updated_at": "2026-11-04T21:26:37Z"
+  "updated_at": "2026-11-05T01:43:27Z"
 }

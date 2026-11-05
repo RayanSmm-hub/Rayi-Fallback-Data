@@ -3985,8 +3985,54 @@
       "title": "Should Man Utd teenager JJ Gabriel leave for Real Madrid?",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13607990/jj-gabriel-should-the-manchester-united-teenager-leave-for-real-madrid"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 78,
+          "before": 79
+        }
+      },
+      "detected_at": "2026-11-05T01:43:27Z",
+      "player_id": 480,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gibbs-White"
+    },
+    {
+      "detected_at": "2026-11-05T01:43:27Z",
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Wed, 04 Nov 2026 22:15:31 GMT",
+      "source": "bbc_sport",
+      "title": "Haaland scores winner as Man City beat Leipzig",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-05T01:43:27Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Wed, 04 Nov 2026 22:04:05 GMT",
+      "source": "bbc_sport",
+      "title": "Manchester United beat Roma in epic second-half comeback",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqrmy8lrz0wno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-05T01:43:27Z",
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Wed, 04 Nov 2026 22:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Haaland nets Man City winner to haunt RB Leipzig again",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/rb-leipzig-vs-manchester-city/report/577666"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-04T21:26:37Z"
+  "updated_at": "2026-11-05T01:43:27Z"
 }
