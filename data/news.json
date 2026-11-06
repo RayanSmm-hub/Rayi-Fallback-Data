@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 22:30:12 GMT",
+      "source": "bbc_sport",
+      "title": "Barry scores twice as Everton fight back to beat Coventry",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         154
       ],
       "published_at_raw": "Fri, 06 Nov 2026 16:30:03 GMT",
@@ -48,33 +57,6 @@
     },
     {
       "matched_player_ids": [
-        31
-      ],
-      "published_at_raw": "Thu, 05 Nov 2026 22:26:23 GMT",
-      "source": "bbc_sport",
-      "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        379
-      ],
-      "published_at_raw": "Mon, 02 Nov 2026 00:00:03 GMT",
-      "source": "bbc_sport",
-      "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        31
-      ],
-      "published_at_raw": "Mon, 02 Nov 2026 00:00:11 GMT",
-      "source": "bbc_sport",
-      "title": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         10
       ],
       "published_at_raw": "Sun, 10 May 2026 23:07:07 GMT",
@@ -102,12 +84,21 @@
     },
     {
       "matched_player_ids": [
-        154
+        249
       ],
-      "published_at_raw": "Fri, 06 Nov 2026 11:54:00 GMT",
+      "published_at_raw": "Fri, 06 Nov 2026 22:00:00 GMT",
       "source": "sky_sports",
-      "title": "Tuchel explains Palmer exclusion",
-      "url": "https://www.skysports.com/football/news/12040/13608819/england-squad-thomas-tuchel-makes-statement-with-cole-palmer-exclusion-but-insists-its-not-personal"
+      "title": "Barry leads Everton comeback win vs Coventry - who suffer triple VAR woe",
+      "url": "https://www.skysports.com/football/everton-vs-coventry-city/report/559537"
+    },
+    {
+      "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 22:02:00 GMT",
+      "source": "sky_sports",
+      "title": "Barry shines with four-minute double as Everton come back to beat Coventry",
+      "url": "https://www.skysports.com/watch/video/13609101/everton-3-1-coventry-premier-league-highlights"
     }
   ],
   "schema_version": 1,
@@ -115,6 +106,6 @@
     "bbc_sport",
     "sky_sports"
   ],
-  "target_event": 10,
-  "updated_at": "2026-11-06T18:58:56Z"
+  "target_event": 11,
+  "updated_at": "2026-11-06T23:42:04Z"
 }

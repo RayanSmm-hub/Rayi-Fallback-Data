@@ -4292,8 +4292,41 @@
       "title": "Tuchel explains Palmer exclusion",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13608819/england-squad-thomas-tuchel-makes-statement-with-cole-palmer-exclusion-but-insists-its-not-personal"
+    },
+    {
+      "detected_at": "2026-11-06T23:42:04Z",
+      "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 22:30:12 GMT",
+      "source": "bbc_sport",
+      "title": "Barry scores twice as Everton fight back to beat Coventry",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-06T23:42:04Z",
+      "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 22:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Barry leads Everton comeback win vs Coventry - who suffer triple VAR woe",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/everton-vs-coventry-city/report/559537"
+    },
+    {
+      "detected_at": "2026-11-06T23:42:04Z",
+      "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 22:02:00 GMT",
+      "source": "sky_sports",
+      "title": "Barry shines with four-minute double as Everton come back to beat Coventry",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13609101/everton-3-1-coventry-premier-league-highlights"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-06T18:58:56Z"
+  "updated_at": "2026-11-06T23:42:04Z"
 }
