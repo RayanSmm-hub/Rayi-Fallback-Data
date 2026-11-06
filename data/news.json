@@ -3,30 +3,21 @@
   "items": [
     {
       "matched_player_ids": [
-        411
-      ],
-      "published_at_raw": "Wed, 04 Nov 2026 22:15:31 GMT",
-      "source": "bbc_sport",
-      "title": "Haaland scores winner as Man City beat Leipzig",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ckz65ey5q29zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         154
       ],
-      "published_at_raw": "Thu, 05 Nov 2026 07:17:20 GMT",
+      "published_at_raw": "Thu, 05 Nov 2026 19:00:04 GMT",
       "source": "bbc_sport",
-      "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss"
+      "title": "England check on Palmer - what are Tuchel's other big choices?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
-        385
+        31
       ],
-      "published_at_raw": "Wed, 04 Nov 2026 22:04:05 GMT",
+      "published_at_raw": "Thu, 05 Nov 2026 22:26:23 GMT",
       "source": "bbc_sport",
-      "title": "Manchester United beat Roma in epic second-half comeback",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqrmy8lrz0wno?at_medium=RSS&at_campaign=rss"
+      "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -39,6 +30,24 @@
     },
     {
       "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 23:01:13 GMT",
+      "source": "bbc_sport",
+      "title": "Jaissle unhappy with 'clear foul' before Barry goal",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Thu, 05 Nov 2026 07:17:20 GMT",
+      "source": "bbc_sport",
+      "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Thu, 05 Nov 2026 13:03:43 GMT",
@@ -48,12 +57,30 @@
     },
     {
       "matched_player_ids": [
-        4
+        379
       ],
-      "published_at_raw": "Wed, 04 Nov 2026 11:49:23 GMT",
+      "published_at_raw": "Mon, 02 Nov 2026 00:00:03 GMT",
       "source": "bbc_sport",
-      "title": "Real Madrid reach verbal agreement to sign Gabriel",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq146dnrn541o?at_medium=RSS&at_campaign=rss"
+      "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        31
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 00:00:11 GMT",
+      "source": "bbc_sport",
+      "title": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Sun, 01 Nov 2026 19:37:44 GMT",
+      "source": "bbc_sport",
+      "title": "'Everyone saw it' - Iraola confused by Isak penalty decision",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjdx3dpvevngo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -75,12 +102,21 @@
     },
     {
       "matched_player_ids": [
-        154
+        1
       ],
-      "published_at_raw": "Thu, 05 Nov 2026 16:00:00 GMT",
+      "published_at_raw": "Thu, 05 Nov 2026 20:00:00 GMT",
       "source": "sky_sports",
-      "title": "Palmer to return? Mainoo recall? Tuchel's England squad dilemmas",
-      "url": "https://www.skysports.com/football/news/12040/13608436/england-squad-cole-palmer-to-return-kobbie-mainoo-recall-thomas-tuchels-big-selection-dilemmas-analysed"
+      "title": "Bournemouth's super subs extend winning run with Sparta Prague victory",
+      "url": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809"
+    },
+    {
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Thu, 05 Nov 2026 17:45:00 GMT",
+      "source": "sky_sports",
+      "title": "Is Rashid still England's No 1 spinner in ODI cricket?",
+      "url": "https://www.skysports.com/cricket/news/12040/13608505/is-adil-rashid-still-englands-no-1-spinner-in-one-day-international-cricket"
     }
   ],
   "schema_version": 1,
@@ -89,5 +125,5 @@
     "sky_sports"
   ],
   "target_event": 10,
-  "updated_at": "2026-11-05T17:33:47Z"
+  "updated_at": "2026-11-06T03:33:35Z"
 }

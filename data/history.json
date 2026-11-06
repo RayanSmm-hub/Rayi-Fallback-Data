@@ -4064,8 +4064,138 @@
       "title": "Palmer to return? Mainoo recall? Tuchel's England squad dilemmas",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13608436/england-squad-cole-palmer-to-return-kobbie-mainoo-recall-thomas-tuchels-big-selection-dilemmas-analysed"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": 100
+        },
+        "news": {
+          "after": "Knee injury - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-11-06T03:33:35Z",
+      "player_id": 31,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Konsa"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": 100
+        },
+        "news": {
+          "after": "Foot injury - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-11-06T03:33:35Z",
+      "player_id": 346,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Calvert-Lewin"
+    },
+    {
+      "detected_at": "2026-11-06T03:33:35Z",
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Thu, 05 Nov 2026 19:00:04 GMT",
+      "source": "bbc_sport",
+      "title": "England check on Palmer - what are Tuchel's other big choices?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-06T03:33:35Z",
+      "matched_player_ids": [
+        31
+      ],
+      "published_at_raw": "Thu, 05 Nov 2026 22:26:23 GMT",
+      "source": "bbc_sport",
+      "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-06T03:33:35Z",
+      "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 23:01:13 GMT",
+      "source": "bbc_sport",
+      "title": "Jaissle unhappy with 'clear foul' before Barry goal",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-06T03:33:35Z",
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 00:00:03 GMT",
+      "source": "bbc_sport",
+      "title": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-06T03:33:35Z",
+      "matched_player_ids": [
+        31
+      ],
+      "published_at_raw": "Mon, 02 Nov 2026 00:00:11 GMT",
+      "source": "bbc_sport",
+      "title": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-06T03:33:35Z",
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Sun, 01 Nov 2026 19:37:44 GMT",
+      "source": "bbc_sport",
+      "title": "'Everyone saw it' - Iraola confused by Isak penalty decision",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjdx3dpvevngo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-06T03:33:35Z",
+      "matched_player_ids": [
+        1
+      ],
+      "published_at_raw": "Thu, 05 Nov 2026 20:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Bournemouth's super subs extend winning run with Sparta Prague victory",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809"
+    },
+    {
+      "detected_at": "2026-11-06T03:33:35Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Thu, 05 Nov 2026 17:45:00 GMT",
+      "source": "sky_sports",
+      "title": "Is Rashid still England's No 1 spinner in ODI cricket?",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/cricket/news/12040/13608505/is-adil-rashid-still-englands-no-1-spinner-in-one-day-international-cricket"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-05T17:33:47Z"
+  "updated_at": "2026-11-06T03:33:35Z"
 }
