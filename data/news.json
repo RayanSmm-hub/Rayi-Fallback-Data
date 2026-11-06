@@ -3,6 +3,33 @@
   "items": [
     {
       "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 16:30:03 GMT",
+      "source": "bbc_sport",
+      "title": "Is Palmer's England career over under Tuchel?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 15:21:40 GMT",
+      "source": "bbc_sport",
+      "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 11:59:37 GMT",
+      "source": "bbc_sport",
+      "title": "Palmer misses too many chances to impress - Tuchel",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         249
       ],
       "published_at_raw": "Mon, 02 Nov 2026 22:44:30 GMT",
@@ -48,12 +75,12 @@
     },
     {
       "matched_player_ids": [
-        379
+        10
       ],
-      "published_at_raw": "Sun, 01 Nov 2026 19:37:44 GMT",
+      "published_at_raw": "Sun, 10 May 2026 23:07:07 GMT",
       "source": "bbc_sport",
-      "title": "'Everyone saw it' - Iraola confused by Isak penalty decision",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cjdx3dpvevngo?at_medium=RSS&at_campaign=rss"
+      "title": "Zac Efron and Jeremy Allen White star as the Von Erich brothers",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002w9wy?at_mid=Z14L5CUf9Q&at_campaign=The_Iron_Claw&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002w9wy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Iron_Claw&at_bbc_team=BBC&at_creation=Film"
     },
     {
       "matched_player_ids": [
@@ -75,21 +102,12 @@
     },
     {
       "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Fri, 06 Nov 2026 09:00:00 GMT",
-      "source": "sky_sports",
-      "title": "Lacey and Man Utd's next generation can rescue Carrick",
-      "url": "https://www.skysports.com/football/news/12040/13608473/manchester-united-reporter-notebook-shea-lacey-and-old-trafford-young-guns-offer-michael-carrick-hope-of-unlikely-revival"
-    },
-    {
-      "matched_player_ids": [
         154
       ],
-      "published_at_raw": "Fri, 06 Nov 2026 10:00:00 GMT",
+      "published_at_raw": "Fri, 06 Nov 2026 11:54:00 GMT",
       "source": "sky_sports",
-      "title": "Palmer left out of England squad as Jobe and King called up",
-      "url": "https://www.skysports.com/football/news/12040/13608698/england-squad-cole-palmer-phil-foden-and-kobbie-mainoo-left-out-as-jobe-bellingham-and-josh-king-called-up"
+      "title": "Tuchel explains Palmer exclusion",
+      "url": "https://www.skysports.com/football/news/12040/13608819/england-squad-thomas-tuchel-makes-statement-with-cole-palmer-exclusion-but-insists-its-not-personal"
     }
   ],
   "schema_version": 1,
@@ -98,5 +116,5 @@
     "sky_sports"
   ],
   "target_event": 10,
-  "updated_at": "2026-11-06T11:52:46Z"
+  "updated_at": "2026-11-06T18:58:56Z"
 }

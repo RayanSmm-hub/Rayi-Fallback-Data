@@ -4216,8 +4216,84 @@
       "title": "Palmer left out of England squad as Jobe and King called up",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13608698/england-squad-cole-palmer-phil-foden-and-kobbie-mainoo-left-out-as-jobe-bellingham-and-josh-king-called-up"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 75
+        },
+        "news": {
+          "after": "",
+          "before": "Knee injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-11-06T18:58:56Z",
+      "player_id": 31,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Konsa"
+    },
+    {
+      "detected_at": "2026-11-06T18:58:56Z",
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 16:30:03 GMT",
+      "source": "bbc_sport",
+      "title": "Is Palmer's England career over under Tuchel?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-06T18:58:56Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 15:21:40 GMT",
+      "source": "bbc_sport",
+      "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-06T18:58:56Z",
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 11:59:37 GMT",
+      "source": "bbc_sport",
+      "title": "Palmer misses too many chances to impress - Tuchel",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9kgjjdg30r4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-06T18:58:56Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Sun, 10 May 2026 23:07:07 GMT",
+      "source": "bbc_sport",
+      "title": "Zac Efron and Jeremy Allen White star as the Von Erich brothers",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002w9wy?at_mid=Z14L5CUf9Q&at_campaign=The_Iron_Claw&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002w9wy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Iron_Claw&at_bbc_team=BBC&at_creation=Film"
+    },
+    {
+      "detected_at": "2026-11-06T18:58:56Z",
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 11:54:00 GMT",
+      "source": "sky_sports",
+      "title": "Tuchel explains Palmer exclusion",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13608819/england-squad-thomas-tuchel-makes-statement-with-cole-palmer-exclusion-but-insists-its-not-personal"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-06T11:52:46Z"
+  "updated_at": "2026-11-06T18:58:56Z"
 }
