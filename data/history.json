@@ -4194,8 +4194,30 @@
       "title": "Is Rashid still England's No 1 spinner in ODI cricket?",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/cricket/news/12040/13608505/is-adil-rashid-still-englands-no-1-spinner-in-one-day-international-cricket"
+    },
+    {
+      "detected_at": "2026-11-06T11:52:46Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 09:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Lacey and Man Utd's next generation can rescue Carrick",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13608473/manchester-united-reporter-notebook-shea-lacey-and-old-trafford-young-guns-offer-michael-carrick-hope-of-unlikely-revival"
+    },
+    {
+      "detected_at": "2026-11-06T11:52:46Z",
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 10:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Palmer left out of England squad as Jobe and King called up",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13608698/england-squad-cole-palmer-phil-foden-and-kobbie-mainoo-left-out-as-jobe-bellingham-and-josh-king-called-up"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-06T03:33:35Z"
+  "updated_at": "2026-11-06T11:52:46Z"
 }

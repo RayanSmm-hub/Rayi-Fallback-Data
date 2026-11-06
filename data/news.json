@@ -3,24 +3,6 @@
   "items": [
     {
       "matched_player_ids": [
-        154
-      ],
-      "published_at_raw": "Thu, 05 Nov 2026 19:00:04 GMT",
-      "source": "bbc_sport",
-      "title": "England check on Palmer - what are Tuchel's other big choices?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        31
-      ],
-      "published_at_raw": "Thu, 05 Nov 2026 22:26:23 GMT",
-      "source": "bbc_sport",
-      "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         249
       ],
       "published_at_raw": "Mon, 02 Nov 2026 22:44:30 GMT",
@@ -39,21 +21,12 @@
     },
     {
       "matched_player_ids": [
-        154
+        31
       ],
-      "published_at_raw": "Thu, 05 Nov 2026 07:17:20 GMT",
+      "published_at_raw": "Thu, 05 Nov 2026 22:26:23 GMT",
       "source": "bbc_sport",
-      "title": "A must pick or unreliable? Tuchel's Palmer dilemma",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c65yne3912jeo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Thu, 05 Nov 2026 13:03:43 GMT",
-      "source": "bbc_sport",
-      "title": "Coleman in 'hybrid role' with Republic of Ireland",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmn9rwn7eyv4o?at_medium=RSS&at_campaign=rss"
+      "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -102,21 +75,21 @@
     },
     {
       "matched_player_ids": [
-        1
+        385
       ],
-      "published_at_raw": "Thu, 05 Nov 2026 20:00:00 GMT",
+      "published_at_raw": "Fri, 06 Nov 2026 09:00:00 GMT",
       "source": "sky_sports",
-      "title": "Bournemouth's super subs extend winning run with Sparta Prague victory",
-      "url": "https://www.skysports.com/football/sparta-prague-vs-bournemouth/report/577809"
+      "title": "Lacey and Man Utd's next generation can rescue Carrick",
+      "url": "https://www.skysports.com/football/news/12040/13608473/manchester-united-reporter-notebook-shea-lacey-and-old-trafford-young-guns-offer-michael-carrick-hope-of-unlikely-revival"
     },
     {
       "matched_player_ids": [
-        10
+        154
       ],
-      "published_at_raw": "Thu, 05 Nov 2026 17:45:00 GMT",
+      "published_at_raw": "Fri, 06 Nov 2026 10:00:00 GMT",
       "source": "sky_sports",
-      "title": "Is Rashid still England's No 1 spinner in ODI cricket?",
-      "url": "https://www.skysports.com/cricket/news/12040/13608505/is-adil-rashid-still-englands-no-1-spinner-in-one-day-international-cricket"
+      "title": "Palmer left out of England squad as Jobe and King called up",
+      "url": "https://www.skysports.com/football/news/12040/13608698/england-squad-cole-palmer-phil-foden-and-kobbie-mainoo-left-out-as-jobe-bellingham-and-josh-king-called-up"
     }
   ],
   "schema_version": 1,
@@ -125,5 +98,5 @@
     "sky_sports"
   ],
   "target_event": 10,
-  "updated_at": "2026-11-06T03:33:35Z"
+  "updated_at": "2026-11-06T11:52:46Z"
 }
