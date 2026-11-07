@@ -4489,8 +4489,41 @@
       "title": "White: I have the next heavyweight superstar",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/boxing/news/12040/13609039/dana-white-says-damazion-vanhouter-can-be-next-superstar-of-the-heavyweight-division"
+    },
+    {
+      "detected_at": "2026-11-07T17:31:19Z",
+      "matched_player_ids": [
+        4
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 12:25:14 GMT",
+      "source": "bbc_sport",
+      "title": "My dream is to win Ballon d'Or - Gabriel",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-07T17:31:19Z",
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 15:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Bronze mistake, Chelsea frustration, Shaw hat-trick - WSL round-up",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13608977/man-city-5-0-west-ham-chelsea-1-1-everton-reigning-wsl-champions-make-title-statement-as-bunny-shaw-scores-hat-trick"
+    },
+    {
+      "detected_at": "2026-11-07T17:31:19Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 11:49:00 GMT",
+      "source": "sky_sports",
+      "title": "Rahm leads in Abu Dhabi with Hatton and McIlroy challenging",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/golf/news/12040/13609184/jon-rahm-leads-abu-dhabi-championship-with-rory-mcilroy-among-challengers-going-into-final-round"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-07T11:38:16Z"
+  "updated_at": "2026-11-07T17:31:19Z"
 }
