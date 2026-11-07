@@ -3,21 +3,21 @@
   "items": [
     {
       "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 07:16:37 GMT",
+      "source": "bbc_sport",
+      "title": "I left Man City for my mental wellbeing - Trafford",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Fri, 06 Nov 2026 23:53:06 GMT",
       "source": "bbc_sport",
       "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        249
-      ],
-      "published_at_raw": "Fri, 06 Nov 2026 22:30:12 GMT",
-      "source": "bbc_sport",
-      "title": "Barry scores twice as Everton fight back to beat Coventry",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -30,12 +30,13 @@
     },
     {
       "matched_player_ids": [
-        449
+        226,
+        385
       ],
-      "published_at_raw": "Fri, 06 Nov 2026 15:21:40 GMT",
+      "published_at_raw": "Sat, 07 Nov 2026 10:00:00 GMT",
       "source": "bbc_sport",
-      "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss"
+      "title": "Football Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pln6dk?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -48,21 +49,39 @@
     },
     {
       "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 15:21:40 GMT",
+      "source": "bbc_sport",
+      "title": "The Fifa hopeful hoping to take Infantino down with 'samurai spirit'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwyvv7pkqrno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 07:27:40 GMT",
+      "source": "bbc_sport",
+      "title": "I had to play regularly for my mental wellbeing - Trafford on summer move",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq62yyveznrro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        249
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 22:30:12 GMT",
+      "source": "bbc_sport",
+      "title": "Barry scores twice as Everton fight back to beat Coventry",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         249
       ],
       "published_at_raw": "Mon, 02 Nov 2026 22:44:30 GMT",
       "source": "bbc_sport",
       "title": "Everton hold off Newcastle to move into seventh",
       "url": "https://www.bbc.co.uk/sport/football/videos/cq5ynd70vlx3o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        249
-      ],
-      "published_at_raw": "Mon, 02 Nov 2026 23:01:13 GMT",
-      "source": "bbc_sport",
-      "title": "Jaissle unhappy with 'clear foul' before Barry goal",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -93,21 +112,30 @@
     },
     {
       "matched_player_ids": [
-        249
+        346
       ],
-      "published_at_raw": "Fri, 06 Nov 2026 22:00:00 GMT",
+      "published_at_raw": "Sat, 07 Nov 2026 10:55:00 GMT",
       "source": "sky_sports",
-      "title": "Barry leads Everton comeback win vs Coventry - who suffer triple VAR woe",
-      "url": "https://www.skysports.com/football/everton-vs-coventry-city/report/559537"
+      "title": "Calvert-Lewin fit for Leeds as Porro starts for Tottenham LIVE!",
+      "url": "https://www.skysports.com/football/leeds-united-vs-tottenham-hotspur/live/559540"
     },
     {
       "matched_player_ids": [
-        249
+        4
       ],
-      "published_at_raw": "Fri, 06 Nov 2026 22:02:00 GMT",
+      "published_at_raw": "Sat, 07 Nov 2026 08:10:00 GMT",
       "source": "sky_sports",
-      "title": "Barry shines with four-minute double as Everton come back to beat Coventry",
-      "url": "https://www.skysports.com/watch/video/13609101/everton-3-1-coventry-premier-league-highlights"
+      "title": "Magomedov beats Gabriel in ONE Championship to stay perfect",
+      "url": "https://www.skysports.com/mma/news/12040/13609162/one-championship-fight-night-49-magomed-magomedov-beats-lucas-gabriel-to-maintain-perfect-record"
+    },
+    {
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 07:00:00 GMT",
+      "source": "sky_sports",
+      "title": "White: I have the next heavyweight superstar",
+      "url": "https://www.skysports.com/boxing/news/12040/13609039/dana-white-says-damazion-vanhouter-can-be-next-superstar-of-the-heavyweight-division"
     }
   ],
   "schema_version": 1,
@@ -116,5 +144,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-07T04:58:39Z"
+  "updated_at": "2026-11-07T11:38:16Z"
 }

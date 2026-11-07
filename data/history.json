@@ -4401,8 +4401,96 @@
       "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 75
+        },
+        "news": {
+          "after": "",
+          "before": "Foot injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-11-07T11:38:16Z",
+      "player_id": 346,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Calvert-Lewin"
+    },
+    {
+      "detected_at": "2026-11-07T11:38:16Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 07:16:37 GMT",
+      "source": "bbc_sport",
+      "title": "I left Man City for my mental wellbeing - Trafford",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-07T11:38:16Z",
+      "matched_player_ids": [
+        226,
+        385
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 10:00:00 GMT",
+      "source": "bbc_sport",
+      "title": "Football Daily",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pln6dk?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-07T11:38:16Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 07:27:40 GMT",
+      "source": "bbc_sport",
+      "title": "I had to play regularly for my mental wellbeing - Trafford on summer move",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq62yyveznrro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-07T11:38:16Z",
+      "matched_player_ids": [
+        346
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 10:55:00 GMT",
+      "source": "sky_sports",
+      "title": "Calvert-Lewin fit for Leeds as Porro starts for Tottenham LIVE!",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/leeds-united-vs-tottenham-hotspur/live/559540"
+    },
+    {
+      "detected_at": "2026-11-07T11:38:16Z",
+      "matched_player_ids": [
+        4
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 08:10:00 GMT",
+      "source": "sky_sports",
+      "title": "Magomedov beats Gabriel in ONE Championship to stay perfect",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/mma/news/12040/13609162/one-championship-fight-night-49-magomed-magomedov-beats-lucas-gabriel-to-maintain-perfect-record"
+    },
+    {
+      "detected_at": "2026-11-07T11:38:16Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 07:00:00 GMT",
+      "source": "sky_sports",
+      "title": "White: I have the next heavyweight superstar",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/boxing/news/12040/13609039/dana-white-says-damazion-vanhouter-can-be-next-superstar-of-the-heavyweight-division"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-07T04:58:39Z"
+  "updated_at": "2026-11-07T11:38:16Z"
 }
