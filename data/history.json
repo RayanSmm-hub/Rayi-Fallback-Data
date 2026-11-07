@@ -4522,8 +4522,105 @@
       "title": "Rahm leads in Abu Dhabi with Hatton and McIlroy challenging",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/golf/news/12040/13609184/jon-rahm-leads-abu-dhabi-championship-with-rory-mcilroy-among-challengers-going-into-final-round"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": null
+        },
+        "news": {
+          "after": "Unspecified injury - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-11-07T21:31:21Z",
+      "player_id": 388,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Guéhi"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": null
+        },
+        "news": {
+          "after": "Unspecified injury - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-11-07T21:31:21Z",
+      "player_id": 391,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gvardiol"
+    },
+    {
+      "detected_at": "2026-11-07T21:31:21Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 16:35:26 GMT",
+      "source": "bbc_sport",
+      "title": "Tottenham set to complain to Pro Ref after Bogle escapes red card",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-07T21:31:21Z",
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 18:35:43 GMT",
+      "source": "bbc_sport",
+      "title": "Shaw hat-trick gives five-star Man City dominant win over West Ham",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqlyek7wpnl0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-07T21:31:21Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 19:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Norris claims Sao Paulo GP pole after treacherous rain-hit qualifying",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/f1/news/12040/13609197/sao-paulo-gp-qualifying-lando-norris-claims-rain-hit-pole-in-wild-conditions-with-lewis-hamilton-max-verstappen-to-start-at-back"
+    },
+    {
+      "detected_at": "2026-11-07T21:31:21Z",
+      "matched_player_ids": [
+        31
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 20:20:00 GMT",
+      "source": "sky_sports",
+      "title": "Hits and misses: Could Konsa hold off Saliba's return?",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13609127/could-arsenals-ezri-konsa-hold-off-william-saliba-from-reuniting-partnership-with-gabriel-premier-league-hits-and-misses"
+    },
+    {
+      "detected_at": "2026-11-07T21:31:21Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 18:08:00 GMT",
+      "source": "sky_sports",
+      "title": "The King of Violence has arrived! INCREDIBLE debut and post-fight rant",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13609486/the-king-of-violence-has-arrived-incredible-debut-and-post-fight-rant"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-07T17:31:19Z"
+  "updated_at": "2026-11-07T21:31:21Z"
 }
