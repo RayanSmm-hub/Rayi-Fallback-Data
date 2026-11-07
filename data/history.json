@@ -4325,8 +4325,84 @@
       "title": "Barry shines with four-minute double as Everton come back to beat Coventry",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13609101/everton-3-1-coventry-premier-league-highlights"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 81,
+          "before": 80
+        }
+      },
+      "detected_at": "2026-11-07T04:58:39Z",
+      "player_id": 4,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gabriel"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 61,
+          "before": 62
+        }
+      },
+      "detected_at": "2026-11-07T04:58:39Z",
+      "player_id": 94,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Schade"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 57,
+          "before": 56
+        }
+      },
+      "detected_at": "2026-11-07T04:58:39Z",
+      "player_id": 249,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Barry"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 60,
+          "before": 61
+        }
+      },
+      "detected_at": "2026-11-07T04:58:39Z",
+      "player_id": 346,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Calvert-Lewin"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 52,
+          "before": 53
+        }
+      },
+      "detected_at": "2026-11-07T04:58:39Z",
+      "player_id": 449,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Hall"
+    },
+    {
+      "detected_at": "2026-11-07T04:58:39Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 23:53:06 GMT",
+      "source": "bbc_sport",
+      "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-06T23:42:04Z"
+  "updated_at": "2026-11-07T04:58:39Z"
 }

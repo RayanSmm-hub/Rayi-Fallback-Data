@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 23:53:06 GMT",
+      "source": "bbc_sport",
+      "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         249
       ],
       "published_at_raw": "Fri, 06 Nov 2026 22:30:12 GMT",
@@ -107,5 +116,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-06T23:42:04Z"
+  "updated_at": "2026-11-07T04:58:39Z"
 }
