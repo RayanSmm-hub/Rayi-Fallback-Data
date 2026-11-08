@@ -4759,8 +4759,52 @@
       "title": "Man Utd's next generation can rescue Carrick",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13608473/manchester-united-reporter-notebook-shea-lacey-and-old-trafford-young-guns-offer-michael-carrick-hope-of-unlikely-revival"
+    },
+    {
+      "detected_at": "2026-11-08T19:22:21Z",
+      "matched_player_ids": [
+        552
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 16:13:36 GMT",
+      "source": "bbc_sport",
+      "title": "Failed to deal with Brobbey - player ratings for Sunderland v Chelsea",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c94g1n4pzev3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-08T19:22:21Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 15:31:43 GMT",
+      "source": "bbc_sport",
+      "title": "'Dreamland!' - Cray score brilliant free-kick as Stockport down to 10",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-08T19:22:21Z",
+      "matched_player_ids": [
+        368
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 14:46:00 GMT",
+      "source": "sky_sports",
+      "title": "Mac Allister heads home Szoboszlai's free kick to give Liverpool opener",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13609739/goal-a-mac-allister-crystal-palace-0-1-liverpool"
+    },
+    {
+      "detected_at": "2026-11-08T19:22:21Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 18:30:00 GMT",
+      "source": "sky_sports",
+      "title": "Man Utd score two in stoppage-time to salvage 4-4 draw with Villa",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/manchester-united-vs-aston-villa/report/559541"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-08T14:49:51Z"
+  "updated_at": "2026-11-08T19:22:21Z"
 }
