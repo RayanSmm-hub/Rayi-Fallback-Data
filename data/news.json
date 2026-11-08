@@ -12,15 +12,6 @@
     },
     {
       "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Sat, 07 Nov 2026 16:35:26 GMT",
-      "source": "bbc_sport",
-      "title": "Tottenham set to complain to Pro Ref after Bogle escapes red card",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         26
       ],
       "published_at_raw": "Sun, 08 Nov 2026 00:00:09 GMT",
@@ -32,28 +23,29 @@
       "matched_player_ids": [
         449
       ],
+      "published_at_raw": "Sat, 07 Nov 2026 16:35:26 GMT",
+      "source": "bbc_sport",
+      "title": "Tottenham set to complain to Pro Ref after Bogle escapes red card",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        1,
+        226
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 09:57:58 GMT",
+      "source": "bbc_sport",
+      "title": "Raya, Pickford and Wales' search for a new keeper",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cry8335l96q5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        449
+      ],
       "published_at_raw": "Sun, 08 Nov 2026 00:00:26 GMT",
       "source": "bbc_sport",
       "title": "Was Leeds' Bogle lucky to escape red card?",
       "url": "https://www.bbc.co.uk/sport/football/videos/c6lyl7qvq8ejo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Sat, 07 Nov 2026 07:16:37 GMT",
-      "source": "bbc_sport",
-      "title": "I left Man City for my mental wellbeing - Trafford",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        4
-      ],
-      "published_at_raw": "Sat, 07 Nov 2026 12:25:14 GMT",
-      "source": "bbc_sport",
-      "title": "My dream is to win Ballon d'Or - Gabriel",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -75,21 +67,21 @@
     },
     {
       "matched_player_ids": [
-        10
+        449
       ],
-      "published_at_raw": "Sun, 08 Nov 2026 07:00:00 GMT",
+      "published_at_raw": "Sun, 08 Nov 2026 10:55:00 GMT",
       "source": "sky_sports",
-      "title": "White: Billam-Smith was stopped too soon",
-      "url": "https://www.skysports.com/boxing/news/12040/13609610/dana-white-chris-billam-smith-stopped-too-soon-in-shock-defeat-to-cheavon-clarke"
+      "title": "Man City latest: Brighton more likely to challenge Arsenal for title, says Redknapp",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
     },
     {
       "matched_player_ids": [
-        449
+        385
       ],
-      "published_at_raw": "Sat, 07 Nov 2026 19:00:00 GMT",
+      "published_at_raw": "Fri, 06 Nov 2026 09:00:00 GMT",
       "source": "sky_sports",
-      "title": "Norris claims Sao Paulo GP pole after treacherous rain-hit qualifying",
-      "url": "https://www.skysports.com/f1/news/12040/13609197/sao-paulo-gp-qualifying-lando-norris-claims-rain-hit-pole-in-wild-conditions-with-lewis-hamilton-max-verstappen-to-start-at-back"
+      "title": "Man Utd's next generation can rescue Carrick",
+      "url": "https://www.skysports.com/football/news/12040/13608473/manchester-united-reporter-notebook-shea-lacey-and-old-trafford-young-guns-offer-michael-carrick-hope-of-unlikely-revival"
     }
   ],
   "schema_version": 1,
@@ -98,5 +90,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-08T07:45:42Z"
+  "updated_at": "2026-11-08T14:49:51Z"
 }

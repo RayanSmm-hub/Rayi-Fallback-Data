@@ -4704,8 +4704,63 @@
       "title": "White: Billam-Smith was stopped too soon",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/boxing/news/12040/13609610/dana-white-chris-billam-smith-stopped-too-soon-in-shock-defeat-to-cheavon-clarke"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 0,
+          "before": null
+        },
+        "news": {
+          "after": "Suspended until 5 Dec",
+          "before": ""
+        },
+        "status": {
+          "after": "s",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-11-08T14:49:51Z",
+      "player_id": 106,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Thiago"
+    },
+    {
+      "detected_at": "2026-11-08T14:49:51Z",
+      "matched_player_ids": [
+        1,
+        226
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 09:57:58 GMT",
+      "source": "bbc_sport",
+      "title": "Raya, Pickford and Wales' search for a new keeper",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cry8335l96q5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-08T14:49:51Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 10:55:00 GMT",
+      "source": "sky_sports",
+      "title": "Man City latest: Brighton more likely to challenge Arsenal for title, says Redknapp",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+    },
+    {
+      "detected_at": "2026-11-08T14:49:51Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Fri, 06 Nov 2026 09:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Man Utd's next generation can rescue Carrick",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13608473/manchester-united-reporter-notebook-shea-lacey-and-old-trafford-young-guns-offer-michael-carrick-hope-of-unlikely-revival"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-08T07:45:42Z"
+  "updated_at": "2026-11-08T14:49:51Z"
 }
