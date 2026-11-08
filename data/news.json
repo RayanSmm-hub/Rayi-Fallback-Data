@@ -75,6 +75,15 @@
     },
     {
       "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 07:00:00 GMT",
+      "source": "sky_sports",
+      "title": "White: Billam-Smith was stopped too soon",
+      "url": "https://www.skysports.com/boxing/news/12040/13609610/dana-white-chris-billam-smith-stopped-too-soon-in-shock-defeat-to-cheavon-clarke"
+    },
+    {
+      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Sat, 07 Nov 2026 19:00:00 GMT",
@@ -89,5 +98,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-08T01:08:36Z"
+  "updated_at": "2026-11-08T07:45:42Z"
 }
