@@ -4803,8 +4803,85 @@
       "title": "Man Utd score two in stoppage-time to salvage 4-4 draw with Villa",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/manchester-united-vs-aston-villa/report/559541"
+    },
+    {
+      "detected_at": "2026-11-08T23:00:18Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 20:01:16 GMT",
+      "source": "bbc_sport",
+      "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-08T23:00:18Z",
+      "matched_player_ids": [
+        106
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 20:00:21 GMT",
+      "source": "bbc_sport",
+      "title": "Brighton breeze past 10-man Brentford to move up to second",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-08T23:00:18Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 21:50:05 GMT",
+      "source": "bbc_sport",
+      "title": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-08T23:00:18Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 19:24:36 GMT",
+      "source": "bbc_sport",
+      "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-08T23:00:18Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 22:01:57 GMT",
+      "source": "bbc_sport",
+      "title": "Oldham Athletic shock Sheffield Wednesday with extra-time winner",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c52e982pnrdko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-08T23:00:18Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 19:39:24 GMT",
+      "source": "bbc_sport",
+      "title": "'Frustrated and disappointed' - Emery on Man Utd draw",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-08T23:00:18Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 19:25:00 GMT",
+      "source": "sky_sports",
+      "title": "Villa boss Emery explains why he went down tunnel before full-time",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13609937/unai-emery-aston-villa-boss-reveals-why-he-went-down-old-trafford-tunnel-before-full-time-in-eight-goal-thriller-at-man-utd"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-08T19:22:21Z"
+  "updated_at": "2026-11-08T23:00:18Z"
 }

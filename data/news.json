@@ -3,6 +3,60 @@
   "items": [
     {
       "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 20:01:16 GMT",
+      "source": "bbc_sport",
+      "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        106
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 20:00:21 GMT",
+      "source": "bbc_sport",
+      "title": "Brighton breeze past 10-man Brentford to move up to second",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 21:50:05 GMT",
+      "source": "bbc_sport",
+      "title": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 19:24:36 GMT",
+      "source": "bbc_sport",
+      "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 22:01:57 GMT",
+      "source": "bbc_sport",
+      "title": "Oldham Athletic shock Sheffield Wednesday with extra-time winner",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c52e982pnrdko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 19:39:24 GMT",
+      "source": "bbc_sport",
+      "title": "'Frustrated and disappointed' - Emery on Man Utd draw",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         552
       ],
       "published_at_raw": "Sun, 08 Nov 2026 16:13:36 GMT",
@@ -12,30 +66,12 @@
     },
     {
       "matched_player_ids": [
-        249
-      ],
-      "published_at_raw": "Fri, 06 Nov 2026 22:30:12 GMT",
-      "source": "bbc_sport",
-      "title": "Barry scores twice as Everton fight back to beat Coventry",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Sun, 08 Nov 2026 15:31:43 GMT",
       "source": "bbc_sport",
       "title": "'Dreamland!' - Cray score brilliant free-kick as Stockport down to 10",
       "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        26
-      ],
-      "published_at_raw": "Sun, 08 Nov 2026 00:00:09 GMT",
-      "source": "bbc_sport",
-      "title": "Arsenal should have been awarded penalty against Hull - Cann",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -76,21 +112,21 @@
     },
     {
       "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 19:25:00 GMT",
+      "source": "sky_sports",
+      "title": "Villa boss Emery explains why he went down tunnel before full-time",
+      "url": "https://www.skysports.com/football/news/12040/13609937/unai-emery-aston-villa-boss-reveals-why-he-went-down-old-trafford-tunnel-before-full-time-in-eight-goal-thriller-at-man-utd"
+    },
+    {
+      "matched_player_ids": [
         368
       ],
       "published_at_raw": "Sun, 08 Nov 2026 14:46:00 GMT",
       "source": "sky_sports",
       "title": "Mac Allister heads home Szoboszlai's free kick to give Liverpool opener",
       "url": "https://www.skysports.com/watch/video/13609739/goal-a-mac-allister-crystal-palace-0-1-liverpool"
-    },
-    {
-      "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Sun, 08 Nov 2026 18:30:00 GMT",
-      "source": "sky_sports",
-      "title": "Man Utd score two in stoppage-time to salvage 4-4 draw with Villa",
-      "url": "https://www.skysports.com/football/manchester-united-vs-aston-villa/report/559541"
     }
   ],
   "schema_version": 1,
@@ -99,5 +135,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-08T19:22:21Z"
+  "updated_at": "2026-11-08T23:00:18Z"
 }
