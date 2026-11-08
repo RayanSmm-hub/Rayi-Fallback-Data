@@ -4619,8 +4619,82 @@
       "title": "The King of Violence has arrived! INCREDIBLE debut and post-fight rant",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13609486/the-king-of-violence-has-arrived-incredible-debut-and-post-fight-rant"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 94,
+          "before": 95
+        }
+      },
+      "detected_at": "2026-11-08T01:08:36Z",
+      "player_id": 12,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Saka"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 67,
+          "before": 66
+        }
+      },
+      "detected_at": "2026-11-08T01:08:36Z",
+      "player_id": 68,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Tavernier"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 116,
+          "before": 117
+        }
+      },
+      "detected_at": "2026-11-08T01:08:36Z",
+      "player_id": 426,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "B.Fernandes"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 52,
+          "before": 53
+        }
+      },
+      "detected_at": "2026-11-08T01:08:36Z",
+      "player_id": 201,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Muñoz"
+    },
+    {
+      "detected_at": "2026-11-08T01:08:36Z",
+      "matched_player_ids": [
+        26
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 00:00:09 GMT",
+      "source": "bbc_sport",
+      "title": "Arsenal should have been awarded penalty against Hull - Cann",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr4g1n21vgp3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-08T01:08:36Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 00:00:26 GMT",
+      "source": "bbc_sport",
+      "title": "Was Leeds' Bogle lucky to escape red card?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6lyl7qvq8ejo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-07T21:31:21Z"
+  "updated_at": "2026-11-08T01:08:36Z"
 }
