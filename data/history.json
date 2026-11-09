@@ -4967,8 +4967,117 @@
       "title": "What a pick! Williams' toe-tap INT delights mum in the stands!",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13610019/what-a-pick-evan-williams-toe-tap-int-delights-mum-in-the-stands"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": null
+        },
+        "news": {
+          "after": "Unspecified injury - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-11-09T21:23:31Z",
+      "player_id": 356,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Virgil"
+    },
+    {
+      "detected_at": "2026-11-09T21:23:31Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Mon, 09 Nov 2026 19:00:10 GMT",
+      "source": "bbc_sport",
+      "title": "People don't know full story behind England exile - White",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-09T21:23:31Z",
+      "matched_player_ids": [
+        346
+      ],
+      "published_at_raw": "Mon, 09 Nov 2026 21:13:37 GMT",
+      "source": "bbc_sport",
+      "title": "Atletico target Zubimendi move - Tuesday's gossip",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-09T21:23:31Z",
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Mon, 09 Nov 2026 15:25:55 GMT",
+      "source": "bbc_sport",
+      "title": "Every goal from the Women's Super League - matchweek nine",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1g3p2qngo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-09T21:23:31Z",
+      "matched_player_ids": [
+        368
+      ],
+      "published_at_raw": "Mon, 09 Nov 2026 16:25:33 GMT",
+      "source": "bbc_sport",
+      "title": "Szoboszlai a doubt for Nations League conclusion",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-09T21:23:31Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 13:19:22 GMT",
+      "source": "bbc_sport",
+      "title": "A shock departure and key results - inside Wrexham's seismic week",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqrkyg434y84o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-09T21:23:31Z",
+      "matched_player_ids": [
+        306
+      ],
+      "published_at_raw": "Mon, 09 Nov 2026 16:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Grand Slam of Darts 2026: Littler alongside Greaves in mouth-watering Group A",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/darts/news/12040/13610177/grand-slam-of-darts-2026-luke-littler-grouped-with-beau-greaves-as-he-looks-to-defend-title-in-wolverhampton"
+    },
+    {
+      "detected_at": "2026-11-09T21:23:31Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Mon, 09 Nov 2026 12:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Fleming turns to uncapped spinner amid big calls for first Test series as England coach",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/cricket/news/12040/13609716/england-test-squad-for-south-africa-uncapped-spinner-liam-patterson-white-called-up-and-jacob-bethell-returns"
+    },
+    {
+      "detected_at": "2026-11-09T21:23:31Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Mon, 09 Nov 2026 16:16:00 GMT",
+      "source": "sky_sports",
+      "title": "'Fantastic test for us' - North on facing South Africa & Patterson-White selection",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13610306/england-cricket-marcus-north-on-facing-south-africa-liam-patterson-white-selection"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-09T10:59:19Z"
+  "updated_at": "2026-11-09T21:23:31Z"
 }
