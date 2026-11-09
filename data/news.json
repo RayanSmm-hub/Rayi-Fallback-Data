@@ -48,12 +48,12 @@
     },
     {
       "matched_player_ids": [
-        385
+        552
       ],
-      "published_at_raw": "Sun, 08 Nov 2026 19:39:24 GMT",
+      "published_at_raw": "Sun, 08 Nov 2026 23:53:15 GMT",
       "source": "bbc_sport",
-      "title": "'Frustrated and disappointed' - Emery on Man Utd draw",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo?at_medium=RSS&at_campaign=rss"
+      "title": "Why defenders hate playing against brilliant Brobbey",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -66,12 +66,12 @@
     },
     {
       "matched_player_ids": [
-        449
+        385
       ],
-      "published_at_raw": "Sun, 08 Nov 2026 15:31:43 GMT",
+      "published_at_raw": "Sun, 08 Nov 2026 19:39:24 GMT",
       "source": "bbc_sport",
-      "title": "'Dreamland!' - Cray score brilliant free-kick as Stockport down to 10",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o?at_medium=RSS&at_campaign=rss"
+      "title": "'Frustrated and disappointed' - Emery on Man Utd draw",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -135,5 +135,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-08T23:00:18Z"
+  "updated_at": "2026-11-09T02:53:18Z"
 }

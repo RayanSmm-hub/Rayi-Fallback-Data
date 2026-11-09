@@ -4880,8 +4880,84 @@
       "title": "Villa boss Emery explains why he went down tunnel before full-time",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13609937/unai-emery-aston-villa-boss-reveals-why-he-went-down-old-trafford-tunnel-before-full-time-in-eight-goal-thriller-at-man-utd"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 55,
+          "before": 54
+        }
+      },
+      "detected_at": "2026-11-09T02:53:18Z",
+      "player_id": 115,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "De Cuyper"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 76,
+          "before": 77
+        }
+      },
+      "detected_at": "2026-11-09T02:53:18Z",
+      "player_id": 165,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "João Pedro"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 93,
+          "before": 92
+        }
+      },
+      "detected_at": "2026-11-09T02:53:18Z",
+      "player_id": 379,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Isak"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 54,
+          "before": 55
+        }
+      },
+      "detected_at": "2026-11-09T02:53:18Z",
+      "player_id": 384,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Donnarumma"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 56,
+          "before": 57
+        }
+      },
+      "detected_at": "2026-11-09T02:53:18Z",
+      "player_id": 391,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gvardiol"
+    },
+    {
+      "detected_at": "2026-11-09T02:53:18Z",
+      "matched_player_ids": [
+        552
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 23:53:15 GMT",
+      "source": "bbc_sport",
+      "title": "Why defenders hate playing against brilliant Brobbey",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-08T23:00:18Z"
+  "updated_at": "2026-11-09T02:53:18Z"
 }
