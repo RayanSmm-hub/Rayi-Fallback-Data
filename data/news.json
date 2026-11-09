@@ -5,24 +5,6 @@
       "matched_player_ids": [
         385
       ],
-      "published_at_raw": "Sun, 08 Nov 2026 20:01:16 GMT",
-      "source": "bbc_sport",
-      "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        106
-      ],
-      "published_at_raw": "Sun, 08 Nov 2026 20:00:21 GMT",
-      "source": "bbc_sport",
-      "title": "Brighton breeze past 10-man Brentford to move up to second",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        385
-      ],
       "published_at_raw": "Sun, 08 Nov 2026 21:50:05 GMT",
       "source": "bbc_sport",
       "title": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
@@ -39,21 +21,30 @@
     },
     {
       "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 20:01:16 GMT",
+      "source": "bbc_sport",
+      "title": "Man Utd score twice in stoppage time to share points in eight-goal thriller",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqj6jldpl2gyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        106
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 20:00:21 GMT",
+      "source": "bbc_sport",
+      "title": "Brighton breeze past 10-man Brentford to move up to second",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cry836l4q56po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Sun, 08 Nov 2026 22:01:57 GMT",
       "source": "bbc_sport",
       "title": "Oldham Athletic shock Sheffield Wednesday with extra-time winner",
       "url": "https://www.bbc.co.uk/sport/football/videos/c52e982pnrdko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        552
-      ],
-      "published_at_raw": "Sun, 08 Nov 2026 23:53:15 GMT",
-      "source": "bbc_sport",
-      "title": "Why defenders hate playing against brilliant Brobbey",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -66,22 +57,12 @@
     },
     {
       "matched_player_ids": [
-        385
+        552
       ],
-      "published_at_raw": "Sun, 08 Nov 2026 19:39:24 GMT",
+      "published_at_raw": "Sun, 08 Nov 2026 23:53:15 GMT",
       "source": "bbc_sport",
-      "title": "'Frustrated and disappointed' - Emery on Man Utd draw",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9dr812v01lzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        1,
-        226
-      ],
-      "published_at_raw": "Sun, 08 Nov 2026 09:57:58 GMT",
-      "source": "bbc_sport",
-      "title": "Raya, Pickford and Wales' search for a new keeper",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cry8335l96q5o?at_medium=RSS&at_campaign=rss"
+      "title": "Why defenders hate playing against brilliant Brobbey",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -112,21 +93,12 @@
     },
     {
       "matched_player_ids": [
-        385
+        469
       ],
-      "published_at_raw": "Sun, 08 Nov 2026 19:25:00 GMT",
+      "published_at_raw": "Sun, 08 Nov 2026 22:48:00 GMT",
       "source": "sky_sports",
-      "title": "Villa boss Emery explains why he went down tunnel before full-time",
-      "url": "https://www.skysports.com/football/news/12040/13609937/unai-emery-aston-villa-boss-reveals-why-he-went-down-old-trafford-tunnel-before-full-time-in-eight-goal-thriller-at-man-utd"
-    },
-    {
-      "matched_player_ids": [
-        368
-      ],
-      "published_at_raw": "Sun, 08 Nov 2026 14:46:00 GMT",
-      "source": "sky_sports",
-      "title": "Mac Allister heads home Szoboszlai's free kick to give Liverpool opener",
-      "url": "https://www.skysports.com/watch/video/13609739/goal-a-mac-allister-crystal-palace-0-1-liverpool"
+      "title": "What a pick! Williams' toe-tap INT delights mum in the stands!",
+      "url": "https://www.skysports.com/watch/video/13610019/what-a-pick-evan-williams-toe-tap-int-delights-mum-in-the-stands"
     }
   ],
   "schema_version": 1,
@@ -135,5 +107,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-09T02:53:18Z"
+  "updated_at": "2026-11-09T10:59:19Z"
 }

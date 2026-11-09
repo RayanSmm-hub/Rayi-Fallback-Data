@@ -4956,8 +4956,19 @@
       "title": "Why defenders hate playing against brilliant Brobbey",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-09T10:59:19Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sun, 08 Nov 2026 22:48:00 GMT",
+      "source": "sky_sports",
+      "title": "What a pick! Williams' toe-tap INT delights mum in the stands!",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13610019/what-a-pick-evan-williams-toe-tap-int-delights-mum-in-the-stands"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-09T02:53:18Z"
+  "updated_at": "2026-11-09T10:59:19Z"
 }
