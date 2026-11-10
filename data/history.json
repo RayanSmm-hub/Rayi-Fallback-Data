@@ -5076,8 +5076,19 @@
       "title": "'Fantastic test for us' - North on facing South Africa & Patterson-White selection",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13610306/england-cricket-marcus-north-on-facing-south-africa-liam-patterson-white-selection"
+    },
+    {
+      "detected_at": "2026-11-10T03:43:14Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Mon, 09 Nov 2026 21:33:00 GMT",
+      "source": "bbc_sport",
+      "title": "Football Daily",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pm5xwv?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-09T21:23:31Z"
+  "updated_at": "2026-11-10T03:43:14Z"
 }

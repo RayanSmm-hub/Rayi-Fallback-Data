@@ -21,21 +21,21 @@
     },
     {
       "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Mon, 09 Nov 2026 21:33:00 GMT",
+      "source": "bbc_sport",
+      "title": "Football Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pm5xwv?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         423
       ],
       "published_at_raw": "Mon, 09 Nov 2026 15:25:55 GMT",
       "source": "bbc_sport",
       "title": "Every goal from the Women's Super League - matchweek nine",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1g3p2qngo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Sun, 08 Nov 2026 21:50:05 GMT",
-      "source": "bbc_sport",
-      "title": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -134,5 +134,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-09T21:23:31Z"
+  "updated_at": "2026-11-10T03:43:14Z"
 }
