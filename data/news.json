@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        31
+      ],
+      "published_at_raw": "Tue, 10 Nov 2026 11:41:27 GMT",
+      "source": "bbc_sport",
+      "title": "Hill gets first England call-up as Konsa cover",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         10
       ],
       "published_at_raw": "Mon, 09 Nov 2026 19:00:10 GMT",
@@ -21,15 +30,6 @@
     },
     {
       "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Mon, 09 Nov 2026 21:33:00 GMT",
-      "source": "bbc_sport",
-      "title": "Football Daily",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pm5xwv?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         423
       ],
       "published_at_raw": "Mon, 09 Nov 2026 15:25:55 GMT",
@@ -39,21 +39,21 @@
     },
     {
       "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Mon, 09 Nov 2026 21:33:00 GMT",
+      "source": "bbc_sport",
+      "title": "Football Daily",
+      "url": "https://www.bbc.co.uk/sounds/play/p0pm5xwv?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Sun, 08 Nov 2026 19:24:36 GMT",
       "source": "bbc_sport",
       "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        368
-      ],
-      "published_at_raw": "Mon, 09 Nov 2026 16:25:33 GMT",
-      "source": "bbc_sport",
-      "title": "Szoboszlai a doubt for Nations League conclusion",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -75,12 +75,12 @@
     },
     {
       "matched_player_ids": [
-        469
+        368
       ],
-      "published_at_raw": "Sun, 08 Nov 2026 13:19:22 GMT",
+      "published_at_raw": "Tue, 10 Nov 2026 12:06:28 GMT",
       "source": "bbc_sport",
-      "title": "A shock departure and key results - inside Wrexham's seismic week",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqrkyg434y84o?at_medium=RSS&at_campaign=rss"
+      "title": "Szoboszlai fitness call to come at 'last minute'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -99,33 +99,6 @@
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        306
-      ],
-      "published_at_raw": "Mon, 09 Nov 2026 16:00:00 GMT",
-      "source": "sky_sports",
-      "title": "Grand Slam of Darts 2026: Littler alongside Greaves in mouth-watering Group A",
-      "url": "https://www.skysports.com/darts/news/12040/13610177/grand-slam-of-darts-2026-luke-littler-grouped-with-beau-greaves-as-he-looks-to-defend-title-in-wolverhampton"
-    },
-    {
-      "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Mon, 09 Nov 2026 12:00:00 GMT",
-      "source": "sky_sports",
-      "title": "Fleming turns to uncapped spinner amid big calls for first Test series as England coach",
-      "url": "https://www.skysports.com/cricket/news/12040/13609716/england-test-squad-for-south-africa-uncapped-spinner-liam-patterson-white-called-up-and-jacob-bethell-returns"
-    },
-    {
-      "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Mon, 09 Nov 2026 16:16:00 GMT",
-      "source": "sky_sports",
-      "title": "'Fantastic test for us' - North on facing South Africa & Patterson-White selection",
-      "url": "https://www.skysports.com/watch/video/13610306/england-cricket-marcus-north-on-facing-south-africa-liam-patterson-white-selection"
     }
   ],
   "schema_version": 1,
@@ -134,5 +107,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-10T03:43:14Z"
+  "updated_at": "2026-11-10T12:14:19Z"
 }

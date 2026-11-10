@@ -5087,8 +5087,40 @@
       "title": "Football Daily",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sounds/play/p0pm5xwv?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": 100
+        },
+        "news": {
+          "after": "Muscular injury - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-11-10T12:14:19Z",
+      "player_id": 552,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Brobbey"
+    },
+    {
+      "detected_at": "2026-11-10T12:14:19Z",
+      "matched_player_ids": [
+        31
+      ],
+      "published_at_raw": "Tue, 10 Nov 2026 11:41:27 GMT",
+      "source": "bbc_sport",
+      "title": "Hill gets first England call-up as Konsa cover",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-10T03:43:14Z"
+  "updated_at": "2026-11-10T12:14:19Z"
 }
