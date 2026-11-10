@@ -21,15 +21,6 @@
     },
     {
       "matched_player_ids": [
-        346
-      ],
-      "published_at_raw": "Mon, 09 Nov 2026 21:13:37 GMT",
-      "source": "bbc_sport",
-      "title": "Atletico target Zubimendi move - Tuesday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         423
       ],
       "published_at_raw": "Mon, 09 Nov 2026 15:25:55 GMT",
@@ -39,21 +30,21 @@
     },
     {
       "matched_player_ids": [
-        10
+        346
       ],
-      "published_at_raw": "Mon, 09 Nov 2026 21:33:00 GMT",
+      "published_at_raw": "Mon, 09 Nov 2026 21:13:37 GMT",
       "source": "bbc_sport",
-      "title": "Football Daily",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pm5xwv?at_medium=RSS&at_campaign=rss"
+      "title": "Atletico target Zubimendi move - Tuesday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
         449
       ],
-      "published_at_raw": "Sun, 08 Nov 2026 19:24:36 GMT",
+      "published_at_raw": "Tue, 10 Nov 2026 19:14:14 GMT",
       "source": "bbc_sport",
-      "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o?at_medium=RSS&at_campaign=rss"
+      "title": "Lecturer's bid to challenge Fifa president Infantino",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjy5656p79elo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -84,21 +75,21 @@
     },
     {
       "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Sat, 07 Nov 2026 16:35:26 GMT",
-      "source": "bbc_sport",
-      "title": "Tottenham set to complain to Pro Ref after Bogle escapes red card",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         154
       ],
       "published_at_raw": "Mon, 26 Oct 2026 14:12:43 GMT",
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Tue, 10 Nov 2026 15:20:00 GMT",
+      "source": "sky_sports",
+      "title": "Brundle's verdict as Mercedes seal title in 'chaotic Interlagos style'",
+      "url": "https://www.skysports.com/f1/news/12040/13610204/sao-paulo-gp-martin-brundles-verdict-as-mercedes-seal-2026-f1-constructors-title-and-lando-norris-wins-wet-race-in-brazil"
     }
   ],
   "schema_version": 1,
@@ -107,5 +98,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-10T12:14:19Z"
+  "updated_at": "2026-11-10T19:55:06Z"
 }

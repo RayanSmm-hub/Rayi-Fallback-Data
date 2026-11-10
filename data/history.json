@@ -5119,8 +5119,30 @@
       "title": "Hill gets first England call-up as Konsa cover",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-10T19:55:06Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Tue, 10 Nov 2026 19:14:14 GMT",
+      "source": "bbc_sport",
+      "title": "Lecturer's bid to challenge Fifa president Infantino",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjy5656p79elo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-10T19:55:06Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Tue, 10 Nov 2026 15:20:00 GMT",
+      "source": "sky_sports",
+      "title": "Brundle's verdict as Mercedes seal title in 'chaotic Interlagos style'",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/f1/news/12040/13610204/sao-paulo-gp-martin-brundles-verdict-as-mercedes-seal-2026-f1-constructors-title-and-lando-norris-wins-wet-race-in-brazil"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-10T12:14:19Z"
+  "updated_at": "2026-11-10T19:55:06Z"
 }
