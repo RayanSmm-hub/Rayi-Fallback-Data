@@ -3,12 +3,12 @@
   "items": [
     {
       "matched_player_ids": [
-        31
+        226
       ],
-      "published_at_raw": "Tue, 10 Nov 2026 11:41:27 GMT",
+      "published_at_raw": "Wed, 11 Nov 2026 06:24:28 GMT",
       "source": "bbc_sport",
-      "title": "Hill gets first England call-up as Konsa cover",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss"
+      "title": "Does Pickford finally face serious competition for his England place?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -18,6 +18,15 @@
       "source": "bbc_sport",
       "title": "Every goal from the Women's Super League - matchweek nine",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1g3p2qngo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        31
+      ],
+      "published_at_raw": "Tue, 10 Nov 2026 11:41:27 GMT",
+      "source": "bbc_sport",
+      "title": "Hill gets first England call-up as Konsa cover",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -39,21 +48,30 @@
     },
     {
       "matched_player_ids": [
-        368
-      ],
-      "published_at_raw": "Tue, 10 Nov 2026 12:06:28 GMT",
-      "source": "bbc_sport",
-      "title": "Szoboszlai fitness call to come at 'last minute'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmp3g31gvxkgo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         154
       ],
       "published_at_raw": "Mon, 26 Oct 2026 14:12:43 GMT",
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Wed, 11 Nov 2026 06:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Carney on Australia challenge, 'Magic' concept, and 'necessary' domestic limbo",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13610093/brian-carney-on-the-challenge-of-usurping-australia-a-magic-style-2030-world-cup-and-the-necessary-domestic-limbo"
+    },
+    {
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Wed, 11 Nov 2026 06:00:00 GMT",
+      "source": "sky_sports",
+      "title": "White: Opetaia could become a global star with spectacular Wilder win",
+      "url": "https://www.skysports.com/boxing/news/12040/13610735/fury-vs-aj-undercard-jai-opetaia-could-become-a-global-star-with-spectacular-deontay-wilder-win-says-dana-white"
     },
     {
       "matched_player_ids": [
@@ -80,5 +98,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-11T00:26:54Z"
+  "updated_at": "2026-11-11T06:58:21Z"
 }

@@ -5152,8 +5152,41 @@
       "title": "Papers: Berrada and Wilcox set to remain at Old Trafford",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13610742/omar-berrada-and-jason-wilcox-set-to-remain-at-man-utd-with-michael-carricks-future-in-doubt-paper-talk"
+    },
+    {
+      "detected_at": "2026-11-11T06:58:21Z",
+      "matched_player_ids": [
+        226
+      ],
+      "published_at_raw": "Wed, 11 Nov 2026 06:24:28 GMT",
+      "source": "bbc_sport",
+      "title": "Does Pickford finally face serious competition for his England place?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-11T06:58:21Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Wed, 11 Nov 2026 06:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Carney on Australia challenge, 'Magic' concept, and 'necessary' domestic limbo",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13610093/brian-carney-on-the-challenge-of-usurping-australia-a-magic-style-2030-world-cup-and-the-necessary-domestic-limbo"
+    },
+    {
+      "detected_at": "2026-11-11T06:58:21Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Wed, 11 Nov 2026 06:00:00 GMT",
+      "source": "sky_sports",
+      "title": "White: Opetaia could become a global star with spectacular Wilder win",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/boxing/news/12040/13610735/fury-vs-aj-undercard-jai-opetaia-could-become-a-global-star-with-spectacular-deontay-wilder-win-says-dana-white"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-11T00:26:54Z"
+  "updated_at": "2026-11-11T06:58:21Z"
 }
