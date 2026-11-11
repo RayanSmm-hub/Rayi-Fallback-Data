@@ -5185,8 +5185,63 @@
       "title": "White: Opetaia could become a global star with spectacular Wilder win",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/boxing/news/12040/13610735/fury-vs-aj-undercard-jai-opetaia-could-become-a-global-star-with-spectacular-deontay-wilder-win-says-dana-white"
+    },
+    {
+      "detected_at": "2026-11-11T15:03:10Z",
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Wed, 11 Nov 2026 10:23:37 GMT",
+      "source": "bbc_sport",
+      "title": "Shirt pull on Isak should have been penalty - panel",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6n8d8kl125vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-11T15:03:10Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Wed, 11 Nov 2026 10:32:23 GMT",
+      "source": "bbc_sport",
+      "title": "Bromley signings 'not good enough' - ex-boss Woodman",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5x2wle9nnvzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-11T15:03:10Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Wed, 11 Nov 2026 10:17:00 GMT",
+      "source": "sky_sports",
+      "title": "England's Bethell out of Australia tour and a doubt for South Africa Tests",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/cricket/news/12040/13610898/jacob-bethell-england-batter-out-of-australia-white-ball-tour-and-doubt-for-test-series-in-south-africa"
+    },
+    {
+      "detected_at": "2026-11-11T15:03:10Z",
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Wed, 11 Nov 2026 10:33:00 GMT",
+      "source": "sky_sports",
+      "title": "Liverpool incorrectly denied pen vs Arsenal says independent panel",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13610916/liverpool-incorrectly-denied-penalty-for-jurrien-timber-pull-on-alexander-isak-vs-arsenal-rules-independent-panel"
+    },
+    {
+      "detected_at": "2026-11-11T15:03:10Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Sun, 20 Sep 2026 08:00:00 BST",
+      "source": "sky_sports",
+      "title": "Australia in turmoil, Bethell's injury and Patterson-White's England Test call up",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/podcasts/36578/11933948/sky-sports-cricket-podcast-with-nasser-hussain-and-michael-atherton"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-11T06:58:21Z"
+  "updated_at": "2026-11-11T15:03:10Z"
 }
