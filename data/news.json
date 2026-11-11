@@ -12,15 +12,6 @@
     },
     {
       "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Mon, 09 Nov 2026 19:00:10 GMT",
-      "source": "bbc_sport",
-      "title": "People don't know full story behind England exile - White",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         423
       ],
       "published_at_raw": "Mon, 09 Nov 2026 15:25:55 GMT",
@@ -30,12 +21,12 @@
     },
     {
       "matched_player_ids": [
-        346
+        10
       ],
-      "published_at_raw": "Mon, 09 Nov 2026 21:13:37 GMT",
+      "published_at_raw": "Mon, 09 Nov 2026 19:00:10 GMT",
       "source": "bbc_sport",
-      "title": "Atletico target Zubimendi move - Tuesday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o?at_medium=RSS&at_campaign=rss"
+      "title": "People don't know full story behind England exile - White",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -45,24 +36,6 @@
       "source": "bbc_sport",
       "title": "Lecturer's bid to challenge Fifa president Infantino",
       "url": "https://www.bbc.co.uk/sport/football/articles/cjy5656p79elo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Sun, 08 Nov 2026 22:01:57 GMT",
-      "source": "bbc_sport",
-      "title": "Oldham Athletic shock Sheffield Wednesday with extra-time winner",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c52e982pnrdko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        552
-      ],
-      "published_at_raw": "Sun, 08 Nov 2026 23:53:15 GMT",
-      "source": "bbc_sport",
-      "title": "Why defenders hate playing against brilliant Brobbey",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -90,6 +63,15 @@
       "source": "sky_sports",
       "title": "Brundle's verdict as Mercedes seal title in 'chaotic Interlagos style'",
       "url": "https://www.skysports.com/f1/news/12040/13610204/sao-paulo-gp-martin-brundles-verdict-as-mercedes-seal-2026-f1-constructors-title-and-lando-norris-wins-wet-race-in-brazil"
+    },
+    {
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Tue, 10 Nov 2026 22:44:00 GMT",
+      "source": "sky_sports",
+      "title": "Papers: Berrada and Wilcox set to remain at Old Trafford",
+      "url": "https://www.skysports.com/football/news/12040/13610742/omar-berrada-and-jason-wilcox-set-to-remain-at-man-utd-with-michael-carricks-future-in-doubt-paper-talk"
     }
   ],
   "schema_version": 1,
@@ -98,5 +80,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-10T19:55:06Z"
+  "updated_at": "2026-11-11T00:26:54Z"
 }

@@ -5141,8 +5141,19 @@
       "title": "Brundle's verdict as Mercedes seal title in 'chaotic Interlagos style'",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/f1/news/12040/13610204/sao-paulo-gp-martin-brundles-verdict-as-mercedes-seal-2026-f1-constructors-title-and-lando-norris-wins-wet-race-in-brazil"
+    },
+    {
+      "detected_at": "2026-11-11T00:26:54Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Tue, 10 Nov 2026 22:44:00 GMT",
+      "source": "sky_sports",
+      "title": "Papers: Berrada and Wilcox set to remain at Old Trafford",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13610742/omar-berrada-and-jason-wilcox-set-to-remain-at-man-utd-with-michael-carricks-future-in-doubt-paper-talk"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-10T19:55:06Z"
+  "updated_at": "2026-11-11T00:26:54Z"
 }

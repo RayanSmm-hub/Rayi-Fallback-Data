@@ -257,7 +257,7 @@
       "news_added": "2026-11-05T20:30:09.025008Z",
       "now_cost": 48,
       "position": "DEF",
-      "selected_by_percent": "24.4",
+      "selected_by_percent": "24.5",
       "status": "a",
       "team_id": 1,
       "team_name": "Arsenal",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 11,
-  "updated_at": "2026-11-10T19:55:06Z"
+  "updated_at": "2026-11-11T00:26:54Z"
 }
