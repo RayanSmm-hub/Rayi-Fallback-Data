@@ -57,48 +57,12 @@
     },
     {
       "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Mon, 09 Nov 2026 19:00:10 GMT",
-      "source": "bbc_sport",
-      "title": "People don't know full story behind England exile - White",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6rmym3p419no?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         154
       ],
       "published_at_raw": "Mon, 26 Oct 2026 14:12:43 GMT",
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Wed, 11 Nov 2026 10:17:00 GMT",
-      "source": "sky_sports",
-      "title": "England's Bethell out of Australia tour and a doubt for South Africa Tests",
-      "url": "https://www.skysports.com/cricket/news/12040/13610898/jacob-bethell-england-batter-out-of-australia-white-ball-tour-and-doubt-for-test-series-in-south-africa"
-    },
-    {
-      "matched_player_ids": [
-        379
-      ],
-      "published_at_raw": "Wed, 11 Nov 2026 10:33:00 GMT",
-      "source": "sky_sports",
-      "title": "Liverpool incorrectly denied pen vs Arsenal says independent panel",
-      "url": "https://www.skysports.com/football/news/12040/13610916/liverpool-incorrectly-denied-penalty-for-jurrien-timber-pull-on-alexander-isak-vs-arsenal-rules-independent-panel"
-    },
-    {
-      "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Sun, 20 Sep 2026 08:00:00 BST",
-      "source": "sky_sports",
-      "title": "Australia in turmoil, Bethell's injury and Patterson-White's England Test call up",
-      "url": "https://www.skysports.com/podcasts/36578/11933948/sky-sports-cricket-podcast-with-nasser-hussain-and-michael-atherton"
     }
   ],
   "schema_version": 1,
@@ -107,5 +71,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-11T15:03:10Z"
+  "updated_at": "2026-11-11T22:07:52Z"
 }

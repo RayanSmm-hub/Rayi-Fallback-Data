@@ -527,7 +527,7 @@
       "news_added": null,
       "now_cost": 57,
       "position": "FWD",
-      "selected_by_percent": "10.6",
+      "selected_by_percent": "10.7",
       "status": "a",
       "team_id": 9,
       "team_name": "Everton",
@@ -653,7 +653,7 @@
       "news_added": "2026-09-27T21:30:07.786183Z",
       "now_cost": 71,
       "position": "MID",
-      "selected_by_percent": "7.1",
+      "selected_by_percent": "7.0",
       "status": "a",
       "team_id": 14,
       "team_name": "Liverpool",
@@ -896,8 +896,8 @@
     },
     {
       "chance_of_playing_next_round": null,
-      "ep_next": "0.8",
-      "form": "0.8",
+      "ep_next": "1.0",
+      "form": "1.0",
       "full_name": "Malick Thiaw",
       "id": 445,
       "minutes": 715,
@@ -914,8 +914,8 @@
     },
     {
       "chance_of_playing_next_round": null,
-      "ep_next": "3.0",
-      "form": "3.0",
+      "ep_next": "3.8",
+      "form": "3.8",
       "full_name": "Lewis Hall",
       "id": 449,
       "minutes": 899,
@@ -932,8 +932,8 @@
     },
     {
       "chance_of_playing_next_round": null,
-      "ep_next": "3.2",
-      "form": "3.2",
+      "ep_next": "3.5",
+      "form": "3.5",
       "full_name": "Harvey Barnes",
       "id": 453,
       "minutes": 886,
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 11,
-  "updated_at": "2026-11-11T15:03:10Z"
+  "updated_at": "2026-11-11T22:07:52Z"
 }
