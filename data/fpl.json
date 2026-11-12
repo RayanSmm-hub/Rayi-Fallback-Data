@@ -401,7 +401,7 @@
       "news_added": "2026-11-08T14:30:09.097484Z",
       "now_cost": 78,
       "position": "FWD",
-      "selected_by_percent": "8.2",
+      "selected_by_percent": "8.1",
       "status": "s",
       "team_id": 4,
       "team_name": "Brentford",
@@ -455,7 +455,7 @@
       "news_added": "2026-10-24T16:30:09.687729Z",
       "now_cost": 76,
       "position": "FWD",
-      "selected_by_percent": "31.9",
+      "selected_by_percent": "31.8",
       "status": "i",
       "team_id": 6,
       "team_name": "Chelsea",
@@ -761,7 +761,7 @@
       "news_added": "2026-11-07T21:30:08.752464Z",
       "now_cost": 56,
       "position": "DEF",
-      "selected_by_percent": "22.8",
+      "selected_by_percent": "22.7",
       "status": "d",
       "team_id": 15,
       "team_name": "Man City",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 11,
-  "updated_at": "2026-11-12T03:14:42Z"
+  "updated_at": "2026-11-12T11:40:31Z"
 }

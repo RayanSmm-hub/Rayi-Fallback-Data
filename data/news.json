@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Thu, 12 Nov 2026 04:32:42 GMT",
+      "source": "bbc_sport",
+      "title": "Wales' James warns of Norwegian revenge in Oslo",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c623jl1kenvyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         226
       ],
       "published_at_raw": "Wed, 11 Nov 2026 06:24:28 GMT",
@@ -18,6 +27,15 @@
       "source": "bbc_sport",
       "title": "Shirt pull on Isak should have been penalty - panel",
       "url": "https://www.bbc.co.uk/sport/football/articles/c6n8d8kl125vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Mon, 09 Nov 2026 15:25:55 GMT",
+      "source": "bbc_sport",
+      "title": "Every goal from the Women's Super League - matchweek nine",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1g3p2qngo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -39,24 +57,6 @@
     },
     {
       "matched_player_ids": [
-        423
-      ],
-      "published_at_raw": "Mon, 09 Nov 2026 15:25:55 GMT",
-      "source": "bbc_sport",
-      "title": "Every goal from the Women's Super League - matchweek nine",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1g3p2qngo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Tue, 10 Nov 2026 19:14:14 GMT",
-      "source": "bbc_sport",
-      "title": "Lecturer's bid to challenge Fifa president Infantino",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cjy5656p79elo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         154
       ],
       "published_at_raw": "Mon, 26 Oct 2026 14:12:43 GMT",
@@ -66,12 +66,12 @@
     },
     {
       "matched_player_ids": [
-        449
+        385
       ],
-      "published_at_raw": "Wed, 11 Nov 2026 22:19:00 GMT",
+      "published_at_raw": "Thu, 12 Nov 2026 10:50:00 GMT",
       "source": "sky_sports",
-      "title": "Korda seeks LPGA Hall of Fame place and familiar success at The Annika",
-      "url": "https://www.skysports.com/golf/news/12040/13611240/the-annika-nelly-korda-seeks-lpga-hall-of-fame-place-and-familiar-success-at-pelican-golf-club-live-on-sky-sports"
+      "title": "From Champions League finish to drop zone: How Carrick's reign unravelled",
+      "url": "https://www.skysports.com/football/news/12040/13602738/michael-carrick-sacked-by-man-utd-how-his-old-trafford-reign-unravelled-in-worst-start-to-a-season-in-40-years"
     }
   ],
   "schema_version": 1,
@@ -80,5 +80,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-12T03:14:42Z"
+  "updated_at": "2026-11-12T11:40:31Z"
 }

@@ -5251,8 +5251,30 @@
       "title": "Korda seeks LPGA Hall of Fame place and familiar success at The Annika",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/golf/news/12040/13611240/the-annika-nelly-korda-seeks-lpga-hall-of-fame-place-and-familiar-success-at-pelican-golf-club-live-on-sky-sports"
+    },
+    {
+      "detected_at": "2026-11-12T11:40:31Z",
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Thu, 12 Nov 2026 04:32:42 GMT",
+      "source": "bbc_sport",
+      "title": "Wales' James warns of Norwegian revenge in Oslo",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c623jl1kenvyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-12T11:40:31Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Thu, 12 Nov 2026 10:50:00 GMT",
+      "source": "sky_sports",
+      "title": "From Champions League finish to drop zone: How Carrick's reign unravelled",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13602738/michael-carrick-sacked-by-man-utd-how-his-old-trafford-reign-unravelled-in-worst-start-to-a-season-in-40-years"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-12T03:14:42Z"
+  "updated_at": "2026-11-12T11:40:31Z"
 }
