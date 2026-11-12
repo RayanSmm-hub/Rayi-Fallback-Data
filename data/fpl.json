@@ -419,7 +419,7 @@
       "news_added": null,
       "now_cost": 55,
       "position": "DEF",
-      "selected_by_percent": "47.7",
+      "selected_by_percent": "47.8",
       "status": "a",
       "team_id": 5,
       "team_name": "Brighton",
@@ -923,7 +923,7 @@
       "news_added": null,
       "now_cost": 52,
       "position": "DEF",
-      "selected_by_percent": "18.3",
+      "selected_by_percent": "18.2",
       "status": "a",
       "team_id": 17,
       "team_name": "Newcastle",
@@ -1049,7 +1049,7 @@
       "news_added": null,
       "now_cost": 59,
       "position": "FWD",
-      "selected_by_percent": "3.7",
+      "selected_by_percent": "3.6",
       "status": "a",
       "team_id": 10,
       "team_name": "Fulham",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 11,
-  "updated_at": "2026-11-11T22:07:52Z"
+  "updated_at": "2026-11-12T03:14:42Z"
 }

@@ -5240,8 +5240,19 @@
       "title": "Australia in turmoil, Bethell's injury and Patterson-White's England Test call up",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/podcasts/36578/11933948/sky-sports-cricket-podcast-with-nasser-hussain-and-michael-atherton"
+    },
+    {
+      "detected_at": "2026-11-12T03:14:42Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Wed, 11 Nov 2026 22:19:00 GMT",
+      "source": "sky_sports",
+      "title": "Korda seeks LPGA Hall of Fame place and familiar success at The Annika",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/golf/news/12040/13611240/the-annika-nelly-korda-seeks-lpga-hall-of-fame-place-and-familiar-success-at-pelican-golf-club-live-on-sky-sports"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-11T22:07:52Z"
+  "updated_at": "2026-11-12T03:14:42Z"
 }

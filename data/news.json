@@ -63,6 +63,15 @@
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Wed, 11 Nov 2026 22:19:00 GMT",
+      "source": "sky_sports",
+      "title": "Korda seeks LPGA Hall of Fame place and familiar success at The Annika",
+      "url": "https://www.skysports.com/golf/news/12040/13611240/the-annika-nelly-korda-seeks-lpga-hall-of-fame-place-and-familiar-success-at-pelican-golf-club-live-on-sky-sports"
     }
   ],
   "schema_version": 1,
@@ -71,5 +80,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-11T22:07:52Z"
+  "updated_at": "2026-11-12T03:14:42Z"
 }
