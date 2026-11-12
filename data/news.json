@@ -48,15 +48,6 @@
     },
     {
       "matched_player_ids": [
-        31
-      ],
-      "published_at_raw": "Tue, 10 Nov 2026 11:41:27 GMT",
-      "source": "bbc_sport",
-      "title": "Hill gets first England call-up as Konsa cover",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckjrwrggjlryo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         154
       ],
       "published_at_raw": "Mon, 26 Oct 2026 14:12:43 GMT",
@@ -68,10 +59,19 @@
       "matched_player_ids": [
         385
       ],
-      "published_at_raw": "Thu, 12 Nov 2026 10:50:00 GMT",
+      "published_at_raw": "Thu, 12 Nov 2026 14:49:00 GMT",
       "source": "sky_sports",
-      "title": "From Champions League finish to drop zone: How Carrick's reign unravelled",
-      "url": "https://www.skysports.com/football/news/12040/13602738/michael-carrick-sacked-by-man-utd-how-his-old-trafford-reign-unravelled-in-worst-start-to-a-season-in-40-years"
+      "title": "Neville 'disgusted' at Man Utd's treatment of Carrick",
+      "url": "https://www.skysports.com/football/news/12040/13611501/gary-neville-man-utds-treatment-of-michael-carrick-disgusting-as-mauricio-pochettino-prepares-to-take-over-at-old-trafford"
+    },
+    {
+      "matched_player_ids": [
+        306
+      ],
+      "published_at_raw": "Thu, 12 Nov 2026 14:10:00 GMT",
+      "source": "sky_sports",
+      "title": "Greaves 'excited' to face Littler at Grand Slam of Darts",
+      "url": "https://www.skysports.com/darts/news/12040/13611422/beau-greaves-excited-to-face-luke-littler-at-grand-slam-of-darts-in-wolverhampton-this-saturday"
     }
   ],
   "schema_version": 1,
@@ -80,5 +80,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-12T11:40:31Z"
+  "updated_at": "2026-11-12T19:38:15Z"
 }
