@@ -5341,8 +5341,52 @@
       "title": "Liverpool and Van Dijk have a decision to make",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-13T15:57:21Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Fri, 13 Nov 2026 10:00:46 GMT",
+      "source": "bbc_sport",
+      "title": "The club preparing to play again after the death of a player",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6vg7gz9w5edo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-13T15:57:21Z",
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Fri, 13 Nov 2026 08:05:12 GMT",
+      "source": "bbc_sport",
+      "title": "How do you stop Haaland? Wales show how it's done",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-13T15:57:21Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Fri, 13 Nov 2026 08:22:34 GMT",
+      "source": "bbc_sport",
+      "title": "Beckham to be inducted into US Soccer Hall of Fame",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmx295q05l7eo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-13T15:57:21Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Thu, 12 Nov 2026 14:49:00 GMT",
+      "source": "sky_sports",
+      "title": "Neville: Pochettino needs control of Man Utd recruitment",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13611886/gary-neville-mauricio-pochettino-needs-control-of-manchester-united-recruitment"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-13T07:39:52Z"
+  "updated_at": "2026-11-13T15:57:21Z"
 }

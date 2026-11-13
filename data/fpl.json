@@ -437,7 +437,7 @@
       "news_added": "2026-09-21T13:00:09.022726Z",
       "now_cost": 98,
       "position": "MID",
-      "selected_by_percent": "28.4",
+      "selected_by_percent": "28.3",
       "status": "a",
       "team_id": 6,
       "team_name": "Chelsea",
@@ -563,7 +563,7 @@
       "news_added": null,
       "now_cost": 39,
       "position": "DEF",
-      "selected_by_percent": "9.9",
+      "selected_by_percent": "9.8",
       "status": "a",
       "team_id": 12,
       "team_name": "Ipswich Town",
@@ -761,7 +761,7 @@
       "news_added": "2026-11-07T21:30:08.752464Z",
       "now_cost": 56,
       "position": "DEF",
-      "selected_by_percent": "22.7",
+      "selected_by_percent": "22.6",
       "status": "d",
       "team_id": 15,
       "team_name": "Man City",
@@ -815,7 +815,7 @@
       "news_added": "2026-10-19T13:00:10.543876Z",
       "now_cost": 158,
       "position": "FWD",
-      "selected_by_percent": "78.9",
+      "selected_by_percent": "78.8",
       "status": "a",
       "team_id": 15,
       "team_name": "Man City",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 11,
-  "updated_at": "2026-11-13T07:39:52Z"
+  "updated_at": "2026-11-13T15:57:21Z"
 }
