@@ -3,30 +3,22 @@
   "items": [
     {
       "matched_player_ids": [
+        40,
+        154
+      ],
+      "published_at_raw": "Thu, 12 Nov 2026 23:09:07 GMT",
+      "source": "bbc_sport",
+      "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         411
       ],
       "published_at_raw": "Thu, 12 Nov 2026 04:32:42 GMT",
       "source": "bbc_sport",
       "title": "Wales' James warns of Norwegian revenge in Oslo",
       "url": "https://www.bbc.co.uk/sport/football/articles/c623jl1kenvyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        226
-      ],
-      "published_at_raw": "Wed, 11 Nov 2026 06:24:28 GMT",
-      "source": "bbc_sport",
-      "title": "Does Pickford finally face serious competition for his England place?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        379
-      ],
-      "published_at_raw": "Wed, 11 Nov 2026 10:23:37 GMT",
-      "source": "bbc_sport",
-      "title": "Shirt pull on Isak should have been penalty - panel",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6n8d8kl125vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -39,12 +31,12 @@
     },
     {
       "matched_player_ids": [
-        449
+        226
       ],
-      "published_at_raw": "Wed, 11 Nov 2026 10:32:23 GMT",
+      "published_at_raw": "Wed, 11 Nov 2026 06:24:28 GMT",
       "source": "bbc_sport",
-      "title": "Bromley signings 'not good enough' - ex-boss Woodman",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5x2wle9nnvzo?at_medium=RSS&at_campaign=rss"
+      "title": "Does Pickford finally face serious competition for his England place?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/crvg9y27n45wo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -54,6 +46,25 @@
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 18:20:00 GMT",
+      "source": "sky_sports",
+      "title": "Arsenal latest: White won't walk away from England boos, says Tuchel",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+    },
+    {
+      "matched_player_ids": [
+        40,
+        154
+      ],
+      "published_at_raw": "Tue, 10 Nov 2026 21:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Chelsea latest: Tuchel responds to Rogers' passionate defence of Palmer",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
     },
     {
       "matched_player_ids": [
@@ -80,5 +91,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-12T19:38:15Z"
+  "updated_at": "2026-11-13T00:55:30Z"
 }

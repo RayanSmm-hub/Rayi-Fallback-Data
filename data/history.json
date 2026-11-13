@@ -5295,8 +5295,43 @@
       "title": "Greaves 'excited' to face Littler at Grand Slam of Darts",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/darts/news/12040/13611422/beau-greaves-excited-to-face-luke-littler-at-grand-slam-of-darts-in-wolverhampton-this-saturday"
+    },
+    {
+      "detected_at": "2026-11-13T00:55:30Z",
+      "matched_player_ids": [
+        40,
+        154
+      ],
+      "published_at_raw": "Thu, 12 Nov 2026 23:09:07 GMT",
+      "source": "bbc_sport",
+      "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-13T00:55:30Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Sat, 07 Nov 2026 18:20:00 GMT",
+      "source": "sky_sports",
+      "title": "Arsenal latest: White won't walk away from England boos, says Tuchel",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+    },
+    {
+      "detected_at": "2026-11-13T00:55:30Z",
+      "matched_player_ids": [
+        40,
+        154
+      ],
+      "published_at_raw": "Tue, 10 Nov 2026 21:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Chelsea latest: Tuchel responds to Rogers' passionate defence of Palmer",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-12T19:38:15Z"
+  "updated_at": "2026-11-13T00:55:30Z"
 }

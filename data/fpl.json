@@ -455,7 +455,7 @@
       "news_added": "2026-10-24T16:30:09.687729Z",
       "now_cost": 76,
       "position": "FWD",
-      "selected_by_percent": "31.8",
+      "selected_by_percent": "31.7",
       "status": "i",
       "team_id": 6,
       "team_name": "Chelsea",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 11,
-  "updated_at": "2026-11-12T19:38:15Z"
+  "updated_at": "2026-11-13T00:55:30Z"
 }
