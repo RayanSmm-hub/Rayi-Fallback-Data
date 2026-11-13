@@ -5385,8 +5385,19 @@
       "title": "Neville: Pochettino needs control of Man Utd recruitment",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13611886/gary-neville-mauricio-pochettino-needs-control-of-manchester-united-recruitment"
+    },
+    {
+      "detected_at": "2026-11-13T21:52:46Z",
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Fri, 13 Nov 2026 19:59:40 GMT",
+      "source": "bbc_sport",
+      "title": "'It's a shootout' - Wales out to derail stuttering Norway",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-13T15:57:21Z"
+  "updated_at": "2026-11-13T21:52:46Z"
 }
