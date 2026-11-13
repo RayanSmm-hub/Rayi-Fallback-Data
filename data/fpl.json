@@ -617,7 +617,7 @@
       "news_added": "2026-11-05T18:30:07.960444Z",
       "now_cost": 60,
       "position": "FWD",
-      "selected_by_percent": "17.6",
+      "selected_by_percent": "17.5",
       "status": "a",
       "team_id": 13,
       "team_name": "Leeds",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 11,
-  "updated_at": "2026-11-13T00:55:30Z"
+  "updated_at": "2026-11-13T07:39:52Z"
 }

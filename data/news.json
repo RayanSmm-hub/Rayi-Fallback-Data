@@ -13,6 +13,15 @@
     },
     {
       "matched_player_ids": [
+        356
+      ],
+      "published_at_raw": "Fri, 13 Nov 2026 06:57:25 GMT",
+      "source": "bbc_sport",
+      "title": "Liverpool and Van Dijk have a decision to make",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         411
       ],
       "published_at_raw": "Thu, 12 Nov 2026 04:32:42 GMT",
@@ -65,24 +74,6 @@
       "source": "sky_sports",
       "title": "Chelsea latest: Tuchel responds to Rogers' passionate defence of Palmer",
       "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-    },
-    {
-      "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Thu, 12 Nov 2026 14:49:00 GMT",
-      "source": "sky_sports",
-      "title": "Neville 'disgusted' at Man Utd's treatment of Carrick",
-      "url": "https://www.skysports.com/football/news/12040/13611501/gary-neville-man-utds-treatment-of-michael-carrick-disgusting-as-mauricio-pochettino-prepares-to-take-over-at-old-trafford"
-    },
-    {
-      "matched_player_ids": [
-        306
-      ],
-      "published_at_raw": "Thu, 12 Nov 2026 14:10:00 GMT",
-      "source": "sky_sports",
-      "title": "Greaves 'excited' to face Littler at Grand Slam of Darts",
-      "url": "https://www.skysports.com/darts/news/12040/13611422/beau-greaves-excited-to-face-luke-littler-at-grand-slam-of-darts-in-wolverhampton-this-saturday"
     }
   ],
   "schema_version": 1,
@@ -91,5 +82,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-13T00:55:30Z"
+  "updated_at": "2026-11-13T07:39:52Z"
 }

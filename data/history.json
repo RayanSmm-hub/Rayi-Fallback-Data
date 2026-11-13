@@ -5330,8 +5330,19 @@
       "title": "Chelsea latest: Tuchel responds to Rogers' passionate defence of Palmer",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/live-blog/12040/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+    },
+    {
+      "detected_at": "2026-11-13T07:39:52Z",
+      "matched_player_ids": [
+        356
+      ],
+      "published_at_raw": "Fri, 13 Nov 2026 06:57:25 GMT",
+      "source": "bbc_sport",
+      "title": "Liverpool and Van Dijk have a decision to make",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-13T00:55:30Z"
+  "updated_at": "2026-11-13T07:39:52Z"
 }
