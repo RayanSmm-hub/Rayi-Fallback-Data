@@ -21,21 +21,30 @@
     },
     {
       "matched_player_ids": [
-        356
-      ],
-      "published_at_raw": "Fri, 13 Nov 2026 06:57:25 GMT",
-      "source": "bbc_sport",
-      "title": "Liverpool and Van Dijk have a decision to make",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         411
       ],
       "published_at_raw": "Fri, 13 Nov 2026 19:59:40 GMT",
       "source": "bbc_sport",
       "title": "'It's a shootout' - Wales out to derail stuttering Norway",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sat, 14 Nov 2026 09:57:20 GMT",
+      "source": "bbc_sport",
+      "title": "NI target challenge of Nations League promotion",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwx2e0dzvy0vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        356
+      ],
+      "published_at_raw": "Fri, 13 Nov 2026 06:57:25 GMT",
+      "source": "bbc_sport",
+      "title": "Liverpool and Van Dijk have a decision to make",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -48,34 +57,6 @@
     },
     {
       "matched_player_ids": [
-        411
-      ],
-      "published_at_raw": "Fri, 13 Nov 2026 08:05:12 GMT",
-      "source": "bbc_sport",
-      "title": "How do you stop Haaland? Wales show how it's done",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Fri, 13 Nov 2026 08:22:34 GMT",
-      "source": "bbc_sport",
-      "title": "Beckham to be inducted into US Soccer Hall of Fame",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmx295q05l7eo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        40,
-        154
-      ],
-      "published_at_raw": "Thu, 12 Nov 2026 23:09:07 GMT",
-      "source": "bbc_sport",
-      "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         423
       ],
       "published_at_raw": "Mon, 09 Nov 2026 15:25:55 GMT",
@@ -85,21 +66,21 @@
     },
     {
       "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Fri, 13 Nov 2026 08:05:12 GMT",
+      "source": "bbc_sport",
+      "title": "How do you stop Haaland? Wales show how it's done",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         154
       ],
       "published_at_raw": "Mon, 26 Oct 2026 14:12:43 GMT",
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Sat, 14 Nov 2026 07:22:00 GMT",
-      "source": "sky_sports",
-      "title": "Goalkeeper Owono given 12-match ban after De Miguel's death from collision",
-      "url": "https://www.skysports.com/football/news/12040/13612118/goalkeeper-jesus-owono-given-12-match-ban-after-tenerife-forward-jesus-de-miguels-death-following-collision"
     }
   ],
   "schema_version": 1,
@@ -108,5 +89,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-14T08:52:37Z"
+  "updated_at": "2026-11-14T15:37:27Z"
 }

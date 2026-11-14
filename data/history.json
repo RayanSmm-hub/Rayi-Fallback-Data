@@ -5429,8 +5429,19 @@
       "title": "Goalkeeper Owono given 12-match ban after De Miguel's death from collision",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13612118/goalkeeper-jesus-owono-given-12-match-ban-after-tenerife-forward-jesus-de-miguels-death-following-collision"
+    },
+    {
+      "detected_at": "2026-11-14T15:37:27Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sat, 14 Nov 2026 09:57:20 GMT",
+      "source": "bbc_sport",
+      "title": "NI target challenge of Nations League promotion",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwx2e0dzvy0vo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-14T08:52:37Z"
+  "updated_at": "2026-11-14T15:37:27Z"
 }
