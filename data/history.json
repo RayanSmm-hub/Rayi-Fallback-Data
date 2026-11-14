@@ -5418,8 +5418,19 @@
       "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-14T08:52:37Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sat, 14 Nov 2026 07:22:00 GMT",
+      "source": "sky_sports",
+      "title": "Goalkeeper Owono given 12-match ban after De Miguel's death from collision",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13612118/goalkeeper-jesus-owono-given-12-match-ban-after-tenerife-forward-jesus-de-miguels-death-following-collision"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-14T01:59:16Z"
+  "updated_at": "2026-11-14T08:52:37Z"
 }

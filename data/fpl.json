@@ -887,7 +887,7 @@
       "news_added": null,
       "now_cost": 79,
       "position": "MID",
-      "selected_by_percent": "19.1",
+      "selected_by_percent": "19.0",
       "status": "a",
       "team_id": 16,
       "team_name": "Man Utd",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 11,
-  "updated_at": "2026-11-14T01:59:16Z"
+  "updated_at": "2026-11-14T08:52:37Z"
 }

@@ -91,6 +91,15 @@
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sat, 14 Nov 2026 07:22:00 GMT",
+      "source": "sky_sports",
+      "title": "Goalkeeper Owono given 12-match ban after De Miguel's death from collision",
+      "url": "https://www.skysports.com/football/news/12040/13612118/goalkeeper-jesus-owono-given-12-match-ban-after-tenerife-forward-jesus-de-miguels-death-following-collision"
     }
   ],
   "schema_version": 1,
@@ -99,5 +108,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-14T01:59:16Z"
+  "updated_at": "2026-11-14T08:52:37Z"
 }
