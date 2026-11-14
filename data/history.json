@@ -5396,8 +5396,30 @@
       "title": "'It's a shootout' - Wales out to derail stuttering Norway",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-14T01:59:16Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Fri, 13 Nov 2026 22:37:30 GMT",
+      "source": "bbc_sport",
+      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-14T01:59:16Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Fri, 13 Nov 2026 22:05:14 GMT",
+      "source": "bbc_sport",
+      "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-13T21:52:46Z"
+  "updated_at": "2026-11-14T01:59:16Z"
 }
