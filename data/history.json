@@ -5440,8 +5440,42 @@
       "title": "NI target challenge of Nations League promotion",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwx2e0dzvy0vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-14T20:28:18Z",
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Sat, 14 Nov 2026 19:23:13 GMT",
+      "source": "bbc_sport",
+      "title": "Haaland helps Norway to win over Wales in Nations League",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-14T20:28:18Z",
+      "matched_player_ids": [
+        40,
+        154
+      ],
+      "published_at_raw": "Thu, 12 Nov 2026 23:09:07 GMT",
+      "source": "bbc_sport",
+      "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-14T20:28:18Z",
+      "matched_player_ids": [
+        306
+      ],
+      "published_at_raw": "Sat, 14 Nov 2026 18:30:00 GMT",
+      "source": "sky_sports",
+      "title": "Grand Slam of Darts LIVE! Wade and Price win with Littler vs Greaves to come",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/darts/live-blog/12040/13611907/grand-slam-of-darts-commentary-updates-scores-analysis-with-luke-littler-beau-greaves-luke-humphries-in-action"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-14T15:37:27Z"
+  "updated_at": "2026-11-14T20:28:18Z"
 }

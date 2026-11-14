@@ -221,7 +221,7 @@
       "news_added": "2026-10-21T20:30:09.540957Z",
       "now_cost": 94,
       "position": "MID",
-      "selected_by_percent": "5.5",
+      "selected_by_percent": "5.4",
       "status": "i",
       "team_id": 1,
       "team_name": "Arsenal",
@@ -869,7 +869,7 @@
       "news_added": null,
       "now_cost": 116,
       "position": "MID",
-      "selected_by_percent": "20.4",
+      "selected_by_percent": "20.3",
       "status": "a",
       "team_id": 16,
       "team_name": "Man Utd",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 11,
-  "updated_at": "2026-11-14T15:37:27Z"
+  "updated_at": "2026-11-14T20:28:18Z"
 }

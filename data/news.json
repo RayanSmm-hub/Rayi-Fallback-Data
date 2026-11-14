@@ -3,15 +3,6 @@
   "items": [
     {
       "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Fri, 13 Nov 2026 22:37:30 GMT",
-      "source": "bbc_sport",
-      "title": "Goalkeeper involved in fatal collision gets 12-game ban",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         385
       ],
       "published_at_raw": "Fri, 13 Nov 2026 22:05:14 GMT",
@@ -23,19 +14,10 @@
       "matched_player_ids": [
         411
       ],
-      "published_at_raw": "Fri, 13 Nov 2026 19:59:40 GMT",
+      "published_at_raw": "Sat, 14 Nov 2026 19:23:13 GMT",
       "source": "bbc_sport",
-      "title": "'It's a shootout' - Wales out to derail stuttering Norway",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck9871qr76gmo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Sat, 14 Nov 2026 09:57:20 GMT",
-      "source": "bbc_sport",
-      "title": "NI target challenge of Nations League promotion",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cwx2e0dzvy0vo?at_medium=RSS&at_campaign=rss"
+      "title": "Haaland helps Norway to win over Wales in Nations League",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -48,30 +30,13 @@
     },
     {
       "matched_player_ids": [
-        469
+        40,
+        154
       ],
-      "published_at_raw": "Fri, 13 Nov 2026 10:00:46 GMT",
+      "published_at_raw": "Thu, 12 Nov 2026 23:09:07 GMT",
       "source": "bbc_sport",
-      "title": "The club preparing to play again after the death of a player",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6vg7gz9w5edo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        423
-      ],
-      "published_at_raw": "Mon, 09 Nov 2026 15:25:55 GMT",
-      "source": "bbc_sport",
-      "title": "Every goal from the Women's Super League - matchweek nine",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm4g1g3p2qngo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        411
-      ],
-      "published_at_raw": "Fri, 13 Nov 2026 08:05:12 GMT",
-      "source": "bbc_sport",
-      "title": "How do you stop Haaland? Wales show how it's done",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c3y0e0z0r8kzo?at_medium=RSS&at_campaign=rss"
+      "title": "'A lie' & 'nonsense' - Palmer committed to England, says Rogers",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -81,6 +46,15 @@
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        306
+      ],
+      "published_at_raw": "Sat, 14 Nov 2026 18:30:00 GMT",
+      "source": "sky_sports",
+      "title": "Grand Slam of Darts LIVE! Wade and Price win with Littler vs Greaves to come",
+      "url": "https://www.skysports.com/darts/live-blog/12040/13611907/grand-slam-of-darts-commentary-updates-scores-analysis-with-luke-littler-beau-greaves-luke-humphries-in-action"
     }
   ],
   "schema_version": 1,
@@ -89,5 +63,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-14T15:37:27Z"
+  "updated_at": "2026-11-14T20:28:18Z"
 }
