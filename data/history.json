@@ -5553,8 +5553,30 @@
       "title": "Club's first match since player's death abandoned because of serious injury",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-15T20:11:41Z",
+      "matched_player_ids": [
+        306
+      ],
+      "published_at_raw": "Sun, 15 Nov 2026 18:40:00 GMT",
+      "source": "sky_sports",
+      "title": "Grand Slam of Darts LIVE! Greaves in must-win clash with Evans, Smith also playing",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/darts/live-blog/12040/13612309/grand-slam-of-darts-commentary-updates-scores-analysis-with-jonny-clayton-josh-rock-ross-smith-in-action"
+    },
+    {
+      "detected_at": "2026-11-15T20:11:41Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sun, 15 Nov 2026 18:49:00 GMT",
+      "source": "sky_sports",
+      "title": "Ex-Aussie bowler rejects Cummins' sandpapergate claim: 'Everyone knew'",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/cricket/news/12040/13612567/chadd-sayers-former-australian-bowler-rejects-pat-cummins-claims-about-sandpapergate-everyone-knew-what-was-going-on"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-15T14:39:48Z"
+  "updated_at": "2026-11-15T20:11:41Z"
 }
