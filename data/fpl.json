@@ -255,7 +255,7 @@
       "minutes": 731,
       "news": "",
       "news_added": "2026-11-05T20:30:09.025008Z",
-      "now_cost": 48,
+      "now_cost": 49,
       "position": "DEF",
       "selected_by_percent": "24.7",
       "status": "a",
@@ -455,7 +455,7 @@
       "news_added": "2026-10-24T16:30:09.687729Z",
       "now_cost": 76,
       "position": "FWD",
-      "selected_by_percent": "31.6",
+      "selected_by_percent": "31.5",
       "status": "i",
       "team_id": 6,
       "team_name": "Chelsea",
@@ -599,7 +599,7 @@
       "news_added": null,
       "now_cost": 51,
       "position": "DEF",
-      "selected_by_percent": "6.4",
+      "selected_by_percent": "6.5",
       "status": "a",
       "team_id": 13,
       "team_name": "Leeds",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 11,
-  "updated_at": "2026-11-14T20:28:18Z"
+  "updated_at": "2026-11-15T00:09:20Z"
 }
