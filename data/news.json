@@ -3,6 +3,33 @@
   "items": [
     {
       "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sun, 15 Nov 2026 11:28:25 GMT",
+      "source": "bbc_sport",
+      "title": "Wenger decides not to challenge Fifa chief Infantino",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c539gn33z1l3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sun, 15 Nov 2026 14:06:19 GMT",
+      "source": "bbc_sport",
+      "title": "Club's first match since player's death abandoned because of serious injury",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Sat, 14 Nov 2026 19:23:13 GMT",
+      "source": "bbc_sport",
+      "title": "Haaland helps Norway to win over Wales in Nations League",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         10
       ],
       "published_at_raw": "Sat, 14 Nov 2026 22:26:56 GMT",
@@ -21,39 +48,12 @@
     },
     {
       "matched_player_ids": [
-        411
-      ],
-      "published_at_raw": "Sat, 14 Nov 2026 19:23:13 GMT",
-      "source": "bbc_sport",
-      "title": "Haaland helps Norway to win over Wales in Nations League",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         154
       ],
       "published_at_raw": "Mon, 26 Oct 2026 14:12:43 GMT",
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        306
-      ],
-      "published_at_raw": "Sat, 14 Nov 2026 22:08:00 GMT",
-      "source": "sky_sports",
-      "title": "Littler opens bid for third Grand Slam crown with stunning Greaves win",
-      "url": "https://www.skysports.com/darts/news/12040/13612232/grand-slam-of-darts-luke-littler-turns-on-magical-display-to-defeat-beau-greaves-as-ross-smith-suffers-shock-defeat"
-    },
-    {
-      "matched_player_ids": [
-        306
-      ],
-      "published_at_raw": "Sat, 14 Nov 2026 22:08:00 GMT",
-      "source": "sky_sports",
-      "title": "Reigning champion Littler 'unplayable' in emphatic win over Greaves",
-      "url": "https://www.skysports.com/watch/video/13612359/luke-littler-vs-beau-greaves-grand-slam-of-darts-highlights"
     }
   ],
   "schema_version": 1,
@@ -62,5 +62,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-15T06:58:36Z"
+  "updated_at": "2026-11-15T14:39:48Z"
 }

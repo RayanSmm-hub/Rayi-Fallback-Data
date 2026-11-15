@@ -473,7 +473,7 @@
       "news_added": null,
       "now_cost": 52,
       "position": "DEF",
-      "selected_by_percent": "4.2",
+      "selected_by_percent": "4.1",
       "status": "a",
       "team_id": 18,
       "team_name": "Nott'm Forest",
@@ -689,7 +689,7 @@
       "news_added": "2026-09-27T10:30:09.051435Z",
       "now_cost": 93,
       "position": "FWD",
-      "selected_by_percent": "25.1",
+      "selected_by_percent": "25.2",
       "status": "a",
       "team_id": 14,
       "team_name": "Liverpool",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 11,
-  "updated_at": "2026-11-15T06:58:36Z"
+  "updated_at": "2026-11-15T14:39:48Z"
 }

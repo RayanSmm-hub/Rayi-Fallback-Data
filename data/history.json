@@ -5531,8 +5531,30 @@
       "title": "Reigning champion Littler 'unplayable' in emphatic win over Greaves",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13612359/luke-littler-vs-beau-greaves-grand-slam-of-darts-highlights"
+    },
+    {
+      "detected_at": "2026-11-15T14:39:48Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sun, 15 Nov 2026 11:28:25 GMT",
+      "source": "bbc_sport",
+      "title": "Wenger decides not to challenge Fifa chief Infantino",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c539gn33z1l3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-15T14:39:48Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sun, 15 Nov 2026 14:06:19 GMT",
+      "source": "bbc_sport",
+      "title": "Club's first match since player's death abandoned because of serious injury",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-15T06:58:36Z"
+  "updated_at": "2026-11-15T14:39:48Z"
 }
