@@ -5575,8 +5575,19 @@
       "title": "Ex-Aussie bowler rejects Cummins' sandpapergate claim: 'Everyone knew'",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/cricket/news/12040/13612567/chadd-sayers-former-australian-bowler-rejects-pat-cummins-claims-about-sandpapergate-everyone-knew-what-was-going-on"
+    },
+    {
+      "detected_at": "2026-11-16T00:11:44Z",
+      "matched_player_ids": [
+        306
+      ],
+      "published_at_raw": "Sun, 15 Nov 2026 22:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Grand Slam of Darts: Four seeds crash out as Greaves exits despite win",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/darts/news/12040/13612535/grand-slam-of-darts-jonny-clayton-ross-smith-josh-rock-luke-woodhouse-and-beau-greaves-all-exit-tournament"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-15T20:11:41Z"
+  "updated_at": "2026-11-16T00:11:44Z"
 }

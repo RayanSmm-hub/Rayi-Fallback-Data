@@ -59,10 +59,10 @@
       "matched_player_ids": [
         306
       ],
-      "published_at_raw": "Sun, 15 Nov 2026 18:40:00 GMT",
+      "published_at_raw": "Sun, 15 Nov 2026 22:00:00 GMT",
       "source": "sky_sports",
-      "title": "Grand Slam of Darts LIVE! Greaves in must-win clash with Evans, Smith also playing",
-      "url": "https://www.skysports.com/darts/live-blog/12040/13612309/grand-slam-of-darts-commentary-updates-scores-analysis-with-jonny-clayton-josh-rock-ross-smith-in-action"
+      "title": "Grand Slam of Darts: Four seeds crash out as Greaves exits despite win",
+      "url": "https://www.skysports.com/darts/news/12040/13612535/grand-slam-of-darts-jonny-clayton-ross-smith-josh-rock-luke-woodhouse-and-beau-greaves-all-exit-tournament"
     },
     {
       "matched_player_ids": [
@@ -80,5 +80,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-15T20:11:41Z"
+  "updated_at": "2026-11-16T00:11:44Z"
 }

@@ -635,7 +635,7 @@
       "news_added": "2026-11-09T18:00:09.325472Z",
       "now_cost": 64,
       "position": "DEF",
-      "selected_by_percent": "14.8",
+      "selected_by_percent": "14.7",
       "status": "d",
       "team_id": 14,
       "team_name": "Liverpool",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 11,
-  "updated_at": "2026-11-15T20:11:41Z"
+  "updated_at": "2026-11-16T00:11:44Z"
 }
