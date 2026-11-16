@@ -5586,8 +5586,31 @@
       "title": "Grand Slam of Darts: Four seeds crash out as Greaves exits despite win",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/darts/news/12040/13612535/grand-slam-of-darts-jonny-clayton-ross-smith-josh-rock-luke-woodhouse-and-beau-greaves-all-exit-tournament"
+    },
+    {
+      "detected_at": "2026-11-16T17:18:13Z",
+      "matched_player_ids": [
+        226,
+        385
+      ],
+      "published_at_raw": "Mon, 16 Nov 2026 13:01:41 GMT",
+      "source": "bbc_sport",
+      "title": "Has Trafford replaced Pickford as England No 1?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmvg2r752ykzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-16T17:18:13Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Mon, 16 Nov 2026 15:55:16 GMT",
+      "source": "bbc_sport",
+      "title": "Wales without Williams for Portugal as Bellamy makes Vitinha point",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk3nv6pqyo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-16T07:05:20Z"
+  "updated_at": "2026-11-16T17:18:13Z"
 }

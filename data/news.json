@@ -3,6 +3,25 @@
   "items": [
     {
       "matched_player_ids": [
+        226,
+        385
+      ],
+      "published_at_raw": "Mon, 16 Nov 2026 13:01:41 GMT",
+      "source": "bbc_sport",
+      "title": "Has Trafford replaced Pickford as England No 1?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmvg2r752ykzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Mon, 16 Nov 2026 15:55:16 GMT",
+      "source": "bbc_sport",
+      "title": "Wales without Williams for Portugal as Bellamy makes Vitinha point",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk3nv6pqyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Sun, 15 Nov 2026 11:28:25 GMT",
@@ -30,24 +49,6 @@
     },
     {
       "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Sat, 14 Nov 2026 22:26:56 GMT",
-      "source": "bbc_sport",
-      "title": "White has 'exciting future' despite boos - Rice",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Sat, 14 Nov 2026 22:40:02 GMT",
-      "source": "bbc_sport",
-      "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         154
       ],
       "published_at_raw": "Mon, 26 Oct 2026 14:12:43 GMT",
@@ -71,5 +72,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-16T07:05:20Z"
+  "updated_at": "2026-11-16T17:18:13Z"
 }
