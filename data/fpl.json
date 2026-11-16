@@ -761,7 +761,7 @@
       "news_added": "2026-11-07T21:30:08.752464Z",
       "now_cost": 56,
       "position": "DEF",
-      "selected_by_percent": "22.5",
+      "selected_by_percent": "22.4",
       "status": "d",
       "team_id": 15,
       "team_name": "Man City",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 11,
-  "updated_at": "2026-11-16T00:11:44Z"
+  "updated_at": "2026-11-16T07:05:20Z"
 }

@@ -63,15 +63,6 @@
       "source": "sky_sports",
       "title": "Grand Slam of Darts: Four seeds crash out as Greaves exits despite win",
       "url": "https://www.skysports.com/darts/news/12040/13612535/grand-slam-of-darts-jonny-clayton-ross-smith-josh-rock-luke-woodhouse-and-beau-greaves-all-exit-tournament"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Sun, 15 Nov 2026 18:49:00 GMT",
-      "source": "sky_sports",
-      "title": "Ex-Aussie bowler rejects Cummins' sandpapergate claim: 'Everyone knew'",
-      "url": "https://www.skysports.com/cricket/news/12040/13612567/chadd-sayers-former-australian-bowler-rejects-pat-cummins-claims-about-sandpapergate-everyone-knew-what-was-going-on"
     }
   ],
   "schema_version": 1,
@@ -80,5 +71,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-16T00:11:44Z"
+  "updated_at": "2026-11-16T07:05:20Z"
 }
