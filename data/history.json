@@ -5674,8 +5674,19 @@
       "title": "Papers: Timber, Raya and Hincapie to sign new Arsenal contracts",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13613047/jurrien-timber-david-raya-and-piero-hincapie-to-extend-arsenal-contracts-alongside-declan-rice-paper-talk"
+    },
+    {
+      "detected_at": "2026-11-17T08:59:57Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Tue, 17 Nov 2026 08:28:10 GMT",
+      "source": "bbc_sport",
+      "title": "Owono did not deserve 12-match ban - Pique",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-17T00:58:14Z"
+  "updated_at": "2026-11-17T08:59:57Z"
 }
