@@ -5740,8 +5740,65 @@
       "title": "Tiger confirms date for fresh PGA Tour comeback",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/golf/news/12040/13613268/tiger-woods-15-time-major-champion-to-make-pga-tour-comeback-at-decembers-hero-world-challenge-in-bahamas"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 60,
+          "before": 61
+        }
+      },
+      "detected_at": "2026-11-18T01:11:58Z",
+      "player_id": 453,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Barnes"
+    },
+    {
+      "detected_at": "2026-11-18T01:11:58Z",
+      "matched_player_ids": [
+        4
+      ],
+      "published_at_raw": "Tue, 17 Nov 2026 19:35:06 GMT",
+      "source": "bbc_sport",
+      "title": "Madrid-bound Gabriel posts farewell Man Utd message",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-18T01:11:58Z",
+      "matched_player_ids": [
+        356
+      ],
+      "published_at_raw": "Tue, 17 Nov 2026 22:25:16 GMT",
+      "source": "bbc_sport",
+      "title": "Liverpool lead Chelsea in Camara race - Wednesday's gossip",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvx2xwx604y0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-18T01:11:58Z",
+      "matched_player_ids": [
+        4
+      ],
+      "published_at_raw": "Tue, 17 Nov 2026 18:29:00 GMT",
+      "source": "sky_sports",
+      "title": "JJ Gabriel says goodbye to Man Utd with Real Madrid move close",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13613361/jj-gabriel-transfer-news-manchester-united-teenager-announces-departure-from-club-amid-real-madrid-agreement"
+    },
+    {
+      "detected_at": "2026-11-18T01:11:58Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Tue, 17 Nov 2026 21:49:00 GMT",
+      "source": "sky_sports",
+      "title": "Northern Ireland promoted to Nations League top tier with draw in Hungary",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/hungary-vs-northern-ireland/report/554131"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-17T18:26:50Z"
+  "updated_at": "2026-11-18T01:11:58Z"
 }

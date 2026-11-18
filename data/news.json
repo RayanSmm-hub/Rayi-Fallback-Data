@@ -3,6 +3,24 @@
   "items": [
     {
       "matched_player_ids": [
+        4
+      ],
+      "published_at_raw": "Tue, 17 Nov 2026 19:35:06 GMT",
+      "source": "bbc_sport",
+      "title": "Madrid-bound Gabriel posts farewell Man Utd message",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        356
+      ],
+      "published_at_raw": "Tue, 17 Nov 2026 22:25:16 GMT",
+      "source": "bbc_sport",
+      "title": "Liverpool lead Chelsea in Camara race - Wednesday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvx2xwx604y0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Tue, 17 Nov 2026 10:32:07 GMT",
@@ -18,15 +36,6 @@
       "source": "bbc_sport",
       "title": "Owono did not deserve 12-match ban - Pique",
       "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Mon, 16 Nov 2026 22:06:32 GMT",
-      "source": "bbc_sport",
-      "title": "Man Utd to resurrect Hall interest - Tuesday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6d91x7nz85jo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -49,21 +58,21 @@
     },
     {
       "matched_player_ids": [
-        469
-      ],
-      "published_at_raw": "Mon, 16 Nov 2026 15:55:16 GMT",
-      "source": "bbc_sport",
-      "title": "Wales without Williams for Portugal as Bellamy makes Vitinha point",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk3nv6pqyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         154
       ],
       "published_at_raw": "Mon, 26 Oct 2026 14:12:43 GMT",
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        4
+      ],
+      "published_at_raw": "Tue, 17 Nov 2026 18:29:00 GMT",
+      "source": "sky_sports",
+      "title": "JJ Gabriel says goodbye to Man Utd with Real Madrid move close",
+      "url": "https://www.skysports.com/football/news/12040/13613361/jj-gabriel-transfer-news-manchester-united-teenager-announces-departure-from-club-amid-real-madrid-agreement"
     },
     {
       "matched_player_ids": [
@@ -78,28 +87,19 @@
       "matched_player_ids": [
         449
       ],
-      "published_at_raw": "Tue, 17 Nov 2026 12:36:00 GMT",
+      "published_at_raw": "Tue, 17 Nov 2026 21:49:00 GMT",
       "source": "sky_sports",
-      "title": "GB Boxing back 'Night of Solidarity' event for Grenfell Tower tragedy",
-      "url": "https://www.skysports.com/boxing/news/12040/13613204/gb-boxing-back-a-night-of-solidarity-event-for-grenfell-tower-tragedy-it-just-shows-you-the-power-of-boxing"
-    },
-    {
-      "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Tue, 17 Nov 2026 08:57:00 GMT",
-      "source": "sky_sports",
-      "title": "Cox: Three hundreds not enough to keep Buttler out",
-      "url": "https://www.skysports.com/cricket/news/12040/13613121/jordan-cox-three-hundreds-not-enough-to-keep-jos-buttler-out-englands-best-ever"
+      "title": "Northern Ireland promoted to Nations League top tier with draw in Hungary",
+      "url": "https://www.skysports.com/football/hungary-vs-northern-ireland/report/554131"
     },
     {
       "matched_player_ids": [
         449
       ],
-      "published_at_raw": "Tue, 17 Nov 2026 14:28:00 GMT",
+      "published_at_raw": "Tue, 17 Nov 2026 12:36:00 GMT",
       "source": "sky_sports",
-      "title": "Tiger confirms date for fresh PGA Tour comeback",
-      "url": "https://www.skysports.com/golf/news/12040/13613268/tiger-woods-15-time-major-champion-to-make-pga-tour-comeback-at-decembers-hero-world-challenge-in-bahamas"
+      "title": "GB Boxing back 'Night of Solidarity' event for Grenfell Tower tragedy",
+      "url": "https://www.skysports.com/boxing/news/12040/13613204/gb-boxing-back-a-night-of-solidarity-event-for-grenfell-tower-tragedy-it-just-shows-you-the-power-of-boxing"
     }
   ],
   "schema_version": 1,
@@ -108,5 +108,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-17T18:26:50Z"
+  "updated_at": "2026-11-18T01:11:58Z"
 }
