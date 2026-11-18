@@ -3,12 +3,12 @@
   "items": [
     {
       "matched_player_ids": [
-        4
+        449
       ],
-      "published_at_raw": "Tue, 17 Nov 2026 19:35:06 GMT",
+      "published_at_raw": "Wed, 18 Nov 2026 13:05:48 GMT",
       "source": "bbc_sport",
-      "title": "Madrid-bound Gabriel posts farewell Man Utd message",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo?at_medium=RSS&at_campaign=rss"
+      "title": "Israel row a 'defining moment for us' - Hallgrimsson",
+      "url": "https://www.bbc.co.uk/sport/football/articles/credqnv9xe4vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -21,21 +21,30 @@
     },
     {
       "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Wed, 18 Nov 2026 10:48:39 GMT",
+      "source": "bbc_sport",
+      "title": "Williams to join temporary Swansea coaching team",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5lyk9rp0vjgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        4
+      ],
+      "published_at_raw": "Tue, 17 Nov 2026 19:35:06 GMT",
+      "source": "bbc_sport",
+      "title": "Madrid-bound Gabriel posts farewell Man Utd message",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Tue, 17 Nov 2026 10:32:07 GMT",
       "source": "bbc_sport",
       "title": "Will Infantino feel he's already won as Fifa challengers are revealed?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Tue, 17 Nov 2026 08:28:10 GMT",
-      "source": "bbc_sport",
-      "title": "Owono did not deserve 12-match ban - Pique",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -48,13 +57,12 @@
     },
     {
       "matched_player_ids": [
-        226,
-        385
+        449
       ],
-      "published_at_raw": "Mon, 16 Nov 2026 13:01:41 GMT",
+      "published_at_raw": "Tue, 17 Nov 2026 08:28:10 GMT",
       "source": "bbc_sport",
-      "title": "Has Trafford replaced Pickford as England No 1?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmvg2r752ykzo?at_medium=RSS&at_campaign=rss"
+      "title": "Owono did not deserve 12-match ban - Pique",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -67,30 +75,12 @@
     },
     {
       "matched_player_ids": [
-        4
+        31
       ],
-      "published_at_raw": "Tue, 17 Nov 2026 18:29:00 GMT",
+      "published_at_raw": "Wed, 18 Nov 2026 10:00:00 GMT",
       "source": "sky_sports",
-      "title": "JJ Gabriel says goodbye to Man Utd with Real Madrid move close",
-      "url": "https://www.skysports.com/football/news/12040/13613361/jj-gabriel-transfer-news-manchester-united-teenager-announces-departure-from-club-amid-real-madrid-agreement"
-    },
-    {
-      "matched_player_ids": [
-        1
-      ],
-      "published_at_raw": "Tue, 17 Nov 2026 16:23:00 GMT",
-      "source": "sky_sports",
-      "title": "Arsenal close to new deals for Raya, Timber and Hincapie",
-      "url": "https://www.skysports.com/football/news/12040/13613327/arsenal-transfer-news-david-raya-jurrien-timber-and-piero-hincapie-close-to-finalising-new-contracts"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Tue, 17 Nov 2026 21:49:00 GMT",
-      "source": "sky_sports",
-      "title": "Northern Ireland promoted to Nations League top tier with draw in Hungary",
-      "url": "https://www.skysports.com/football/hungary-vs-northern-ireland/report/554131"
+      "title": "What does Arteta do with Konsa once Saliba returns?",
+      "url": "https://www.skysports.com/football/news/12040/13610324/william-saliba-or-ezri-konsa-mikel-arteta-has-tough-arsenal-selection-dilemma-when-french-defender-returns-to-full-fitness"
     }
   ],
   "schema_version": 1,
@@ -99,5 +89,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-18T08:55:34Z"
+  "updated_at": "2026-11-18T17:52:07Z"
 }

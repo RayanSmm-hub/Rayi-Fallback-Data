@@ -5797,8 +5797,41 @@
       "title": "Northern Ireland promoted to Nations League top tier with draw in Hungary",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/hungary-vs-northern-ireland/report/554131"
+    },
+    {
+      "detected_at": "2026-11-18T17:52:07Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Wed, 18 Nov 2026 13:05:48 GMT",
+      "source": "bbc_sport",
+      "title": "Israel row a 'defining moment for us' - Hallgrimsson",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/credqnv9xe4vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-18T17:52:07Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Wed, 18 Nov 2026 10:48:39 GMT",
+      "source": "bbc_sport",
+      "title": "Williams to join temporary Swansea coaching team",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c5lyk9rp0vjgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-18T17:52:07Z",
+      "matched_player_ids": [
+        31
+      ],
+      "published_at_raw": "Wed, 18 Nov 2026 10:00:00 GMT",
+      "source": "sky_sports",
+      "title": "What does Arteta do with Konsa once Saliba returns?",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13610324/william-saliba-or-ezri-konsa-mikel-arteta-has-tough-arsenal-selection-dilemma-when-french-defender-returns-to-full-fitness"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-18T08:55:34Z"
+  "updated_at": "2026-11-18T17:52:07Z"
 }
