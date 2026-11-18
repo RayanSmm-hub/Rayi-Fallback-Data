@@ -39,6 +39,15 @@
     },
     {
       "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Sat, 14 Nov 2026 19:23:13 GMT",
+      "source": "bbc_sport",
+      "title": "Haaland helps Norway to win over Wales in Nations League",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         226,
         385
       ],
@@ -46,15 +55,6 @@
       "source": "bbc_sport",
       "title": "Has Trafford replaced Pickford as England No 1?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmvg2r752ykzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        411
-      ],
-      "published_at_raw": "Sat, 14 Nov 2026 19:23:13 GMT",
-      "source": "bbc_sport",
-      "title": "Haaland helps Norway to win over Wales in Nations League",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -91,15 +91,6 @@
       "source": "sky_sports",
       "title": "Northern Ireland promoted to Nations League top tier with draw in Hungary",
       "url": "https://www.skysports.com/football/hungary-vs-northern-ireland/report/554131"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Tue, 17 Nov 2026 12:36:00 GMT",
-      "source": "sky_sports",
-      "title": "GB Boxing back 'Night of Solidarity' event for Grenfell Tower tragedy",
-      "url": "https://www.skysports.com/boxing/news/12040/13613204/gb-boxing-back-a-night-of-solidarity-event-for-grenfell-tower-tragedy-it-just-shows-you-the-power-of-boxing"
     }
   ],
   "schema_version": 1,
@@ -108,5 +99,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-18T01:11:58Z"
+  "updated_at": "2026-11-18T08:55:34Z"
 }

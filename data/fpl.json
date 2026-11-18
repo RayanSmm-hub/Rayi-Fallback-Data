@@ -1031,7 +1031,7 @@
       "news_added": "2026-11-10T11:30:10.818854Z",
       "now_cost": 57,
       "position": "FWD",
-      "selected_by_percent": "4.7",
+      "selected_by_percent": "4.6",
       "status": "d",
       "team_id": 20,
       "team_name": "Sunderland",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 11,
-  "updated_at": "2026-11-18T01:11:58Z"
+  "updated_at": "2026-11-18T08:55:34Z"
 }
