@@ -5830,8 +5830,30 @@
       "title": "What does Arteta do with Konsa once Saliba returns?",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13610324/william-saliba-or-ezri-konsa-mikel-arteta-has-tough-arsenal-selection-dilemma-when-french-defender-returns-to-full-fitness"
+    },
+    {
+      "detected_at": "2026-11-18T23:58:13Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Wed, 18 Nov 2026 20:55:01 GMT",
+      "source": "bbc_sport",
+      "title": "FA explored legal challenge to Infantino staying on",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-18T23:58:13Z",
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Wed, 18 Nov 2026 20:25:40 GMT",
+      "source": "bbc_sport",
+      "title": "Hemp and Shaw star as Manchester City get vital win at Hacken",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c32l50p1yk8vo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-18T17:52:07Z"
+  "updated_at": "2026-11-18T23:58:13Z"
 }

@@ -5,6 +5,15 @@
       "matched_player_ids": [
         449
       ],
+      "published_at_raw": "Wed, 18 Nov 2026 20:55:01 GMT",
+      "source": "bbc_sport",
+      "title": "FA explored legal challenge to Infantino staying on",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        449
+      ],
       "published_at_raw": "Wed, 18 Nov 2026 13:05:48 GMT",
       "source": "bbc_sport",
       "title": "Israel row a 'defining moment for us' - Hallgrimsson",
@@ -12,12 +21,12 @@
     },
     {
       "matched_player_ids": [
-        356
+        423
       ],
-      "published_at_raw": "Tue, 17 Nov 2026 22:25:16 GMT",
+      "published_at_raw": "Wed, 18 Nov 2026 20:25:40 GMT",
       "source": "bbc_sport",
-      "title": "Liverpool lead Chelsea in Camara race - Wednesday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cvx2xwx604y0o?at_medium=RSS&at_campaign=rss"
+      "title": "Hemp and Shaw star as Manchester City get vital win at Hacken",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c32l50p1yk8vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -48,39 +57,12 @@
     },
     {
       "matched_player_ids": [
-        411
-      ],
-      "published_at_raw": "Sat, 14 Nov 2026 19:23:13 GMT",
-      "source": "bbc_sport",
-      "title": "Haaland helps Norway to win over Wales in Nations League",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Tue, 17 Nov 2026 08:28:10 GMT",
-      "source": "bbc_sport",
-      "title": "Owono did not deserve 12-match ban - Pique",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c91430yk4el2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         154
       ],
       "published_at_raw": "Mon, 26 Oct 2026 14:12:43 GMT",
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        31
-      ],
-      "published_at_raw": "Wed, 18 Nov 2026 10:00:00 GMT",
-      "source": "sky_sports",
-      "title": "What does Arteta do with Konsa once Saliba returns?",
-      "url": "https://www.skysports.com/football/news/12040/13610324/william-saliba-or-ezri-konsa-mikel-arteta-has-tough-arsenal-selection-dilemma-when-french-defender-returns-to-full-fitness"
     }
   ],
   "schema_version": 1,
@@ -89,5 +71,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-18T17:52:07Z"
+  "updated_at": "2026-11-18T23:58:13Z"
 }
