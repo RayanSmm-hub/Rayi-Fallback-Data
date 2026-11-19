@@ -5865,8 +5865,51 @@
       "source": "official_fpl",
       "type": "player_state_change",
       "web_name": "Gonzalo"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 0,
+          "before": 75
+        },
+        "news": {
+          "after": "Muscular injury - Unknown return date",
+          "before": "Muscular injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "i",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-11-19T16:42:52Z",
+      "player_id": 552,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Brobbey"
+    },
+    {
+      "detected_at": "2026-11-19T16:42:52Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Thu, 19 Nov 2026 15:20:00 GMT",
+      "source": "sky_sports",
+      "title": "Leeds latest: 'I’m a bit bored,' jokes Farke after Trafford frenzy",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/live-blog/12040/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+    },
+    {
+      "detected_at": "2026-11-19T16:42:52Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Thu, 19 Nov 2026 16:00:00 GMT",
+      "source": "sky_sports",
+      "title": "WBC open door for Canelo to fight Hutchinson for light-heavy title",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/boxing/news/12040/13613969/wbc-open-door-for-canelo-alvarez-to-challenge-britains-willy-hutchinson-for-light-heavyweight-world-championship"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-19T07:08:12Z"
+  "updated_at": "2026-11-19T16:42:52Z"
 }
