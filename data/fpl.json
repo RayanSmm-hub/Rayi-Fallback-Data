@@ -455,7 +455,7 @@
       "news_added": "2026-10-24T16:30:09.687729Z",
       "now_cost": 76,
       "position": "FWD",
-      "selected_by_percent": "31.1",
+      "selected_by_percent": "31.0",
       "status": "i",
       "team_id": 6,
       "team_name": "Chelsea",
@@ -545,7 +545,7 @@
       "news_added": null,
       "now_cost": 45,
       "position": "GK",
-      "selected_by_percent": "4.4",
+      "selected_by_percent": "4.3",
       "status": "a",
       "team_id": 10,
       "team_name": "Fulham",
@@ -959,7 +959,7 @@
       "news_added": "2026-11-16T19:00:05.480350Z",
       "now_cost": 49,
       "position": "DEF",
-      "selected_by_percent": "5.3",
+      "selected_by_percent": "5.2",
       "status": "d",
       "team_id": 18,
       "team_name": "Nott'm Forest",
@@ -1047,7 +1047,7 @@
       "minutes": 819,
       "news": "",
       "news_added": null,
-      "now_cost": 59,
+      "now_cost": 58,
       "position": "FWD",
       "selected_by_percent": "3.5",
       "status": "a",
@@ -1095,5 +1095,5 @@
   ],
   "schema_version": 1,
   "target_event": 11,
-  "updated_at": "2026-11-18T23:58:13Z"
+  "updated_at": "2026-11-19T07:08:12Z"
 }
