@@ -3,15 +3,6 @@
   "items": [
     {
       "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Thu, 19 Nov 2026 23:57:54 GMT",
-      "source": "bbc_sport",
-      "title": "Arsenal 'have ingredients' but Europe's elite on another level",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         423
       ],
       "published_at_raw": "Wed, 18 Nov 2026 20:25:40 GMT",
@@ -32,19 +23,19 @@
       "matched_player_ids": [
         449
       ],
+      "published_at_raw": "Thu, 19 Nov 2026 23:57:54 GMT",
+      "source": "bbc_sport",
+      "title": "Arsenal 'have ingredients' but Europe's elite on another level",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        449
+      ],
       "published_at_raw": "Thu, 19 Nov 2026 10:21:10 GMT",
       "source": "bbc_sport",
       "title": "Will Infantino feel he's already won as Fifa challengers confirmed?",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Thu, 19 Nov 2026 16:42:00 GMT",
-      "source": "bbc_sport",
-      "title": "Football Daily",
-      "url": "https://www.bbc.co.uk/sounds/play/m003501m?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -57,12 +48,21 @@
     },
     {
       "matched_player_ids": [
-        411
+        449
       ],
-      "published_at_raw": "Fri, 20 Nov 2026 11:30:00 GMT",
+      "published_at_raw": "Fri, 20 Nov 2026 20:00:00 GMT",
       "source": "sky_sports",
-      "title": "England to face Norway in Nations League last eight",
-      "url": "https://www.skysports.com/football/news/12040/13614281/nations-league-quarter-finals-england-to-face-norway-in-the-last-eight-with-a-potential-semi-final-tie-with-germany-waiting"
+      "title": "Drones, data and Bruno - Pochettino on his early Man Utd challenges",
+      "url": "https://www.skysports.com/football/news/12040/13614363/mauricio-pochettino-manchester-united-head-coach-discusses-drone-footage-his-approach-to-data-and-bruno-fernandes-ahead-of-first-game"
+    },
+    {
+      "matched_player_ids": [
+        356
+      ],
+      "published_at_raw": "Fri, 20 Nov 2026 20:15:00 GMT",
+      "source": "sky_sports",
+      "title": "Van Dijk uncertain on Liverpool future",
+      "url": "https://www.skysports.com/football/news/12040/13614508/liverpool-virgil-van-dijk-uncertain-on-anfield-future-beyond-the-summer-but-believes-he-can-play-for-many-more-years"
     }
   ],
   "schema_version": 1,
@@ -71,5 +71,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-20T13:27:03Z"
+  "updated_at": "2026-11-20T21:27:31Z"
 }
