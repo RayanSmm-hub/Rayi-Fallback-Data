@@ -21,6 +21,15 @@
     },
     {
       "matched_player_ids": [
+        397
+      ],
+      "published_at_raw": "Fri, 20 Nov 2026 11:12:35 GMT",
+      "source": "bbc_sport",
+      "title": "Fan found not guilty of racially abusing Semenyo",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4jvg27j2po?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Thu, 19 Nov 2026 10:21:10 GMT",
@@ -39,30 +48,21 @@
     },
     {
       "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Wed, 18 Nov 2026 20:55:01 GMT",
-      "source": "bbc_sport",
-      "title": "FA explored legal challenge to Infantino staying on",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Wed, 18 Nov 2026 13:05:48 GMT",
-      "source": "bbc_sport",
-      "title": "Israel row a 'defining moment for us' - Hallgrimsson",
-      "url": "https://www.bbc.co.uk/sport/football/articles/credqnv9xe4vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         154
       ],
       "published_at_raw": "Mon, 26 Oct 2026 14:12:43 GMT",
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Fri, 20 Nov 2026 11:30:00 GMT",
+      "source": "sky_sports",
+      "title": "England to face Norway in Nations League last eight",
+      "url": "https://www.skysports.com/football/news/12040/13614281/nations-league-quarter-finals-england-to-face-norway-in-the-last-eight-with-a-potential-semi-final-tie-with-germany-waiting"
     }
   ],
   "schema_version": 1,
@@ -71,5 +71,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-20T04:10:48Z"
+  "updated_at": "2026-11-20T13:27:03Z"
 }
