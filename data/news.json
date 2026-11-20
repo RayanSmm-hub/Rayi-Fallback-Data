@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Thu, 19 Nov 2026 23:57:54 GMT",
+      "source": "bbc_sport",
+      "title": "Arsenal 'have ingredients' but Europe's elite on another level",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         423
       ],
       "published_at_raw": "Wed, 18 Nov 2026 20:25:40 GMT",
@@ -62,5 +71,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-19T23:25:40Z"
+  "updated_at": "2026-11-20T04:10:48Z"
 }

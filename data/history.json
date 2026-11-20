@@ -5919,8 +5919,19 @@
       "title": "Football Daily",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sounds/play/m003501m?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-20T04:10:48Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Thu, 19 Nov 2026 23:57:54 GMT",
+      "source": "bbc_sport",
+      "title": "Arsenal 'have ingredients' but Europe's elite on another level",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-19T23:25:40Z"
+  "updated_at": "2026-11-20T04:10:48Z"
 }
