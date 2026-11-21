@@ -6042,8 +6042,47 @@
       "title": "Van Dijk uncertain on Liverpool future",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13614508/liverpool-virgil-van-dijk-uncertain-on-anfield-future-beyond-the-summer-but-believes-he-can-play-for-many-more-years"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 63,
+          "before": 62
+        }
+      },
+      "detected_at": "2026-11-21T02:44:01Z",
+      "player_id": 1,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Raya"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 59,
+          "before": 60
+        }
+      },
+      "detected_at": "2026-11-21T02:44:01Z",
+      "player_id": 388,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Guéhi"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 78,
+          "before": 79
+        }
+      },
+      "detected_at": "2026-11-21T02:44:01Z",
+      "player_id": 427,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Mbeumo"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-20T21:27:31Z"
+  "updated_at": "2026-11-21T02:44:01Z"
 }
