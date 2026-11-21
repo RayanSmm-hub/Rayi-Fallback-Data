@@ -3,6 +3,51 @@
   "items": [
     {
       "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 19:59:02 GMT",
+      "source": "bbc_sport",
+      "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        1
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 21:14:08 GMT",
+      "source": "bbc_sport",
+      "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 19:21:01 GMT",
+      "source": "bbc_sport",
+      "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        40
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 18:30:22 GMT",
+      "source": "bbc_sport",
+      "title": "'Officials can't use common sense' - was Rogers handball correct?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 18:32:27 GMT",
+      "source": "bbc_sport",
+      "title": "Williams-Barnett's talent bigger than performance - De Zerbi",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         411
       ],
       "published_at_raw": "Sat, 21 Nov 2026 15:34:35 GMT",
@@ -18,15 +63,6 @@
       "source": "bbc_sport",
       "title": "Jeers, injuries and doubters - White's journey back to the top",
       "url": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        423
-      ],
-      "published_at_raw": "Wed, 18 Nov 2026 20:25:40 GMT",
-      "source": "bbc_sport",
-      "title": "Hemp and Shaw star as Manchester City get vital win at Hacken",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c32l50p1yk8vo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -59,19 +95,28 @@
       "matched_player_ids": [
         469
       ],
-      "published_at_raw": "Sat, 21 Nov 2026 17:15:00 GMT",
+      "published_at_raw": "Sat, 21 Nov 2026 22:37:00 GMT",
       "source": "sky_sports",
-      "title": "Managerless Swans hit back twice to hold West Brom",
-      "url": "https://www.skysports.com/football/swansea-city-vs-west-bromwich-albion/report/560687"
+      "title": "Spurs latest: 'Williams-Barnett has to be given assist for my goal!' says Solanke",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
     },
     {
       "matched_player_ids": [
         469
       ],
-      "published_at_raw": "Sat, 21 Nov 2026 16:45:00 GMT",
+      "published_at_raw": "Sat, 21 Nov 2026 22:15:00 GMT",
       "source": "sky_sports",
-      "title": "Teenager Williams-Barnett scores and assists in Spurs' win over Ipswich",
-      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-ipswich-town/report/559553"
+      "title": "De Zerbi compares Williams-Barnett to Lamine Yamal - who is Spurs teen?",
+      "url": "https://www.skysports.com/football/news/12040/13615058/luca-williams-barnett-tottenham-boss-roberto-de-zerbi-compares-teenager-to-lamine-yamal-after-ipswich-heroics"
+    },
+    {
+      "matched_player_ids": [
+        1
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 20:33:00 GMT",
+      "source": "sky_sports",
+      "title": "Arsenal latest: Arteta gives update on Raya injury",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
     }
   ],
   "schema_version": 1,
@@ -80,5 +125,5 @@
     "sky_sports"
   ],
   "target_event": 12,
-  "updated_at": "2026-11-21T17:53:42Z"
+  "updated_at": "2026-11-21T22:51:08Z"
 }

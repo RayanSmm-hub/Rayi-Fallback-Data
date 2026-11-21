@@ -6167,8 +6167,138 @@
       "title": "Teenager Williams-Barnett scores and assists in Spurs' win over Ipswich",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/tottenham-hotspur-vs-ipswich-town/report/559553"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": null
+        },
+        "news": {
+          "after": "Shoulder injury - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-11-21T22:51:08Z",
+      "player_id": 1,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Raya"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": null
+        },
+        "news": {
+          "after": "Unspecified injury - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-11-21T22:51:08Z",
+      "player_id": 449,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Hall"
+    },
+    {
+      "detected_at": "2026-11-21T22:51:08Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 19:59:02 GMT",
+      "source": "bbc_sport",
+      "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-21T22:51:08Z",
+      "matched_player_ids": [
+        1
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 21:14:08 GMT",
+      "source": "bbc_sport",
+      "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-21T22:51:08Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 19:21:01 GMT",
+      "source": "bbc_sport",
+      "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-21T22:51:08Z",
+      "matched_player_ids": [
+        40
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 18:30:22 GMT",
+      "source": "bbc_sport",
+      "title": "'Officials can't use common sense' - was Rogers handball correct?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-21T22:51:08Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 18:32:27 GMT",
+      "source": "bbc_sport",
+      "title": "Williams-Barnett's talent bigger than performance - De Zerbi",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-21T22:51:08Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 22:37:00 GMT",
+      "source": "sky_sports",
+      "title": "Spurs latest: 'Williams-Barnett has to be given assist for my goal!' says Solanke",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+    },
+    {
+      "detected_at": "2026-11-21T22:51:08Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 22:15:00 GMT",
+      "source": "sky_sports",
+      "title": "De Zerbi compares Williams-Barnett to Lamine Yamal - who is Spurs teen?",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13615058/luca-williams-barnett-tottenham-boss-roberto-de-zerbi-compares-teenager-to-lamine-yamal-after-ipswich-heroics"
+    },
+    {
+      "detected_at": "2026-11-21T22:51:08Z",
+      "matched_player_ids": [
+        1
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 20:33:00 GMT",
+      "source": "sky_sports",
+      "title": "Arsenal latest: Arteta gives update on Raya injury",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-21T17:53:42Z"
+  "updated_at": "2026-11-21T22:51:08Z"
 }
