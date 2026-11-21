@@ -6092,8 +6092,83 @@
       "title": "Jeers, injuries and doubters - White's journey back to the top",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 75
+        },
+        "news": {
+          "after": "",
+          "before": "Hip injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-11-21T17:53:42Z",
+      "player_id": 388,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Guéhi"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 100,
+          "before": 75
+        },
+        "news": {
+          "after": "",
+          "before": "Ankle injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "a",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-11-21T17:53:42Z",
+      "player_id": 469,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "N.Williams"
+    },
+    {
+      "detected_at": "2026-11-21T17:53:42Z",
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 15:34:35 GMT",
+      "source": "bbc_sport",
+      "title": "'It's quite clear' - Maresca believes Haaland goal should have stood",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-21T17:53:42Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 17:15:00 GMT",
+      "source": "sky_sports",
+      "title": "Managerless Swans hit back twice to hold West Brom",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/swansea-city-vs-west-bromwich-albion/report/560687"
+    },
+    {
+      "detected_at": "2026-11-21T17:53:42Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 16:45:00 GMT",
+      "source": "sky_sports",
+      "title": "Teenager Williams-Barnett scores and assists in Spurs' win over Ipswich",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-ipswich-town/report/559553"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-21T10:43:08Z"
+  "updated_at": "2026-11-21T17:53:42Z"
 }

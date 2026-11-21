@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 15:34:35 GMT",
+      "source": "bbc_sport",
+      "title": "'It's quite clear' - Maresca believes Haaland goal should have stood",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         10
       ],
       "published_at_raw": "Sat, 21 Nov 2026 06:17:32 GMT",
@@ -23,15 +32,6 @@
       "matched_player_ids": [
         449
       ],
-      "published_at_raw": "Thu, 19 Nov 2026 23:57:54 GMT",
-      "source": "bbc_sport",
-      "title": "Arsenal 'have ingredients' but Europe's elite on another level",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
       "published_at_raw": "Thu, 19 Nov 2026 10:21:10 GMT",
       "source": "bbc_sport",
       "title": "Will Infantino feel he's already won as Fifa challengers confirmed?",
@@ -45,6 +45,33 @@
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Thu, 19 Nov 2026 23:57:54 GMT",
+      "source": "bbc_sport",
+      "title": "Arsenal 'have ingredients' but Europe's elite on another level",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 17:15:00 GMT",
+      "source": "sky_sports",
+      "title": "Managerless Swans hit back twice to hold West Brom",
+      "url": "https://www.skysports.com/football/swansea-city-vs-west-bromwich-albion/report/560687"
+    },
+    {
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 16:45:00 GMT",
+      "source": "sky_sports",
+      "title": "Teenager Williams-Barnett scores and assists in Spurs' win over Ipswich",
+      "url": "https://www.skysports.com/football/tottenham-hotspur-vs-ipswich-town/report/559553"
     }
   ],
   "schema_version": 1,
@@ -52,6 +79,6 @@
     "bbc_sport",
     "sky_sports"
   ],
-  "target_event": 11,
-  "updated_at": "2026-11-21T10:43:08Z"
+  "target_event": 12,
+  "updated_at": "2026-11-21T17:53:42Z"
 }
