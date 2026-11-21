@@ -3,21 +3,21 @@
   "items": [
     {
       "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 06:17:32 GMT",
+      "source": "bbc_sport",
+      "title": "Jeers, injuries and doubters - White's journey back to the top",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         423
       ],
       "published_at_raw": "Wed, 18 Nov 2026 20:25:40 GMT",
       "source": "bbc_sport",
       "title": "Hemp and Shaw star as Manchester City get vital win at Hacken",
       "url": "https://www.bbc.co.uk/sport/football/videos/c32l50p1yk8vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        397
-      ],
-      "published_at_raw": "Fri, 20 Nov 2026 11:12:35 GMT",
-      "source": "bbc_sport",
-      "title": "Fan found not guilty of racially abusing Semenyo",
-      "url": "https://www.bbc.co.uk/news/articles/c5y4jvg27j2po?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -45,24 +45,6 @@
       "source": "bbc_sport",
       "title": "Which game will Chelsea's Palmer miss after red card?",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Fri, 20 Nov 2026 20:00:00 GMT",
-      "source": "sky_sports",
-      "title": "Drones, data and Bruno - Pochettino on his early Man Utd challenges",
-      "url": "https://www.skysports.com/football/news/12040/13614363/mauricio-pochettino-manchester-united-head-coach-discusses-drone-footage-his-approach-to-data-and-bruno-fernandes-ahead-of-first-game"
-    },
-    {
-      "matched_player_ids": [
-        356
-      ],
-      "published_at_raw": "Fri, 20 Nov 2026 20:15:00 GMT",
-      "source": "sky_sports",
-      "title": "Van Dijk uncertain on Liverpool future",
-      "url": "https://www.skysports.com/football/news/12040/13614508/liverpool-virgil-van-dijk-uncertain-on-anfield-future-beyond-the-summer-but-believes-he-can-play-for-many-more-years"
     }
   ],
   "schema_version": 1,
@@ -71,5 +53,5 @@
     "sky_sports"
   ],
   "target_event": 11,
-  "updated_at": "2026-11-21T02:44:01Z"
+  "updated_at": "2026-11-21T10:43:08Z"
 }

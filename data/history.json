@@ -6081,8 +6081,19 @@
       "source": "official_fpl",
       "type": "player_state_change",
       "web_name": "Mbeumo"
+    },
+    {
+      "detected_at": "2026-11-21T10:43:08Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 06:17:32 GMT",
+      "source": "bbc_sport",
+      "title": "Jeers, injuries and doubters - White's journey back to the top",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-21T02:44:01Z"
+  "updated_at": "2026-11-21T10:43:08Z"
 }
