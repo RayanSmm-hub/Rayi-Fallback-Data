@@ -1,22 +1,6 @@
 {
   "events": [
     {
-      "detail": "Price 6.1 -> 6.2",
-      "detected_at": "2026-10-07T08:58:22Z",
-      "player_id": 229,
-      "source": "official_fpl_comparison",
-      "type": "price_recovered_from_gap",
-      "web_name": "Tarkowski"
-    },
-    {
-      "detail": "Price 7 -> 6.9",
-      "detected_at": "2026-10-07T08:58:22Z",
-      "player_id": 368,
-      "source": "official_fpl_comparison",
-      "type": "price_recovered_from_gap",
-      "web_name": "Szoboszlai"
-    },
-    {
       "changes": {
         "now_cost": {
           "after": 39,
@@ -6339,8 +6323,31 @@
       "title": "'Unbelievable' - how Spurs teenager Williams-Barnett impressed on first start",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-22T10:48:50Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 10:08:00 GMT",
+      "source": "sky_sports",
+      "title": "Jacks out of Australia T20 tour with broken hand",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/cricket/news/12040/13615179/will-jacks-set-to-miss-rest-of-englands-white-ball-tour-of-australia-after-breaking-hand-in-melbourne-t20i-defeat"
+    },
+    {
+      "detected_at": "2026-11-22T10:48:50Z",
+      "matched_player_ids": [
+        10,
+        449
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 03:57:00 GMT",
+      "source": "sky_sports",
+      "title": "CHAOS in celebrity Lego race ft Gordon Ramsay, Jack Whitehall and Terry Crews!",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13615095/las-vegas-gp-chaos-in-celebrity-lego-race-ft-gordon-ramsay-jack-whitehall-and-terry-crews"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-22T02:51:35Z"
+  "updated_at": "2026-11-22T10:48:50Z"
 }
