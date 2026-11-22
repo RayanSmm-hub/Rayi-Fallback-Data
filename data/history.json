@@ -1,38 +1,6 @@
 {
   "events": [
     {
-      "detail": "Available -> doubtful (75%); unspecified injury.",
-      "detected_at": "2026-10-05T09:30:09.853316Z",
-      "player_id": 31,
-      "source": "official_fpl",
-      "type": "availability_change",
-      "web_name": "Konsa"
-    },
-    {
-      "detail": "Price 5.8 -> 5.9",
-      "detected_at": "2026-10-07T08:58:22Z",
-      "player_id": 8,
-      "source": "official_fpl_comparison",
-      "type": "price_recovered_from_gap",
-      "web_name": "Calafiori"
-    },
-    {
-      "detail": "Price 9.5 -> 9.6",
-      "detected_at": "2026-10-07T08:58:22Z",
-      "player_id": 12,
-      "source": "official_fpl_comparison",
-      "type": "price_recovered_from_gap",
-      "web_name": "Saka"
-    },
-    {
-      "detail": "Price 7.7 -> 7.8",
-      "detected_at": "2026-10-07T08:58:22Z",
-      "player_id": 40,
-      "source": "official_fpl_comparison",
-      "type": "price_recovered_from_gap",
-      "web_name": "Rogers"
-    },
-    {
       "detail": "Price 6.1 -> 6.2",
       "detected_at": "2026-10-07T08:58:22Z",
       "player_id": 229,
@@ -6297,8 +6265,82 @@
       "title": "Arsenal latest: Arteta gives update on Raya injury",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 83,
+          "before": 82
+        }
+      },
+      "detected_at": "2026-11-22T02:51:35Z",
+      "player_id": 40,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Rogers"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 38,
+          "before": 39
+        }
+      },
+      "detected_at": "2026-11-22T02:51:35Z",
+      "player_id": 306,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Greaves"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 51,
+          "before": 50
+        }
+      },
+      "detected_at": "2026-11-22T02:51:35Z",
+      "player_id": 385,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Trafford"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 81,
+          "before": 82
+        }
+      },
+      "detected_at": "2026-11-22T02:51:35Z",
+      "player_id": 397,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Semenyo"
+    },
+    {
+      "detected_at": "2026-11-22T02:51:35Z",
+      "matched_player_ids": [
+        40
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 00:08:13 GMT",
+      "source": "bbc_sport",
+      "title": "I wish referee had opportunity to see 'handball' again - Hart",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-22T02:51:35Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 00:13:01 GMT",
+      "source": "bbc_sport",
+      "title": "'Unbelievable' - how Spurs teenager Williams-Barnett impressed on first start",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-21T22:51:08Z"
+  "updated_at": "2026-11-22T02:51:35Z"
 }
