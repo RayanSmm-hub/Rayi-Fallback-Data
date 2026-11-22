@@ -1,38 +1,6 @@
 {
   "events": [
     {
-      "detected_at": "2026-10-08T09:45:19Z",
-      "matched_player_ids": [
-        249
-      ],
-      "published_at_raw": "Thu, 08 Oct 2026 10:00:00 BST",
-      "source": "sky_sports",
-      "title": "'He was on the floor' - How Barry is overcoming his Everton struggles",
-      "type": "trusted_news_match",
-      "url": "https://www.skysports.com/football/news/12040/13595690/thierno-barrys-everton-revival-striker-hit-rock-bottom-last-season-but-is-working-hard-to-turn-his-toffees-career-around"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 0,
-          "before": 75
-        },
-        "news": {
-          "after": "Hamstring injury - Expected back 25 Oct",
-          "before": "Hamstring injury - 75% chance of playing"
-        },
-        "status": {
-          "after": "i",
-          "before": "d"
-        }
-      },
-      "detected_at": "2026-10-08T15:16:45Z",
-      "player_id": 552,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Brobbey"
-    },
-    {
       "detected_at": "2026-10-08T15:16:45Z",
       "matched_player_ids": [
         411
@@ -6354,8 +6322,30 @@
       "title": "Yoro sees red eight minutes into Poch's Man Utd reign",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13615331/off-l-yoro-8-liverpool-0-0-manchester-utd"
+    },
+    {
+      "detected_at": "2026-11-22T23:44:09Z",
+      "matched_player_ids": [
+        572
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 19:03:32 GMT",
+      "source": "bbc_sport",
+      "title": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-22T23:44:09Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 18:07:00 GMT",
+      "source": "sky_sports",
+      "title": "Camara to sacrifice F2 title bid to finish F1 season with Haas",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/f1/news/12040/13615376/rafael-camara-haas-confirm-brazilian-will-race-in-final-two-rounds-of-f1-season-rather-than-chase-f2-championship"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-22T18:16:32Z"
+  "updated_at": "2026-11-22T23:44:09Z"
 }
