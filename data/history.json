@@ -1,85 +1,6 @@
 {
   "events": [
     {
-      "changes": {
-        "now_cost": {
-          "after": 39,
-          "before": 40
-        }
-      },
-      "detected_at": "2026-10-08T01:14:14Z",
-      "player_id": 306,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Greaves"
-    },
-    {
-      "detected_at": "2026-10-08T09:45:19Z",
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Wed, 07 Oct 2026 19:24:19 GMT",
-      "source": "bbc_sport",
-      "title": "Ex-Spurs player Vega set to run for Fifa president",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c607397pjv37o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "detected_at": "2026-10-08T09:45:19Z",
-      "matched_player_ids": [
-        40
-      ],
-      "published_at_raw": "Wed, 07 Oct 2026 20:31:17 GMT",
-      "source": "bbc_sport",
-      "title": "'Amazing' Kane targets 100 international goals",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm75pwl3w2x7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "detected_at": "2026-10-08T09:45:19Z",
-      "matched_player_ids": [
-        249
-      ],
-      "published_at_raw": "Wed, 07 Oct 2026 17:42:30 GMT",
-      "source": "bbc_sport",
-      "title": "Barry-Murphy and Bellamy 'so similar' - Lawlor",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5y43n38z0ndo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "detected_at": "2026-10-08T09:45:19Z",
-      "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Wed, 07 Oct 2026 13:01:53 GMT",
-      "source": "bbc_sport",
-      "title": "How fans are falling in love with football again",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmp302xqx5yyo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "detected_at": "2026-10-08T09:45:19Z",
-      "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Wed, 07 Oct 2026 15:53:00 GMT",
-      "source": "bbc_sport",
-      "title": "BBC Women's Football Weekly",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/sounds/play/p0pfh6lh?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "detected_at": "2026-10-08T09:45:19Z",
-      "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Thu, 08 Oct 2026 09:00:00 BST",
-      "source": "sky_sports",
-      "title": "PL returns! Man City in spotlight, big Old Trafford showdown and Gyokeres' chance",
-      "type": "trusted_news_match",
-      "url": "https://www.skysports.com/football/news/12040/13595301/premier-league-talking-points-man-city-in-spotlight-with-trip-to-liverpool-man-utd-and-spurs-desperate-for-win-and-viktor-gyokeres-arsenal-chance"
-    },
-    {
       "detected_at": "2026-10-08T09:45:19Z",
       "matched_player_ids": [
         249
@@ -6346,8 +6267,95 @@
       "title": "CHAOS in celebrity Lego race ft Gordon Ramsay, Jack Whitehall and Terry Crews!",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13615095/las-vegas-gp-chaos-in-celebrity-lego-race-ft-gordon-ramsay-jack-whitehall-and-terry-crews"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": 100
+        },
+        "news": {
+          "after": "Calf injury - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-11-22T18:16:32Z",
+      "player_id": 367,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gakpo"
+    },
+    {
+      "detected_at": "2026-11-22T18:16:32Z",
+      "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 17:00:01 GMT",
+      "source": "bbc_sport",
+      "title": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-22T18:16:32Z",
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 17:54:36 GMT",
+      "source": "bbc_sport",
+      "title": "Spurs deny Man City top spot with statement win",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-22T18:16:32Z",
+      "matched_player_ids": [
+        572
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 17:18:07 GMT",
+      "source": "bbc_sport",
+      "title": "Jakirovic full of praise for Tzolakis performance",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqz0k335d0njo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-22T18:16:32Z",
+      "matched_player_ids": [
+        572
+      ],
+      "published_at_raw": "Fri, 20 Nov 2026 15:25:00 GMT",
+      "source": "sky_sports",
+      "title": "Hull City latest: Is goalkeeper Tzolakis destined for the top?",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
+    },
+    {
+      "detected_at": "2026-11-22T18:16:32Z",
+      "matched_player_ids": [
+        572
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 16:15:00 GMT",
+      "source": "sky_sports",
+      "title": "McBurnie's late double stuns 10-man Brighton after Tzolakis heroics",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/hull-city-vs-brighton-and-hove-albion/report/559549"
+    },
+    {
+      "detected_at": "2026-11-22T18:16:32Z",
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 16:45:00 GMT",
+      "source": "sky_sports",
+      "title": "Yoro sees red eight minutes into Poch's Man Utd reign",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13615331/off-l-yoro-8-liverpool-0-0-manchester-utd"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-22T10:48:50Z"
+  "updated_at": "2026-11-22T18:16:32Z"
 }

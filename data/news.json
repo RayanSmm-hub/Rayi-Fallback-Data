@@ -3,30 +3,48 @@
   "items": [
     {
       "matched_player_ids": [
+        385
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 17:00:01 GMT",
+      "source": "bbc_sport",
+      "title": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 17:54:36 GMT",
+      "source": "bbc_sport",
+      "title": "Spurs deny Man City top spot with statement win",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        572
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 17:18:07 GMT",
+      "source": "bbc_sport",
+      "title": "Jakirovic full of praise for Tzolakis performance",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqz0k335d0njo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        40
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 00:08:13 GMT",
+      "source": "bbc_sport",
+      "title": "I wish referee had opportunity to see 'handball' again - Hart",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         1
       ],
       "published_at_raw": "Sat, 21 Nov 2026 21:14:08 GMT",
       "source": "bbc_sport",
       "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        469
-      ],
-      "published_at_raw": "Sat, 21 Nov 2026 19:21:01 GMT",
-      "source": "bbc_sport",
-      "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        40
-      ],
-      "published_at_raw": "Sat, 21 Nov 2026 18:30:22 GMT",
-      "source": "bbc_sport",
-      "title": "'Officials can't use common sense' - was Rogers handball correct?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -41,10 +59,19 @@
       "matched_player_ids": [
         40
       ],
-      "published_at_raw": "Sun, 22 Nov 2026 00:08:13 GMT",
+      "published_at_raw": "Sat, 21 Nov 2026 18:30:22 GMT",
       "source": "bbc_sport",
-      "title": "I wish referee had opportunity to see 'handball' again - Hart",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss"
+      "title": "'Officials can't use common sense' - was Rogers handball correct?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Sat, 21 Nov 2026 19:21:01 GMT",
+      "source": "bbc_sport",
+      "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -54,33 +81,6 @@
       "source": "bbc_sport",
       "title": "'Unbelievable' - how Spurs teenager Williams-Barnett impressed on first start",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        469
-      ],
-      "published_at_raw": "Sat, 21 Nov 2026 18:32:27 GMT",
-      "source": "bbc_sport",
-      "title": "Williams-Barnett's talent bigger than performance - De Zerbi",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6wy4gg24vlno?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        411
-      ],
-      "published_at_raw": "Sat, 21 Nov 2026 15:34:35 GMT",
-      "source": "bbc_sport",
-      "title": "'It's quite clear' - Maresca believes Haaland goal should have stood",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Sat, 21 Nov 2026 06:17:32 GMT",
-      "source": "bbc_sport",
-      "title": "Jeers, injuries and doubters - White's journey back to the top",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -102,31 +102,30 @@
     },
     {
       "matched_player_ids": [
-        449
+        572
       ],
-      "published_at_raw": "Thu, 19 Nov 2026 23:57:54 GMT",
-      "source": "bbc_sport",
-      "title": "Arsenal 'have ingredients' but Europe's elite on another level",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss"
+      "published_at_raw": "Fri, 20 Nov 2026 15:25:00 GMT",
+      "source": "sky_sports",
+      "title": "Hull City latest: Is goalkeeper Tzolakis destined for the top?",
+      "url": "https://www.skysports.com/football/live-blog/12040/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights"
     },
     {
       "matched_player_ids": [
-        10
+        572
       ],
-      "published_at_raw": "Sun, 22 Nov 2026 10:08:00 GMT",
+      "published_at_raw": "Sun, 22 Nov 2026 16:15:00 GMT",
       "source": "sky_sports",
-      "title": "Jacks out of Australia T20 tour with broken hand",
-      "url": "https://www.skysports.com/cricket/news/12040/13615179/will-jacks-set-to-miss-rest-of-englands-white-ball-tour-of-australia-after-breaking-hand-in-melbourne-t20i-defeat"
+      "title": "McBurnie's late double stuns 10-man Brighton after Tzolakis heroics",
+      "url": "https://www.skysports.com/football/hull-city-vs-brighton-and-hove-albion/report/559549"
     },
     {
       "matched_player_ids": [
-        10,
-        449
+        379
       ],
-      "published_at_raw": "Sun, 22 Nov 2026 03:57:00 GMT",
+      "published_at_raw": "Sun, 22 Nov 2026 16:45:00 GMT",
       "source": "sky_sports",
-      "title": "CHAOS in celebrity Lego race ft Gordon Ramsay, Jack Whitehall and Terry Crews!",
-      "url": "https://www.skysports.com/watch/video/13615095/las-vegas-gp-chaos-in-celebrity-lego-race-ft-gordon-ramsay-jack-whitehall-and-terry-crews"
+      "title": "Yoro sees red eight minutes into Poch's Man Utd reign",
+      "url": "https://www.skysports.com/watch/video/13615331/off-l-yoro-8-liverpool-0-0-manchester-utd"
     }
   ],
   "schema_version": 1,
@@ -135,5 +134,5 @@
     "sky_sports"
   ],
   "target_event": 12,
-  "updated_at": "2026-11-22T10:48:50Z"
+  "updated_at": "2026-11-22T18:16:32Z"
 }
