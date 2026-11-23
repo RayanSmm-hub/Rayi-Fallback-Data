@@ -12,12 +12,12 @@
     },
     {
       "matched_player_ids": [
-        423
+        572
       ],
-      "published_at_raw": "Sun, 22 Nov 2026 17:54:36 GMT",
+      "published_at_raw": "Sun, 22 Nov 2026 23:59:57 GMT",
       "source": "bbc_sport",
-      "title": "Spurs deny Man City top spot with statement win",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss"
+      "title": "How 'outstanding' Tzolakis kept Brighton at bay",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -66,21 +66,21 @@
     },
     {
       "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 17:54:36 GMT",
+      "source": "bbc_sport",
+      "title": "Spurs deny Man City top spot with statement win",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         572
       ],
       "published_at_raw": "Sun, 22 Nov 2026 17:18:07 GMT",
       "source": "bbc_sport",
       "title": "Jakirovic full of praise for Tzolakis performance",
       "url": "https://www.bbc.co.uk/sport/football/videos/cqz0k335d0njo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        40
-      ],
-      "published_at_raw": "Sun, 22 Nov 2026 00:08:13 GMT",
-      "source": "bbc_sport",
-      "title": "I wish referee had opportunity to see 'handball' again - Hart",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -116,5 +116,5 @@
     "sky_sports"
   ],
   "target_event": 12,
-  "updated_at": "2026-11-22T23:44:09Z"
+  "updated_at": "2026-11-23T06:12:27Z"
 }

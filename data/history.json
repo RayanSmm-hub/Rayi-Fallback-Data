@@ -1,81 +1,6 @@
 {
   "events": [
     {
-      "detected_at": "2026-10-08T15:16:45Z",
-      "matched_player_ids": [
-        411
-      ],
-      "published_at_raw": "Thu, 08 Oct 2026 16:00:00 BST",
-      "source": "sky_sports",
-      "title": "'Stick together, enjoy the ride and smile' - Haaland's message to Man City fans",
-      "type": "trusted_news_match",
-      "url": "https://www.skysports.com/football/news/12040/13596522/man-city-charges-erling-haaland-encourages-clubs-fans-to-stay-positive-after-guilty-verdict"
-    },
-    {
-      "detected_at": "2026-10-08T20:45:49Z",
-      "matched_player_ids": [
-        411
-      ],
-      "published_at_raw": "Thu, 08 Oct 2026 16:00:00 BST",
-      "source": "sky_sports",
-      "title": "Haaland speaks for the first time following Man City's guilty verdict",
-      "type": "trusted_news_match",
-      "url": "https://www.skysports.com/watch/video/13596548/erling-haaland-sends-message-to-fans-following-man-city-guilty-verdict"
-    },
-    {
-      "detected_at": "2026-10-09T01:01:05Z",
-      "matched_player_ids": [
-        4
-      ],
-      "published_at_raw": "Thu, 08 Oct 2026 22:30:00 BST",
-      "source": "sky_sports",
-      "title": "Papers: Fee Man Utd could receive for wantaway JJ Gabriel revealed",
-      "type": "trusted_news_match",
-      "url": "https://www.skysports.com/football/news/12040/13596653/jj-gabriel-manchester-united-could-be-forced-to-accept-small-fee-for-wantaway-teen-paper-talk"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 100,
-          "before": 75
-        },
-        "news": {
-          "after": "",
-          "before": "Groin injury - 75% chance of playing"
-        },
-        "status": {
-          "after": "a",
-          "before": "d"
-        }
-      },
-      "detected_at": "2026-10-09T15:01:50Z",
-      "player_id": 10,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "White"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 100,
-          "before": 75
-        },
-        "news": {
-          "after": "",
-          "before": "Muscular injury - 75% chance of playing"
-        },
-        "status": {
-          "after": "a",
-          "before": "d"
-        }
-      },
-      "detected_at": "2026-10-09T15:01:50Z",
-      "player_id": 154,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Palmer"
-    },
-    {
       "changes": {
         "chance_of_playing_next_round": {
           "after": 100,
@@ -6344,8 +6269,71 @@
       "title": "Camara to sacrifice F2 title bid to finish F1 season with Haas",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/f1/news/12040/13615376/rafael-camara-haas-confirm-brazilian-will-race-in-final-two-rounds-of-f1-season-rather-than-chase-f2-championship"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 53,
+          "before": 54
+        }
+      },
+      "detected_at": "2026-11-23T06:12:27Z",
+      "player_id": 10,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "White"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 55,
+          "before": 56
+        }
+      },
+      "detected_at": "2026-11-23T06:12:27Z",
+      "player_id": 391,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gvardiol"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 78,
+          "before": 79
+        }
+      },
+      "detected_at": "2026-11-23T06:12:27Z",
+      "player_id": 399,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Cherki"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 48,
+          "before": 49
+        }
+      },
+      "detected_at": "2026-11-23T06:12:27Z",
+      "player_id": 469,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "N.Williams"
+    },
+    {
+      "detected_at": "2026-11-23T06:12:27Z",
+      "matched_player_ids": [
+        572
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 23:59:57 GMT",
+      "source": "bbc_sport",
+      "title": "How 'outstanding' Tzolakis kept Brighton at bay",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo?at_medium=RSS&at_campaign=rss"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-22T23:44:09Z"
+  "updated_at": "2026-11-23T06:12:27Z"
 }
