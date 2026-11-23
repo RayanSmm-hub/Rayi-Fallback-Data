@@ -3,21 +3,30 @@
   "items": [
     {
       "matched_player_ids": [
+        1
+      ],
+      "published_at_raw": "Mon, 23 Nov 2026 15:23:09 GMT",
+      "source": "bbc_sport",
+      "title": "Raya to miss Dortmund game but injury 'not serious'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        4
+      ],
+      "published_at_raw": "Mon, 23 Nov 2026 06:17:59 GMT",
+      "source": "bbc_sport",
+      "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         572
       ],
       "published_at_raw": "Sun, 22 Nov 2026 19:03:32 GMT",
       "source": "bbc_sport",
       "title": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm4gn7npqe8yo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        572
-      ],
-      "published_at_raw": "Sun, 22 Nov 2026 23:59:57 GMT",
-      "source": "bbc_sport",
-      "title": "How 'outstanding' Tzolakis kept Brighton at bay",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -30,39 +39,12 @@
     },
     {
       "matched_player_ids": [
-        469
+        572
       ],
-      "published_at_raw": "Sat, 21 Nov 2026 19:59:02 GMT",
+      "published_at_raw": "Sun, 22 Nov 2026 23:59:57 GMT",
       "source": "bbc_sport",
-      "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        1
-      ],
-      "published_at_raw": "Sat, 21 Nov 2026 21:14:08 GMT",
-      "source": "bbc_sport",
-      "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        469
-      ],
-      "published_at_raw": "Sat, 21 Nov 2026 19:21:01 GMT",
-      "source": "bbc_sport",
-      "title": "'The world got to see today' - Williams-Barnett announces himself as Spurs star",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm9d7jg50e12o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        40
-      ],
-      "published_at_raw": "Sat, 21 Nov 2026 18:30:22 GMT",
-      "source": "bbc_sport",
-      "title": "'Officials can't use common sense' - was Rogers handball correct?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c50md981n277o?at_medium=RSS&at_campaign=rss"
+      "title": "How 'outstanding' Tzolakis kept Brighton at bay",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -72,15 +54,6 @@
       "source": "bbc_sport",
       "title": "Spurs deny Man City top spot with statement win",
       "url": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        572
-      ],
-      "published_at_raw": "Sun, 22 Nov 2026 17:18:07 GMT",
-      "source": "bbc_sport",
-      "title": "Jakirovic full of praise for Tzolakis performance",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqz0k335d0njo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -102,12 +75,21 @@
     },
     {
       "matched_player_ids": [
-        449
+        469
       ],
-      "published_at_raw": "Sun, 22 Nov 2026 18:07:00 GMT",
+      "published_at_raw": "Mon, 23 Nov 2026 17:30:00 GMT",
       "source": "sky_sports",
-      "title": "Camara to sacrifice F2 title bid to finish F1 season with Haas",
-      "url": "https://www.skysports.com/f1/news/12040/13615376/rafael-camara-haas-confirm-brazilian-will-race-in-final-two-rounds-of-f1-season-rather-than-chase-f2-championship"
+      "title": "Transfer Centre LIVE! Williams-Barnett agrees long-term Spurs contract",
+      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours"
+    },
+    {
+      "matched_player_ids": [
+        1
+      ],
+      "published_at_raw": "Mon, 23 Nov 2026 14:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Raya injury 'not too serious' says relieved Arteta",
+      "url": "https://www.skysports.com/football/news/12040/13615438/david-raya-injury-arsenal-goalkeeper-avoids-surgery-and-blow-is-not-as-bad-as-first-feared-says-mikel-arteta"
     }
   ],
   "schema_version": 1,
@@ -116,5 +98,5 @@
     "sky_sports"
   ],
   "target_event": 12,
-  "updated_at": "2026-11-23T06:12:27Z"
+  "updated_at": "2026-11-23T18:38:00Z"
 }

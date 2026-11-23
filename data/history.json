@@ -1,101 +1,6 @@
 {
   "events": [
     {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 100,
-          "before": 75
-        },
-        "news": {
-          "after": "",
-          "before": "Knee injury - 75% chance of playing"
-        },
-        "status": {
-          "after": "a",
-          "before": "d"
-        }
-      },
-      "detected_at": "2026-10-09T15:01:50Z",
-      "player_id": 165,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "João Pedro"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 0,
-          "before": 75
-        },
-        "news": {
-          "after": "Ankle injury - Unknown return date",
-          "before": "Ankle injury - 75% chance of playing"
-        },
-        "status": {
-          "after": "i",
-          "before": "d"
-        }
-      },
-      "detected_at": "2026-10-09T15:01:50Z",
-      "player_id": 367,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Gakpo"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 0,
-          "before": 75
-        },
-        "news": {
-          "after": "Thigh injury - Unknown return date",
-          "before": "Thigh injury - 75% chance of playing"
-        },
-        "status": {
-          "after": "i",
-          "before": "d"
-        }
-      },
-      "detected_at": "2026-10-09T15:01:50Z",
-      "player_id": 379,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Isak"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 50,
-          "before": null
-        },
-        "news": {
-          "after": "Illness - 50% chance of playing",
-          "before": ""
-        },
-        "status": {
-          "after": "d",
-          "before": "a"
-        }
-      },
-      "detected_at": "2026-10-09T15:01:50Z",
-      "player_id": 469,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "N.Williams"
-    },
-    {
-      "detected_at": "2026-10-09T15:01:50Z",
-      "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Fri, 09 Oct 2026 07:57:23 GMT",
-      "source": "bbc_sport",
-      "title": "Is £70m Baleba ready for his Man Utd exam?",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck054p2lyeplo?at_medium=RSS&at_campaign=rss"
-    },
-    {
       "detected_at": "2026-10-09T15:01:50Z",
       "matched_player_ids": [
         26,
@@ -6332,8 +6237,69 @@
       "title": "How 'outstanding' Tzolakis kept Brighton at bay",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 50,
+          "before": 75
+        },
+        "news": {
+          "after": "Shoulder injury - 50% chance of playing",
+          "before": "Shoulder injury - 75% chance of playing"
+        }
+      },
+      "detected_at": "2026-11-23T18:38:00Z",
+      "player_id": 1,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Raya"
+    },
+    {
+      "detected_at": "2026-11-23T18:38:00Z",
+      "matched_player_ids": [
+        1
+      ],
+      "published_at_raw": "Mon, 23 Nov 2026 15:23:09 GMT",
+      "source": "bbc_sport",
+      "title": "Raya to miss Dortmund game but injury 'not serious'",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjx2rqpr7l9lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-23T18:38:00Z",
+      "matched_player_ids": [
+        4
+      ],
+      "published_at_raw": "Mon, 23 Nov 2026 06:17:59 GMT",
+      "source": "bbc_sport",
+      "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-23T18:38:00Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Mon, 23 Nov 2026 17:30:00 GMT",
+      "source": "sky_sports",
+      "title": "Transfer Centre LIVE! Williams-Barnett agrees long-term Spurs contract",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/live-blog/12040/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours"
+    },
+    {
+      "detected_at": "2026-11-23T18:38:00Z",
+      "matched_player_ids": [
+        1
+      ],
+      "published_at_raw": "Mon, 23 Nov 2026 14:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Raya injury 'not too serious' says relieved Arteta",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13615438/david-raya-injury-arsenal-goalkeeper-avoids-surgery-and-blow-is-not-as-bad-as-first-feared-says-mikel-arteta"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-23T06:12:27Z"
+  "updated_at": "2026-11-23T18:38:00Z"
 }
