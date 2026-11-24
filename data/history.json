@@ -1,108 +1,6 @@
 {
   "events": [
     {
-      "detected_at": "2026-10-09T15:01:50Z",
-      "matched_player_ids": [
-        26,
-        31
-      ],
-      "published_at_raw": "Fri, 09 Oct 2026 14:15:00 BST",
-      "source": "sky_sports",
-      "title": "Arsenal latest: Arteta gives Tzolis, Havertz, Konsa, Rice injury updates",
-      "type": "trusted_news_match",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-    },
-    {
-      "detected_at": "2026-10-09T20:14:30Z",
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Fri, 09 Oct 2026 17:00:00 BST",
-      "source": "sky_sports",
-      "title": "Chicago Bears legend and NFL Hall of Famer Mike Ditka dies, aged 86",
-      "type": "trusted_news_match",
-      "url": "https://www.skysports.com/nfl/live-blog/12040/13572639/nfl-news-trades-injuries-and-rumours-latest-updates-and-highlights-from-2026-pre-season-regular-season-playoffs-and-super-bowl"
-    },
-    {
-      "changes": {
-        "now_cost": {
-          "after": 54,
-          "before": 55
-        }
-      },
-      "detected_at": "2026-10-10T00:12:53Z",
-      "player_id": 10,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "White"
-    },
-    {
-      "changes": {
-        "now_cost": {
-          "after": 61,
-          "before": 60
-        }
-      },
-      "detected_at": "2026-10-10T00:12:53Z",
-      "player_id": 569,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Gonzalo"
-    },
-    {
-      "detected_at": "2026-10-10T00:12:53Z",
-      "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Fri, 09 Oct 2026 21:00:00 BST",
-      "source": "sky_sports",
-      "title": "White: Fury-AJ will be most lucrative gate in British boxing history",
-      "type": "trusted_news_match",
-      "url": "https://www.skysports.com/boxing/news/12040/13596848/fury-vs-joshua-will-draw-the-most-lucrative-gate-in-british-boxing-history-says-dana-white"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 100,
-          "before": 75
-        },
-        "news": {
-          "after": "",
-          "before": "Hamstring injury - 75% chance of playing"
-        },
-        "status": {
-          "after": "a",
-          "before": "d"
-        }
-      },
-      "detected_at": "2026-10-10T12:53:27Z",
-      "player_id": 26,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Havertz"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 100,
-          "before": 75
-        },
-        "news": {
-          "after": "",
-          "before": "Unspecified injury - 75% chance of playing"
-        },
-        "status": {
-          "after": "a",
-          "before": "d"
-        }
-      },
-      "detected_at": "2026-10-10T12:53:27Z",
-      "player_id": 31,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Konsa"
-    },
-    {
       "detected_at": "2026-10-10T12:53:27Z",
       "matched_player_ids": [
         154
@@ -6298,8 +6196,98 @@
       "title": "Raya injury 'not too serious' says relieved Arteta",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13615438/david-raya-injury-arsenal-goalkeeper-avoids-surgery-and-blow-is-not-as-bad-as-first-feared-says-mikel-arteta"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 68,
+          "before": 67
+        }
+      },
+      "detected_at": "2026-11-24T04:12:19Z",
+      "player_id": 68,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Tavernier"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 0,
+          "before": null
+        },
+        "news": {
+          "after": "Suspended until 13 Dec",
+          "before": ""
+        },
+        "status": {
+          "after": "s",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-11-24T04:12:19Z",
+      "player_id": 229,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Tarkowski"
+    },
+    {
+      "detected_at": "2026-11-24T04:12:19Z",
+      "matched_player_ids": [
+        229
+      ],
+      "published_at_raw": "Mon, 23 Nov 2026 22:43:39 GMT",
+      "source": "bbc_sport",
+      "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-24T04:12:19Z",
+      "matched_player_ids": [
+        98
+      ],
+      "published_at_raw": "Mon, 23 Nov 2026 22:31:27 GMT",
+      "source": "bbc_sport",
+      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-24T04:12:19Z",
+      "matched_player_ids": [
+        229,
+        449
+      ],
+      "published_at_raw": "Mon, 23 Nov 2026 22:54:51 GMT",
+      "source": "bbc_sport",
+      "title": "Moyes questions Tarkowski red in Brentford loss",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-24T04:12:19Z",
+      "matched_player_ids": [
+        98
+      ],
+      "published_at_raw": "Mon, 23 Nov 2026 21:41:00 GMT",
+      "source": "sky_sports",
+      "title": "WHAT A STRIKE! Janelt rifles rocket for Brentford’s third",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13615825/goal-v-janelt-67-brentford-3-0-everton"
+    },
+    {
+      "detected_at": "2026-11-24T04:12:19Z",
+      "matched_player_ids": [
+        229
+      ],
+      "published_at_raw": "Mon, 23 Nov 2026 20:46:00 GMT",
+      "source": "sky_sports",
+      "title": "RED CARD! VAR controversy as Tarkowski sent off after review",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13615787/off-j-tarkowski-40-brentford-2-0-everton"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-23T18:38:00Z"
+  "updated_at": "2026-11-24T04:12:19Z"
 }
