@@ -1,41 +1,6 @@
 {
   "events": [
     {
-      "detected_at": "2026-10-10T21:16:13Z",
-      "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Sat, 10 Oct 2026 19:30:00 BST",
-      "source": "sky_sports",
-      "title": "Ten-man Spurs claim dramatic draw at Old Trafford as Man Utd booed off",
-      "type": "trusted_news_match",
-      "url": "https://www.skysports.com/football/manchester-united-vs-tottenham-hotspur/report/559502"
-    },
-    {
-      "detected_at": "2026-10-10T21:16:13Z",
-      "matched_player_ids": [
-        385
-      ],
-      "published_at_raw": "Sat, 10 Oct 2026 18:45:00 BST",
-      "source": "sky_sports",
-      "title": "Man Utd fans take aim at Man City with return of famous ticker banner",
-      "type": "trusted_news_match",
-      "url": "https://www.skysports.com/football/news/12040/13597523/man-city-charges-manchester-united-fans-take-aim-at-rivals-with-return-of-famous-ticker-banner"
-    },
-    {
-      "changes": {
-        "now_cost": {
-          "after": 79,
-          "before": 80
-        }
-      },
-      "detected_at": "2026-10-11T00:20:40Z",
-      "player_id": 4,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Gabriel"
-    },
-    {
       "changes": {
         "now_cost": {
           "after": 75,
@@ -6287,8 +6252,41 @@
       "title": "'You question everything' - Haaland lays City's frustrations bare",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13616226/erling-haaland-frustrated-with-manchester-city-form-when-you-dont-win-you-question-everything"
+    },
+    {
+      "detected_at": "2026-11-25T08:58:50Z",
+      "matched_player_ids": [
+        4
+      ],
+      "published_at_raw": "Mon, 23 Nov 2026 06:17:59 GMT",
+      "source": "bbc_sport",
+      "title": "One of football's most-hyped 16-year-olds - what next for JJ Gabriel?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6p9dym309nxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-25T08:58:50Z",
+      "matched_player_ids": [
+        368
+      ],
+      "published_at_raw": "Tue, 24 Nov 2026 19:43:00 GMT",
+      "source": "sky_sports",
+      "title": "Man Utd latest: Should Szoboszlai's goal have stood? Vote!",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+    },
+    {
+      "detected_at": "2026-11-25T08:58:50Z",
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Wed, 25 Nov 2026 07:47:00 GMT",
+      "source": "sky_sports",
+      "title": "‘OH NO!’ – George drops player with filthy ankle-breaker!",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13616288/paul-george-drops-kyshawn-george-with-filthy-ankle-breaker-before-draining-jumper"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-25T00:00:29Z"
+  "updated_at": "2026-11-25T08:58:50Z"
 }
