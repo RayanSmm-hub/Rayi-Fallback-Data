@@ -5,50 +5,6 @@
       "matched_player_ids": [
         385
       ],
-      "published_at_raw": "Sat, 10 Oct 2026 19:24:23 GMT",
-      "source": "bbc_sport",
-      "title": "Solanke scores in added time as 10-man Spurs draw with Man Utd",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/sport/football/videos/crz9zdl0g04zo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "detected_at": "2026-10-10T21:16:13Z",
-      "matched_player_ids": [
-        423
-      ],
-      "published_at_raw": "Sat, 10 Oct 2026 18:46:40 GMT",
-      "source": "bbc_sport",
-      "title": "Tottenham grab a draw but who got 1/10 - Ratings for Man Utd v Spurs",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr86z32ezel9o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "detected_at": "2026-10-10T21:16:13Z",
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Sat, 10 Oct 2026 20:03:56 GMT",
-      "source": "bbc_sport",
-      "title": "'Reminds me of Muller' - Naderi proving worth in Rangers revival",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqzjx3z4ljr0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "detected_at": "2026-10-10T21:16:13Z",
-      "matched_player_ids": [
-        306
-      ],
-      "published_at_raw": "Sat, 10 Oct 2026 20:15:00 BST",
-      "source": "sky_sports",
-      "title": "Sherrock, Hayter qualify for Worlds as Greaves sweeps up on Women's Series",
-      "type": "trusted_news_match",
-      "url": "https://www.skysports.com/darts/news/12040/13597546/pdc-womens-series-fallon-sherrock-and-gemma-hayter-qualify-for-world-championship-as-beau-greaves-sweeps-up-with-events-21-22-in-wigan"
-    },
-    {
-      "detected_at": "2026-10-10T21:16:13Z",
-      "matched_player_ids": [
-        385
-      ],
       "published_at_raw": "Sat, 10 Oct 2026 19:30:00 BST",
       "source": "sky_sports",
       "title": "Ten-man Spurs claim dramatic draw at Old Trafford as Man Utd booed off",
@@ -6286,8 +6242,53 @@
       "title": "Commanders upset Burrow's Bengals after last-second winner",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/nfl/news/12040/13615867/nfl-washington-commanders-beat-joe-burrows-cincinnati-bengals-in-upset-after-last-second-field-goal-from-drew-stevens"
+    },
+    {
+      "detected_at": "2026-11-25T00:00:29Z",
+      "matched_player_ids": [
+        368
+      ],
+      "published_at_raw": "Tue, 24 Nov 2026 21:50:00 GMT",
+      "source": "sky_sports",
+      "title": "Poch fumes at Yoro red and thinks Szoboszlai goal shouldn't have stood",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13616134/mauricio-pochettino-man-utd-boss-fumes-at-var-in-liverpool-loss-over-leny-yoro-and-dominik-szoboszlai-calls"
+    },
+    {
+      "detected_at": "2026-11-25T00:00:29Z",
+      "matched_player_ids": [
+        1,
+        399
+      ],
+      "published_at_raw": "Tue, 24 Nov 2026 12:09:00 GMT",
+      "source": "sky_sports",
+      "title": "Cherki salvages draw with Napoli but Man City frustrate",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/manchester-city-vs-napoli/report/577674"
+    },
+    {
+      "detected_at": "2026-11-25T00:00:29Z",
+      "matched_player_ids": [
+        368
+      ],
+      "published_at_raw": "Tue, 24 Nov 2026 22:18:00 GMT",
+      "source": "sky_sports",
+      "title": "Poch cites Eze as he questions Barcola role in Szoboszlai goal - is he right?",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13616207/mauricio-pochettino-questions-bradley-barcola-impact-on-dominik-szoboszlai-goal-and-makes-eberechi-eze-comparison"
+    },
+    {
+      "detected_at": "2026-11-25T00:00:29Z",
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Tue, 24 Nov 2026 22:51:00 GMT",
+      "source": "sky_sports",
+      "title": "'You question everything' - Haaland lays City's frustrations bare",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13616226/erling-haaland-frustrated-with-manchester-city-form-when-you-dont-win-you-question-everything"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-24T15:08:17Z"
+  "updated_at": "2026-11-25T00:00:29Z"
 }
