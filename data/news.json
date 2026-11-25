@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Wed, 25 Nov 2026 11:32:28 GMT",
+      "source": "bbc_sport",
+      "title": "Lincoln sack head coach duo Cohen and Shaw after only six months",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         469
       ],
       "published_at_raw": "Tue, 24 Nov 2026 09:10:34 GMT",
@@ -31,15 +40,6 @@
     },
     {
       "matched_player_ids": [
-        469
-      ],
-      "published_at_raw": "Tue, 24 Nov 2026 08:50:17 GMT",
-      "source": "bbc_sport",
-      "title": "Barnet forward Noel-Williams charged with rape",
-      "url": "https://www.bbc.co.uk/news/articles/c8dx1v361vw7o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         4
       ],
       "published_at_raw": "Mon, 23 Nov 2026 06:17:59 GMT",
@@ -58,58 +58,40 @@
     },
     {
       "matched_player_ids": [
-        154
+        449
       ],
-      "published_at_raw": "Mon, 26 Oct 2026 14:12:43 GMT",
-      "source": "bbc_sport",
-      "title": "Which game will Chelsea's Palmer miss after red card?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&at_campaign=rss"
+      "published_at_raw": "Wed, 25 Nov 2026 17:00:00 GMT",
+      "source": "sky_sports",
+      "title": "'Triumph over trauma' - new women's boxing promotion begins",
+      "url": "https://www.skysports.com/boxing/news/12040/13616397/fight-back-promotions-a-new-venture-to-support-women-affected-by-domestic-violence-begins-its-triumph-over-trauma"
+    },
+    {
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Wed, 25 Nov 2026 16:17:00 GMT",
+      "source": "sky_sports",
+      "title": "Williams handed penalties after minor breach of cost cap",
+      "url": "https://www.skysports.com/f1/news/12040/13616434/williams-in-minor-breach-of-f1-cost-cap-and-take-financial-and-wind-tunnel-time-penalties"
     },
     {
       "matched_player_ids": [
         368
       ],
-      "published_at_raw": "Tue, 24 Nov 2026 19:43:00 GMT",
+      "published_at_raw": "Wed, 25 Nov 2026 15:15:00 GMT",
       "source": "sky_sports",
-      "title": "Man Utd latest: Should Szoboszlai's goal have stood? Vote!",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      "title": "Why wasn't Szoboszlai's free-kick ruled out vs Man Utd?",
+      "url": "https://www.skysports.com/football/news/12040/13616388/dominik-szoboszlai-free-kick-for-liverpool-vs-man-utd-reveals-grey-area-as-mauricio-pochettino-questions-decision"
     },
     {
       "matched_player_ids": [
-        423
+        379,
+        411
       ],
-      "published_at_raw": "Wed, 25 Nov 2026 07:47:00 GMT",
+      "published_at_raw": "Wed, 25 Nov 2026 16:00:00 GMT",
       "source": "sky_sports",
-      "title": "‘OH NO!’ – George drops player with filthy ankle-breaker!",
-      "url": "https://www.skysports.com/watch/video/13616288/paul-george-drops-kyshawn-george-with-filthy-ankle-breaker-before-draining-jumper"
-    },
-    {
-      "matched_player_ids": [
-        368
-      ],
-      "published_at_raw": "Tue, 24 Nov 2026 21:50:00 GMT",
-      "source": "sky_sports",
-      "title": "Poch fumes at Yoro red and thinks Szoboszlai goal shouldn't have stood",
-      "url": "https://www.skysports.com/football/news/12040/13616134/mauricio-pochettino-man-utd-boss-fumes-at-var-in-liverpool-loss-over-leny-yoro-and-dominik-szoboszlai-calls"
-    },
-    {
-      "matched_player_ids": [
-        1,
-        399
-      ],
-      "published_at_raw": "Tue, 24 Nov 2026 12:09:00 GMT",
-      "source": "sky_sports",
-      "title": "Cherki salvages draw with Napoli but Man City frustrate",
-      "url": "https://www.skysports.com/football/manchester-city-vs-napoli/report/577674"
-    },
-    {
-      "matched_player_ids": [
-        368
-      ],
-      "published_at_raw": "Tue, 24 Nov 2026 22:18:00 GMT",
-      "source": "sky_sports",
-      "title": "Poch cites Eze as he questions Barcola role in Szoboszlai goal - is he right?",
-      "url": "https://www.skysports.com/watch/video/13616207/mauricio-pochettino-questions-bradley-barcola-impact-on-dominik-szoboszlai-goal-and-makes-eberechi-eze-comparison"
+      "title": "Why do teams mark man-to-man? Watch Affengruber's masterclass against Haaland",
+      "url": "https://www.skysports.com/football/news/12040/13616072/david-affengruber-masterclass-against-erling-haaland-showed-why-man-to-man-marking-is-popular-in-premier-league"
     }
   ],
   "schema_version": 1,
@@ -118,5 +100,5 @@
     "sky_sports"
   ],
   "target_event": 12,
-  "updated_at": "2026-11-25T08:58:50Z"
+  "updated_at": "2026-11-25T19:07:13Z"
 }

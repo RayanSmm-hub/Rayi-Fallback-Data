@@ -2,98 +2,6 @@
   "events": [
     {
       "changes": {
-        "now_cost": {
-          "after": 75,
-          "before": 76
-        }
-      },
-      "detected_at": "2026-10-11T00:20:40Z",
-      "player_id": 26,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Havertz"
-    },
-    {
-      "changes": {
-        "now_cost": {
-          "after": 90,
-          "before": 91
-        }
-      },
-      "detected_at": "2026-10-11T00:20:40Z",
-      "player_id": 379,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Isak"
-    },
-    {
-      "changes": {
-        "now_cost": {
-          "after": 58,
-          "before": 57
-        }
-      },
-      "detected_at": "2026-10-11T00:20:40Z",
-      "player_id": 391,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Gvardiol"
-    },
-    {
-      "detected_at": "2026-10-11T00:20:40Z",
-      "matched_player_ids": [
-        4
-      ],
-      "published_at_raw": "Sat, 10 Oct 2026 22:01:20 GMT",
-      "source": "bbc_sport",
-      "title": "AC Milan keen on Scott - Sunday's gossip",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rp2r516po?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 100,
-          "before": 50
-        },
-        "news": {
-          "after": "",
-          "before": "Illness - 50% chance of playing"
-        },
-        "status": {
-          "after": "a",
-          "before": "d"
-        }
-      },
-      "detected_at": "2026-10-11T13:17:21Z",
-      "player_id": 469,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "N.Williams"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 75,
-          "before": null
-        },
-        "news": {
-          "after": "Hamstring injury - 75% chance of playing",
-          "before": ""
-        },
-        "status": {
-          "after": "d",
-          "before": "a"
-        }
-      },
-      "detected_at": "2026-10-11T18:19:08Z",
-      "player_id": 368,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Szoboszlai"
-    },
-    {
-      "changes": {
         "chance_of_playing_next_round": {
           "after": 100,
           "before": 75
@@ -6285,8 +6193,85 @@
       "title": "‘OH NO!’ – George drops player with filthy ankle-breaker!",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13616288/paul-george-drops-kyshawn-george-with-filthy-ankle-breaker-before-draining-jumper"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 0,
+          "before": 75
+        },
+        "news": {
+          "after": "Calf injury - Expected back 2 Dec",
+          "before": "Calf injury - 75% chance of playing"
+        },
+        "status": {
+          "after": "i",
+          "before": "d"
+        }
+      },
+      "detected_at": "2026-11-25T19:07:13Z",
+      "player_id": 367,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gakpo"
+    },
+    {
+      "detected_at": "2026-11-25T19:07:13Z",
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Wed, 25 Nov 2026 11:32:28 GMT",
+      "source": "bbc_sport",
+      "title": "Lincoln sack head coach duo Cohen and Shaw after only six months",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-25T19:07:13Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Wed, 25 Nov 2026 17:00:00 GMT",
+      "source": "sky_sports",
+      "title": "'Triumph over trauma' - new women's boxing promotion begins",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/boxing/news/12040/13616397/fight-back-promotions-a-new-venture-to-support-women-affected-by-domestic-violence-begins-its-triumph-over-trauma"
+    },
+    {
+      "detected_at": "2026-11-25T19:07:13Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Wed, 25 Nov 2026 16:17:00 GMT",
+      "source": "sky_sports",
+      "title": "Williams handed penalties after minor breach of cost cap",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/f1/news/12040/13616434/williams-in-minor-breach-of-f1-cost-cap-and-take-financial-and-wind-tunnel-time-penalties"
+    },
+    {
+      "detected_at": "2026-11-25T19:07:13Z",
+      "matched_player_ids": [
+        368
+      ],
+      "published_at_raw": "Wed, 25 Nov 2026 15:15:00 GMT",
+      "source": "sky_sports",
+      "title": "Why wasn't Szoboszlai's free-kick ruled out vs Man Utd?",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13616388/dominik-szoboszlai-free-kick-for-liverpool-vs-man-utd-reveals-grey-area-as-mauricio-pochettino-questions-decision"
+    },
+    {
+      "detected_at": "2026-11-25T19:07:13Z",
+      "matched_player_ids": [
+        379,
+        411
+      ],
+      "published_at_raw": "Wed, 25 Nov 2026 16:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Why do teams mark man-to-man? Watch Affengruber's masterclass against Haaland",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13616072/david-affengruber-masterclass-against-erling-haaland-showed-why-man-to-man-marking-is-popular-in-premier-league"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-25T08:58:50Z"
+  "updated_at": "2026-11-25T19:07:13Z"
 }
