@@ -3,6 +3,52 @@
   "items": [
     {
       "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Wed, 25 Nov 2026 23:25:30 GMT",
+      "source": "bbc_sport",
+      "title": "'All coming together' - Isak repaying Liverpool faith",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        412
+      ],
+      "published_at_raw": "Wed, 25 Nov 2026 22:32:51 GMT",
+      "source": "bbc_sport",
+      "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Wed, 25 Nov 2026 22:12:19 GMT",
+      "source": "bbc_sport",
+      "title": "Isak scores twice as clinical Liverpool beat Brugge",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        379
+      ],
+      "published_at_raw": "Wed, 25 Nov 2026 23:38:42 GMT",
+      "source": "bbc_sport",
+      "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        1,
+        399
+      ],
+      "published_at_raw": "Wed, 25 Nov 2026 22:05:49 GMT",
+      "source": "bbc_sport",
+      "title": "Cherki rescues point for Man City against Napoli",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xwygqg9do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         423
       ],
       "published_at_raw": "Wed, 25 Nov 2026 11:32:28 GMT",
@@ -58,6 +104,24 @@
     },
     {
       "matched_player_ids": [
+        412
+      ],
+      "published_at_raw": "Wed, 25 Nov 2026 23:10:00 GMT",
+      "source": "sky_sports",
+      "title": "Carra: Lammens confidence worrying but Poch will feel Man Utd were robbed",
+      "url": "https://www.skysports.com/football/news/12040/13616618/man-utd-goalkeeper-senne-lammens-criticised-for-howler-in-sporting-draw-by-jamie-carragher"
+    },
+    {
+      "matched_player_ids": [
+        412
+      ],
+      "published_at_raw": "Wed, 25 Nov 2026 22:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Poch denied first Man Utd win by Lammens howler at Sporting",
+      "url": "https://www.skysports.com/football/sporting-lisbon-vs-manchester-united/report/577686"
+    },
+    {
+      "matched_player_ids": [
         449
       ],
       "published_at_raw": "Wed, 25 Nov 2026 17:00:00 GMT",
@@ -76,22 +140,12 @@
     },
     {
       "matched_player_ids": [
-        368
+        379
       ],
-      "published_at_raw": "Wed, 25 Nov 2026 15:15:00 GMT",
+      "published_at_raw": "Wed, 25 Nov 2026 21:50:00 GMT",
       "source": "sky_sports",
-      "title": "Why wasn't Szoboszlai's free-kick ruled out vs Man Utd?",
-      "url": "https://www.skysports.com/football/news/12040/13616388/dominik-szoboszlai-free-kick-for-liverpool-vs-man-utd-reveals-grey-area-as-mauricio-pochettino-questions-decision"
-    },
-    {
-      "matched_player_ids": [
-        379,
-        411
-      ],
-      "published_at_raw": "Wed, 25 Nov 2026 16:00:00 GMT",
-      "source": "sky_sports",
-      "title": "Why do teams mark man-to-man? Watch Affengruber's masterclass against Haaland",
-      "url": "https://www.skysports.com/football/news/12040/13616072/david-affengruber-masterclass-against-erling-haaland-showed-why-man-to-man-marking-is-popular-in-premier-league"
+      "title": "Isak and Wirtz power Liverpool to easy victory at Club Brugge",
+      "url": "https://www.skysports.com/football/club-brugge-vs-liverpool/report/577679"
     }
   ],
   "schema_version": 1,
@@ -100,5 +154,5 @@
     "sky_sports"
   ],
   "target_event": 12,
-  "updated_at": "2026-11-25T19:07:13Z"
+  "updated_at": "2026-11-26T02:22:48Z"
 }
