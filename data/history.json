@@ -1,49 +1,6 @@
 {
   "events": [
     {
-      "detected_at": "2026-10-12T18:41:19Z",
-      "matched_player_ids": [
-        10
-      ],
-      "published_at_raw": "Mon, 12 Oct 2026 14:30:00 BST",
-      "source": "sky_sports",
-      "title": "How Pietersen could impact England's Ashes batters",
-      "type": "trusted_news_match",
-      "url": "https://www.skysports.com/cricket/news/12040/13598202/kevin-pietersen-set-to-stay-white-ball-only-mentor-for-england-but-could-still-impact-ashes-batters-says-rob-key"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 75,
-          "before": 100
-        },
-        "news": {
-          "after": "Unspecified injury - 75% chance of playing",
-          "before": ""
-        },
-        "status": {
-          "after": "d",
-          "before": "a"
-        }
-      },
-      "detected_at": "2026-10-13T01:08:27Z",
-      "player_id": 423,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Shaw"
-    },
-    {
-      "detected_at": "2026-10-13T01:08:27Z",
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Mon, 12 Oct 2026 20:14:00 BST",
-      "source": "sky_sports",
-      "title": "'A complete MESS!' - Rudoni gives Coventry lead from spot after Hornicek slow to challenge",
-      "type": "trusted_news_match",
-      "url": "https://www.skysports.com/watch/video/13598307/goal-j-rudoni-6-pen-coventry-1-0-newcastle"
-    },
-    {
       "detected_at": "2026-10-13T01:08:27Z",
       "matched_player_ids": [
         411
@@ -6265,8 +6222,41 @@
       "title": "Isak and Wirtz power Liverpool to easy victory at Club Brugge",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/club-brugge-vs-liverpool/report/577679"
+    },
+    {
+      "detected_at": "2026-11-26T20:25:12Z",
+      "matched_player_ids": [
+        412
+      ],
+      "published_at_raw": "Thu, 26 Nov 2026 14:56:30 GMT",
+      "source": "bbc_sport",
+      "title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-26T20:25:12Z",
+      "matched_player_ids": [
+        346
+      ],
+      "published_at_raw": "Thu, 26 Nov 2026 18:00:31 GMT",
+      "source": "bbc_sport",
+      "title": "Calvert-Lewin signs new Leeds deal until 2029",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-26T20:25:12Z",
+      "matched_player_ids": [
+        346
+      ],
+      "published_at_raw": "Thu, 26 Nov 2026 18:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Calvert-Lewin signs new Leeds deal",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13616913/dominic-calvert-lewis-leeds-striker-signs-new-deal-until-2029-with-premier-league-club"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-26T11:19:38Z"
+  "updated_at": "2026-11-26T20:25:12Z"
 }
