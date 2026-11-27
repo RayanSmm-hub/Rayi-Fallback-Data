@@ -12,30 +12,12 @@
     },
     {
       "matched_player_ids": [
-        412
+        449
       ],
-      "published_at_raw": "Thu, 26 Nov 2026 14:56:30 GMT",
+      "published_at_raw": "Fri, 27 Nov 2026 13:58:15 GMT",
       "source": "bbc_sport",
-      "title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        411
-      ],
-      "published_at_raw": "Thu, 26 Nov 2026 21:25:06 GMT",
-      "source": "bbc_sport",
-      "title": "Haaland considers Man City exit - Friday's gossip",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        346
-      ],
-      "published_at_raw": "Thu, 26 Nov 2026 18:00:31 GMT",
-      "source": "bbc_sport",
-      "title": "Calvert-Lewin signs new Leeds deal until 2029",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss"
+      "title": "Iordanescu ready for Watford 'challenge'",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -64,6 +46,24 @@
       "source": "bbc_sport",
       "title": "Moyes questions Tarkowski red in Brentford loss",
       "url": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        412
+      ],
+      "published_at_raw": "Thu, 26 Nov 2026 14:56:30 GMT",
+      "source": "bbc_sport",
+      "title": "Lammens - the Man Utd goalkeeper under scrutiny like never before",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn4k7v93gvzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        346
+      ],
+      "published_at_raw": "Thu, 26 Nov 2026 18:00:31 GMT",
+      "source": "bbc_sport",
+      "title": "Calvert-Lewin signs new Leeds deal until 2029",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -103,21 +103,23 @@
     },
     {
       "matched_player_ids": [
-        1
+        10,
+        480
       ],
-      "published_at_raw": "Thu, 26 Nov 2026 14:00:00 GMT",
+      "published_at_raw": "Fri, 27 Nov 2026 21:34:00 GMT",
       "source": "sky_sports",
-      "title": "Arsenal latest: Arteta set to give Raya injury update",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+      "title": "'Advantage restored!' - Gibbs-White puts Forest in command",
+      "url": "https://www.skysports.com/watch/video/13617356/goal-m-gibbs-white-72-nottm-forest-3-1-chelsea"
     },
     {
       "matched_player_ids": [
-        469
+        10,
+        480
       ],
-      "published_at_raw": "Fri, 27 Nov 2026 10:00:00 GMT",
+      "published_at_raw": "Fri, 27 Nov 2026 21:13:00 GMT",
       "source": "sky_sports",
-      "title": "The English Lamine Yamal? Why Williams-Barnett is getting Spurs fans excited",
-      "url": "https://www.skysports.com/football/news/12040/13616313/why-sky-is-the-limit-for-luca-williams-barnett-as-roberto-de-zerbi-makes-lamine-yamal-comparisons"
+      "title": "Gibbs-White penalty doubles Forest lead over Chelsea",
+      "url": "https://www.skysports.com/watch/video/13617349/goal-m-gibbs-white-pen-nottm-forest-2-0-chelsea"
     }
   ],
   "schema_version": 1,
@@ -125,6 +127,6 @@
     "bbc_sport",
     "sky_sports"
   ],
-  "target_event": 12,
-  "updated_at": "2026-11-27T12:57:19Z"
+  "target_event": 13,
+  "updated_at": "2026-11-27T21:52:55Z"
 }

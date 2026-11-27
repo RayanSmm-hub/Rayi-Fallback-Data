@@ -1,108 +1,6 @@
 {
   "events": [
     {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 100,
-          "before": 0
-        },
-        "news": {
-          "after": "",
-          "before": "Hamstring injury - Expected back 25 Oct"
-        },
-        "status": {
-          "after": "a",
-          "before": "i"
-        }
-      },
-      "detected_at": "2026-10-15T17:38:48Z",
-      "player_id": 552,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Brobbey"
-    },
-    {
-      "detected_at": "2026-10-15T17:38:48Z",
-      "matched_player_ids": [
-        423
-      ],
-      "published_at_raw": "Thu, 15 Oct 2026 15:01:26 GMT",
-      "source": "bbc_sport",
-      "title": "Why 6-0, nine-man loss to West Ham 'won't define' Lincoln",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmze4lx10l4lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "detected_at": "2026-10-16T08:48:09Z",
-      "matched_player_ids": [
-        115
-      ],
-      "published_at_raw": "Fri, 16 Oct 2026 07:28:45 GMT",
-      "source": "bbc_sport",
-      "title": "Are De Cuyper and Gross essential? FPL gameweek seven dilemmas",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqy7l51e80p0o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 25,
-          "before": 0
-        },
-        "news": {
-          "after": "Ankle injury - 25% chance of playing",
-          "before": "Ankle injury - Unknown return date"
-        },
-        "status": {
-          "after": "d",
-          "before": "i"
-        }
-      },
-      "detected_at": "2026-10-16T13:47:07Z",
-      "player_id": 367,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Gakpo"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 25,
-          "before": 75
-        },
-        "news": {
-          "after": "Hamstring injury - 25% chance of playing",
-          "before": "Hamstring injury - 75% chance of playing"
-        }
-      },
-      "detected_at": "2026-10-16T13:47:07Z",
-      "player_id": 368,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Szoboszlai"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 25,
-          "before": 0
-        },
-        "news": {
-          "after": "Thigh injury - 25% chance of playing",
-          "before": "Thigh injury - Unknown return date"
-        },
-        "status": {
-          "after": "d",
-          "before": "i"
-        }
-      },
-      "detected_at": "2026-10-16T13:47:07Z",
-      "player_id": 379,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Isak"
-    },
-    {
       "detected_at": "2026-10-16T13:47:07Z",
       "matched_player_ids": [
         1
@@ -6261,8 +6159,94 @@
       "title": "The English Lamine Yamal? Why Williams-Barnett is getting Spurs fans excited",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/football/news/12040/13616313/why-sky-is-the-limit-for-luca-williams-barnett-as-roberto-de-zerbi-makes-lamine-yamal-comparisons"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": 50
+        },
+        "news": {
+          "after": "Shoulder injury - 75% chance of playing",
+          "before": "Shoulder injury - 50% chance of playing"
+        }
+      },
+      "detected_at": "2026-11-27T21:52:55Z",
+      "player_id": 1,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Raya"
+    },
+    {
+      "changes": {
+        "news": {
+          "after": "Knee injury - Expected back 2 Dec",
+          "before": "Knee injury - Unknown return date"
+        }
+      },
+      "detected_at": "2026-11-27T21:52:55Z",
+      "player_id": 397,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Semenyo"
+    },
+    {
+      "changes": {
+        "chance_of_playing_next_round": {
+          "after": 75,
+          "before": null
+        },
+        "news": {
+          "after": "Illness - 75% chance of playing",
+          "before": ""
+        },
+        "status": {
+          "after": "d",
+          "before": "a"
+        }
+      },
+      "detected_at": "2026-11-27T21:52:55Z",
+      "player_id": 426,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "B.Fernandes"
+    },
+    {
+      "detected_at": "2026-11-27T21:52:55Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Fri, 27 Nov 2026 13:58:15 GMT",
+      "source": "bbc_sport",
+      "title": "Iordanescu ready for Watford 'challenge'",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-27T21:52:55Z",
+      "matched_player_ids": [
+        10,
+        480
+      ],
+      "published_at_raw": "Fri, 27 Nov 2026 21:34:00 GMT",
+      "source": "sky_sports",
+      "title": "'Advantage restored!' - Gibbs-White puts Forest in command",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13617356/goal-m-gibbs-white-72-nottm-forest-3-1-chelsea"
+    },
+    {
+      "detected_at": "2026-11-27T21:52:55Z",
+      "matched_player_ids": [
+        10,
+        480
+      ],
+      "published_at_raw": "Fri, 27 Nov 2026 21:13:00 GMT",
+      "source": "sky_sports",
+      "title": "Gibbs-White penalty doubles Forest lead over Chelsea",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13617349/goal-m-gibbs-white-pen-nottm-forest-2-0-chelsea"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-27T12:57:19Z"
+  "updated_at": "2026-11-27T21:52:55Z"
 }
