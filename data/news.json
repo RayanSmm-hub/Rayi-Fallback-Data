@@ -12,6 +12,15 @@
     },
     {
       "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Thu, 26 Nov 2026 21:25:06 GMT",
+      "source": "bbc_sport",
+      "title": "Haaland considers Man City exit - Friday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9zr568gje67o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         346
       ],
       "published_at_raw": "Thu, 26 Nov 2026 18:00:31 GMT",
@@ -21,49 +30,12 @@
     },
     {
       "matched_player_ids": [
-        412
-      ],
-      "published_at_raw": "Wed, 25 Nov 2026 22:32:51 GMT",
-      "source": "bbc_sport",
-      "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        379
-      ],
-      "published_at_raw": "Wed, 25 Nov 2026 22:12:19 GMT",
-      "source": "bbc_sport",
-      "title": "Isak scores twice as clinical Liverpool beat Brugge",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        379
-      ],
-      "published_at_raw": "Wed, 25 Nov 2026 23:38:42 GMT",
-      "source": "bbc_sport",
-      "title": "How Isak and Wirtz are becoming Liverpool's 'big-game players'",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmqx527v3x19o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         379
       ],
       "published_at_raw": "Wed, 25 Nov 2026 23:25:30 GMT",
       "source": "bbc_sport",
       "title": "'All coming together' - Isak repaying Liverpool faith",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqm2l0gelkzxo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        1,
-        399
-      ],
-      "published_at_raw": "Wed, 25 Nov 2026 22:05:49 GMT",
-      "source": "bbc_sport",
-      "title": "Cherki rescues point for Man City against Napoli",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xwygqg9do?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -92,6 +64,24 @@
       "source": "bbc_sport",
       "title": "Moyes questions Tarkowski red in Brentford loss",
       "url": "https://www.bbc.co.uk/sport/football/videos/cq4gnk062y8go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        572
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 23:59:57 GMT",
+      "source": "bbc_sport",
+      "title": "How 'outstanding' Tzolakis kept Brighton at bay",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
+        423
+      ],
+      "published_at_raw": "Sun, 22 Nov 2026 17:54:36 GMT",
+      "source": "bbc_sport",
+      "title": "Spurs deny Man City top spot with statement win",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -127,5 +117,5 @@
     "sky_sports"
   ],
   "target_event": 12,
-  "updated_at": "2026-11-26T20:25:12Z"
+  "updated_at": "2026-11-27T03:06:04Z"
 }
