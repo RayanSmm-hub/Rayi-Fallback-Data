@@ -2,41 +2,6 @@
   "events": [
     {
       "changes": {
-        "now_cost": {
-          "after": 53,
-          "before": 54
-        }
-      },
-      "detected_at": "2026-10-14T23:00:46Z",
-      "player_id": 201,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Muñoz"
-    },
-    {
-      "detected_at": "2026-10-14T23:00:46Z",
-      "matched_player_ids": [
-        12
-      ],
-      "published_at_raw": "Wed, 14 Oct 2026 21:00:36 GMT",
-      "source": "bbc_sport",
-      "title": "Substitutes steal the show as Arsenal score three against Lille",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cm207qv14442o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "detected_at": "2026-10-15T12:46:30Z",
-      "matched_player_ids": [
-        249
-      ],
-      "published_at_raw": "Thu, 15 Oct 2026 11:27:07 GMT",
-      "source": "bbc_sport",
-      "title": "Everton's Barry on the video he was scared to post",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "changes": {
         "chance_of_playing_next_round": {
           "after": 100,
           "before": 0
@@ -6263,8 +6228,41 @@
       "title": "Spurs deny Man City top spot with statement win",
       "type": "trusted_news_match",
       "url": "https://www.bbc.co.uk/sport/football/videos/c9vg2112evvdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-27T12:57:19Z",
+      "matched_player_ids": [
+        411
+      ],
+      "published_at_raw": "Fri, 27 Nov 2026 06:58:33 GMT",
+      "source": "bbc_sport",
+      "title": "Is it time to sell Haaland? - FPL gameweek 12 dilemmas",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjvg2w35rn63o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-27T12:57:19Z",
+      "matched_player_ids": [
+        1
+      ],
+      "published_at_raw": "Thu, 26 Nov 2026 14:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Arsenal latest: Arteta set to give Raya injury update",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/live-blog/12040/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
+    },
+    {
+      "detected_at": "2026-11-27T12:57:19Z",
+      "matched_player_ids": [
+        469
+      ],
+      "published_at_raw": "Fri, 27 Nov 2026 10:00:00 GMT",
+      "source": "sky_sports",
+      "title": "The English Lamine Yamal? Why Williams-Barnett is getting Spurs fans excited",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/news/12040/13616313/why-sky-is-the-limit-for-luca-williams-barnett-as-roberto-de-zerbi-makes-lamine-yamal-comparisons"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-27T03:06:04Z"
+  "updated_at": "2026-11-27T12:57:19Z"
 }
