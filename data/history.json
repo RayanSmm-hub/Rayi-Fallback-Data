@@ -1,168 +1,6 @@
 {
   "events": [
     {
-      "detected_at": "2026-10-16T13:47:07Z",
-      "matched_player_ids": [
-        1
-      ],
-      "published_at_raw": "Tue, 06 Oct 2026 05:00:00 GMT",
-      "source": "bbc_sport",
-      "title": "Matt Damon and Leonardo DiCaprio star in a tense 2006 crime thriller",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032m77?at_mid=mSY9B0KXxo&at_campaign=The_Departed&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m0032m77&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Departed&at_bbc_team=BBC"
-    },
-    {
-      "detected_at": "2026-10-16T13:47:07Z",
-      "matched_player_ids": [
-        423
-      ],
-      "published_at_raw": "Fri, 16 Oct 2026 13:00:00 BST",
-      "source": "sky_sports",
-      "title": "Man Utd latest: Could Shaw and Mainoo return from injury?",
-      "type": "trusted_news_match",
-      "url": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 75,
-          "before": 100
-        },
-        "news": {
-          "after": "Muscular injury - 75% chance of playing",
-          "before": ""
-        },
-        "status": {
-          "after": "d",
-          "before": "a"
-        }
-      },
-      "detected_at": "2026-10-16T17:49:50Z",
-      "player_id": 480,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Gibbs-White"
-    },
-    {
-      "detected_at": "2026-10-16T17:49:50Z",
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Fri, 16 Oct 2026 15:49:55 GMT",
-      "source": "bbc_sport",
-      "title": "Does Scott's Disney+ exit unmask wider issue in coverage of women's game?",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cm3wv4ej7lv2o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "detected_at": "2026-10-16T20:36:36Z",
-      "matched_player_ids": [
-        94
-      ],
-      "published_at_raw": "Fri, 16 Oct 2026 20:16:40 GMT",
-      "source": "bbc_sport",
-      "title": "Bellingham agrees new Real deal - Saturday's gossip",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck7vprzqmr56o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "changes": {
-        "now_cost": {
-          "after": 52,
-          "before": 51
-        }
-      },
-      "detected_at": "2026-10-16T23:17:11Z",
-      "player_id": 115,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "De Cuyper"
-    },
-    {
-      "changes": {
-        "now_cost": {
-          "after": 68,
-          "before": 69
-        }
-      },
-      "detected_at": "2026-10-16T23:17:11Z",
-      "player_id": 368,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Szoboszlai"
-    },
-    {
-      "changes": {
-        "now_cost": {
-          "after": 157,
-          "before": 156
-        }
-      },
-      "detected_at": "2026-10-16T23:17:11Z",
-      "player_id": 411,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Haaland"
-    },
-    {
-      "changes": {
-        "now_cost": {
-          "after": 118,
-          "before": 119
-        }
-      },
-      "detected_at": "2026-10-16T23:17:11Z",
-      "player_id": 426,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "B.Fernandes"
-    },
-    {
-      "changes": {
-        "now_cost": {
-          "after": 78,
-          "before": 79
-        }
-      },
-      "detected_at": "2026-10-16T23:17:11Z",
-      "player_id": 427,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Mbeumo"
-    },
-    {
-      "detected_at": "2026-10-16T23:17:11Z",
-      "matched_player_ids": [
-        423
-      ],
-      "published_at_raw": "Thu, 15 Oct 2026 15:01:26 GMT",
-      "source": "bbc_sport",
-      "title": "Why 6-0, nine-man loss to West Ham 'won't define' Lincoln",
-      "type": "trusted_news_match",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmze4lx10l4lo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 100,
-          "before": 75
-        },
-        "news": {
-          "after": "",
-          "before": "Shoulder injury - 75% chance of playing"
-        },
-        "status": {
-          "after": "a",
-          "before": "d"
-        }
-      },
-      "detected_at": "2026-10-17T13:53:01Z",
-      "player_id": 94,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Schade"
-    },
-    {
       "changes": {
         "chance_of_playing_next_round": {
           "after": 100,
@@ -6245,8 +6083,156 @@
       "title": "Gibbs-White penalty doubles Forest lead over Chelsea",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13617349/goal-m-gibbs-white-pen-nottm-forest-2-0-chelsea"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 60,
+          "before": 61
+        }
+      },
+      "detected_at": "2026-11-28T03:44:33Z",
+      "player_id": 94,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Schade"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 97,
+          "before": 98
+        }
+      },
+      "detected_at": "2026-11-28T03:44:33Z",
+      "player_id": 154,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Palmer"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 75,
+          "before": 76
+        }
+      },
+      "detected_at": "2026-11-28T03:44:33Z",
+      "player_id": 165,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "João Pedro"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 57,
+          "before": 58
+        }
+      },
+      "detected_at": "2026-11-28T03:44:33Z",
+      "player_id": 569,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Gonzalo"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 61,
+          "before": 60
+        }
+      },
+      "detected_at": "2026-11-28T03:44:33Z",
+      "player_id": 346,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Calvert-Lewin"
+    },
+    {
+      "changes": {
+        "now_cost": {
+          "after": 51,
+          "before": 52
+        }
+      },
+      "detected_at": "2026-11-28T03:44:33Z",
+      "player_id": 449,
+      "source": "official_fpl",
+      "type": "player_state_change",
+      "web_name": "Hall"
+    },
+    {
+      "detected_at": "2026-11-28T03:44:33Z",
+      "matched_player_ids": [
+        10,
+        480
+      ],
+      "published_at_raw": "Fri, 27 Nov 2026 22:30:22 GMT",
+      "source": "bbc_sport",
+      "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-28T03:44:33Z",
+      "matched_player_ids": [
+        10,
+        480
+      ],
+      "published_at_raw": "Fri, 27 Nov 2026 21:59:48 GMT",
+      "source": "bbc_sport",
+      "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-28T03:44:33Z",
+      "matched_player_ids": [
+        306
+      ],
+      "published_at_raw": "Fri, 27 Nov 2026 21:50:01 GMT",
+      "source": "bbc_sport",
+      "title": "Celtic defend head of security amid Green Brigade row",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck1ewjw1qqn7o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-28T03:44:33Z",
+      "matched_player_ids": [
+        106
+      ],
+      "published_at_raw": "Fri, 27 Nov 2026 22:47:57 GMT",
+      "source": "bbc_sport",
+      "title": "Glasner praises 'smart' Igor Jesus after Chelsea win",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ck7v2lpe2rpgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-28T03:44:33Z",
+      "matched_player_ids": [
+        10,
+        480
+      ],
+      "published_at_raw": "Fri, 27 Nov 2026 21:45:00 GMT",
+      "source": "sky_sports",
+      "title": "Forest beat Chelsea to heap pressure on Alonso as Fofana is booed",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/report/559562"
+    },
+    {
+      "detected_at": "2026-11-28T03:44:33Z",
+      "matched_player_ids": [
+        10,
+        480
+      ],
+      "published_at_raw": "Fri, 27 Nov 2026 22:08:00 GMT",
+      "source": "sky_sports",
+      "title": "Chelsea woes continue as Gibbs-White fires Forest to victory",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/watch/video/13617372/nottingham-forest-3-2-chelsea-premier-league-highlights"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-27T21:52:55Z"
+  "updated_at": "2026-11-28T03:44:33Z"
 }
