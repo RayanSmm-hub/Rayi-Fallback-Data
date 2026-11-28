@@ -3,6 +3,15 @@
   "items": [
     {
       "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Sat, 28 Nov 2026 11:53:00 GMT",
+      "source": "bbc_sport",
+      "title": "Will 2024 version of Palmer ever re-emerge for Chelsea?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9yj44190o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "matched_player_ids": [
         10,
         480
       ],
@@ -10,16 +19,6 @@
       "source": "bbc_sport",
       "title": "Gibbs-White scores twice as Forest beat struggling Chelsea",
       "url": "https://www.bbc.co.uk/sport/football/videos/cm5y10n8e737o?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        10,
-        480
-      ],
-      "published_at_raw": "Fri, 27 Nov 2026 21:59:48 GMT",
-      "source": "bbc_sport",
-      "title": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cmwy85xxjgxvo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -50,24 +49,6 @@
     },
     {
       "matched_player_ids": [
-        98
-      ],
-      "published_at_raw": "Mon, 23 Nov 2026 22:31:27 GMT",
-      "source": "bbc_sport",
-      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
-      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
-        449
-      ],
-      "published_at_raw": "Fri, 27 Nov 2026 13:58:15 GMT",
-      "source": "bbc_sport",
-      "title": "Iordanescu ready for Watford 'challenge'",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cw7726543kyzo?at_medium=RSS&at_campaign=rss"
-    },
-    {
-      "matched_player_ids": [
         412
       ],
       "published_at_raw": "Thu, 26 Nov 2026 14:56:30 GMT",
@@ -77,12 +58,12 @@
     },
     {
       "matched_player_ids": [
-        346
+        98
       ],
-      "published_at_raw": "Thu, 26 Nov 2026 18:00:31 GMT",
+      "published_at_raw": "Mon, 23 Nov 2026 22:31:27 GMT",
       "source": "bbc_sport",
-      "title": "Calvert-Lewin signs new Leeds deal until 2029",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx62pnz1evv4o?at_medium=RSS&at_campaign=rss"
+      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss"
     },
     {
       "matched_player_ids": [
@@ -105,6 +86,24 @@
     },
     {
       "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sat, 28 Nov 2026 09:44:00 GMT",
+      "source": "sky_sports",
+      "title": "Wakefield to take on Sydney Roosters in World Club Challenge",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13617427/world-club-challenge-wakefield-to-take-on-sydney-roosters-at-headingley-on-february-19-in-england-vs-australia-clash"
+    },
+    {
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Sat, 28 Nov 2026 07:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Dawson: Rashid is still England's No 1 white-ball spinner",
+      "url": "https://www.skysports.com/cricket/news/12040/13617401/england-t20s-in-australia-liam-dawson-says-adil-rashid-still-no-1-spinner-as-tourists-target-series-victory-in-sydney"
+    },
+    {
+      "matched_player_ids": [
         10,
         480
       ],
@@ -112,16 +111,6 @@
       "source": "sky_sports",
       "title": "Forest beat Chelsea to heap pressure on Alonso as Fofana is booed",
       "url": "https://www.skysports.com/football/nottingham-forest-vs-chelsea/report/559562"
-    },
-    {
-      "matched_player_ids": [
-        10,
-        480
-      ],
-      "published_at_raw": "Fri, 27 Nov 2026 22:08:00 GMT",
-      "source": "sky_sports",
-      "title": "Chelsea woes continue as Gibbs-White fires Forest to victory",
-      "url": "https://www.skysports.com/watch/video/13617372/nottingham-forest-3-2-chelsea-premier-league-highlights"
     }
   ],
   "schema_version": 1,
@@ -130,5 +119,5 @@
     "sky_sports"
   ],
   "target_event": 13,
-  "updated_at": "2026-11-28T03:44:33Z"
+  "updated_at": "2026-11-28T12:45:14Z"
 }

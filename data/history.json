@@ -1,69 +1,6 @@
 {
   "events": [
     {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 100,
-          "before": 25
-        },
-        "news": {
-          "after": "",
-          "before": "Ankle injury - 25% chance of playing"
-        },
-        "status": {
-          "after": "a",
-          "before": "d"
-        }
-      },
-      "detected_at": "2026-10-17T13:53:01Z",
-      "player_id": 367,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Gakpo"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 100,
-          "before": 25
-        },
-        "news": {
-          "after": "",
-          "before": "Hamstring injury - 25% chance of playing"
-        },
-        "status": {
-          "after": "a",
-          "before": "d"
-        }
-      },
-      "detected_at": "2026-10-17T13:53:01Z",
-      "player_id": 368,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Szoboszlai"
-    },
-    {
-      "changes": {
-        "chance_of_playing_next_round": {
-          "after": 100,
-          "before": 25
-        },
-        "news": {
-          "after": "",
-          "before": "Thigh injury - 25% chance of playing"
-        },
-        "status": {
-          "after": "a",
-          "before": "d"
-        }
-      },
-      "detected_at": "2026-10-17T13:53:01Z",
-      "player_id": 379,
-      "source": "official_fpl",
-      "type": "player_state_change",
-      "web_name": "Isak"
-    },
-    {
       "detected_at": "2026-10-17T13:53:01Z",
       "matched_player_ids": [
         368,
@@ -6231,8 +6168,41 @@
       "title": "Chelsea woes continue as Gibbs-White fires Forest to victory",
       "type": "trusted_news_match",
       "url": "https://www.skysports.com/watch/video/13617372/nottingham-forest-3-2-chelsea-premier-league-highlights"
+    },
+    {
+      "detected_at": "2026-11-28T12:45:14Z",
+      "matched_player_ids": [
+        154
+      ],
+      "published_at_raw": "Sat, 28 Nov 2026 11:53:00 GMT",
+      "source": "bbc_sport",
+      "title": "Will 2024 version of Palmer ever re-emerge for Chelsea?",
+      "type": "trusted_news_match",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cwzd9yj44190o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "detected_at": "2026-11-28T12:45:14Z",
+      "matched_player_ids": [
+        449
+      ],
+      "published_at_raw": "Sat, 28 Nov 2026 09:44:00 GMT",
+      "source": "sky_sports",
+      "title": "Wakefield to take on Sydney Roosters in World Club Challenge",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/rugby-league/news/12040/13617427/world-club-challenge-wakefield-to-take-on-sydney-roosters-at-headingley-on-february-19-in-england-vs-australia-clash"
+    },
+    {
+      "detected_at": "2026-11-28T12:45:14Z",
+      "matched_player_ids": [
+        10
+      ],
+      "published_at_raw": "Sat, 28 Nov 2026 07:00:00 GMT",
+      "source": "sky_sports",
+      "title": "Dawson: Rashid is still England's No 1 white-ball spinner",
+      "type": "trusted_news_match",
+      "url": "https://www.skysports.com/cricket/news/12040/13617401/england-t20s-in-australia-liam-dawson-says-adil-rashid-still-no-1-spinner-as-tourists-target-series-victory-in-sydney"
     }
   ],
   "schema_version": 1,
-  "updated_at": "2026-11-28T03:44:33Z"
+  "updated_at": "2026-11-28T12:45:14Z"
 }
